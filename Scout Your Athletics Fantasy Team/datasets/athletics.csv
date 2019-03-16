@@ -1,0 +1,2099 @@
+Event,Male_Female,EventID,Athlete,Flight1,Flight2,Flight3,Flight4,Flight5,Flight6
+Shot Put,Male,1,Ryan Whiting,21.29,21,0,0,21.8,21.53
+Shot Put,Male,1,Cory Martin,20.85,0,0,0,20.61,20.93
+Shot Put,Male,1,Kurt Roberts,20.89,19.63,0,0,0,20.55
+Shot Put,Male,1,Derrick Vicars,19.36,0,0,0,19.19,19.83
+Shot Put,Male,1,Jacob Thormaehlen,18.35,18.92,0,19.1,0,19.52
+Shot Put,Male,1,Rob Golabek,18.49,18.34,18.62,18.4,19.2,18.72
+Shot Put,Male,1,Curtis Jensen,0,18.72,17.97,18.68,18.57,18.58
+Shot Put,Male,1,Bobby Grace,17.89,18.65,0,0,18.64,0
+Shot Put,Female,2,Michelle Carter,18.54,19.01,18.07,18.85,18.57,19.41
+Shot Put,Female,2,Jeneva McCall-Stevens,0,16.02,16.75,16.89,17.28,17.97
+Shot Put,Female,2,Tina Hillman,16.74,16.72,16.63,17.53,17.52,17.62
+Shot Put,Female,2,Ashley Muffet-Duncan,15.25,0,15.42,0,16.03,16.15
+Shot Put,Female,2,Brittany Cox,15.52,0,0,15.86,0,15.76
+Shot Put,Female,2,Nia Henderson,15.66,0,0,15.79,15.41,15.35
+Shot Put,Female,2,Hayli Bozarth,15.26,15.72,0,15.39,15.4,15.62
+Shot Put,Female,2,Atasha Warren,14.22,0,15.11,15.26,15.27,15.05
+Weight,Male,3,Thomas Freeman,23.11,0,23.2,23.51,23.02,0
+Weight,Male,3,Colin Dunbar,21.87,0,0,21.27,22.2,22.2
+Weight,Male,3,Joe Frye,21.56,21.2,20.64,20.03,21.36,21.2
+Weight,Male,3,Brandon Pounds,19.73,19.14,20.9,0,0,21.38
+Weight,Male,3,Michael Lihrman,18.82,20.87,20.62,20.66,0,20.37
+Weight,Male,3,Paul Wagner,18.87,19.27,20.46,20.35,19.72,20.27
+Weight,Male,3,Kevin Mays,19.62,0,20.31,0,20.41,0
+Weight,Female,4,Gwen Berry,24.42,24.7,23.78,23.96,22.8,23.78
+Weight,Female,4,Amber Campbell,22.2,0,23.06,23.68,23.58,0
+Weight,Female,4,Jeneva McCall-Stevens,21.38,0,22.21,0,22.39,22.62
+Weight,Female,4,Felisha Johnson,22.04,0,0,21.55,22.27,0
+Weight,Female,4,Britney Henry,0,0,20.71,0,20.63,0
+Weight,Female,4,Amanda Bingson,0,19.53,0,20.36,0,0
+Weight,Female,4,Brittany Cox,18.37,0,19.22,19.47,19.53,0
+Shot Put,Male,5,Reese Hoffa,0,21.22,21.25,21.34,0,0
+Shot Put,Male,5,Zack Lloyd,19.38,20.8,0,20.69,20.59,21.09
+Shot Put,Male,5,Cory Martin,19.63,20.67,0,19.77,0,0
+Shot Put,Male,5,Paul Davis,19.53,19.91,19.56,0,19.49,0
+Shot Put,Male,5,Joe Kovacs,0,19.58,19.67,0,0,19.84
+Shot Put,Male,5,Ryan Crouser,19.16,0,0,0,0,19.52
+Shot Put,Male,5,Russ Winger,19.35,0,0,0,18.74,19.23
+Shot Put,Female,6,Michelle Carter,19.13,19.31,18.88,18.73,20.24,0
+Shot Put,Female,6,Tia Brooks,17.78,17.71,0,17.98,18.83,17.88
+Shot Put,Female,6,Alyssa Hasslen,17.73,0,17.1,17.36,18.1,0
+Shot Put,Female,6,Jeneva McCall-Stevens,17.48,16.06,0,0,16.18,0
+Shot Put,Female,6,Felisha Johnson,0,0,17.19,16.66,0,15.91
+Shot Put,Female,6,Danielle Frere,15.95,16.08,16.76,16.52,15.63,0
+Shot Put,Female,6,Becky O'Brien,15.72,16.61,15.6,15.01,15.35,15.41
+Javelin,Male,7,Riley Dolezal,74.87,76.1,76.93,83.5,0,0
+Javelin,Male,7,Sam Humphreys,81.82,0,71.96,83.14,79.21,78.64
+Javelin,Male,7,Sean Furey,74.32,75.04,75.4,72.19,75.31,77.36
+Javelin,Male,7,Barry Krammes,77.36,71.6,72.26,69.28,69,69.95
+Javelin,Male,7,Tim Glover,75.96,72.52,75.97,72.94,0,0
+Javelin,Male,7,Matthew Byers,73.69,69.58,68.87,68.44,68.61,67.22
+Javelin,Male,7,Craig Kinsley,73.39,70.93,69.43,67.32,72.19,0
+Javelin,Female,8,Brittany Borman,54.02,51.21,57.31,52.57,56.97,60.91
+Javelin,Female,8,Ariana Ince,48.97,54.85,53.58,55.13,55.27,56.66
+Javelin,Female,8,Kara Patterson,50.14,52.1,0,50.82,55.88,54.62
+Javelin,Female,8,Kimberley Hamilton,47.96,0,50.93,54.13,55.15,53.34
+Javelin,Female,8,Laura Loht,44.4,53.78,50.56,54.15,0,49.02
+Javelin,Female,8,Brianna Bain,49.31,0,51.32,0,48.64,53.05
+Javelin,Female,8,Paige Blackburn,52.97,50.96,0,0,48.8,0
+Javelin,Female,8,Heather Bergmann,44.39,46.09,50.03,49.44,48.04,45.44
+Discus,Male,9,Lance Brooks,0,57.63,62.29,0,56.29,61.9
+Discus,Male,9,Russ Winger,60.64,62.03,60.53,61.25,0,56.81
+Discus,Male,9,James Plummer,0,52.5,59.33,61.05,61.96,0
+Discus,Male,9,Casey Malone,58.75,60.94,59.72,0,0,57.54
+Discus,Male,9,Chase Madison,59.02,58.88,59.69,0,60.03,0
+Discus,Male,9,Jarred Rome,59.71,59.91,59.26,58.47,0,0
+Discus,Male,9,Rodney Brown,59.46,0,55.33,58.51,58.99,0
+Discus,Male,9,Mike Torie,57.87,0,56.74,58.28,57.94,0
+Discus,Female,10,Gia Lewis-Smallwood,65.13,60.77,60.43,0,59.95,0
+Discus,Female,10,Whitney Ashley,0,58.91,61.07,60.35,60.13,61.19
+Discus,Female,10,Beth Rohl,58.3,56.48,57.53,59.66,58.78,55.07
+Discus,Female,10,Samantha Lockhart,58.74,56.06,58.03,0,0,57.83
+Discus,Female,10,Aretha Thurmond,55.17,0,0,56.46,54.49,58.19
+Discus,Female,10,Jessica Maroszek,58.01,0,0,0,0,54.31
+Discus,Female,10,Rachel Longfors,56.43,0,54.45,0,0,56.05
+Hammer,Male,11,AG Kruger,72.06,0,75.52,0,73.63,0
+Hammer,Male,11,Chris Cralle,74.55,74.47,73.68,73.39,73.82,67.82
+Hammer,Male,11,Andrew Loftin,0,73.32,70.31,68.36,72.93,73.63
+Hammer,Male,11,Jake Freeman,71.68,0,71.37,71.48,0,0
+Hammer,Male,11,Colin Dunbar,64.28,67.99,67.94,0,68.02,68.6
+Hammer,Male,11,Justin Welch,0,66.26,67.5,66.82,66.77,67.18
+Hammer,Male,11,Jeremy Postin,66.76,65.93,0,65.48,67.23,0
+Hammer,Female,12,Amanda Bingson,72.58,74.92,75.73,72.41,0,0
+Hammer,Female,12,Amber Campbell,0,69.02,70.17,72.28,73.03,71.71
+Hammer,Female,12,Jessica Cosby Toruga,66.45,72.47,70.08,71.09,0,72.58
+Hammer,Female,12,Britney Henry,0,68.81,0,69.57,0,65.94
+Hammer,Female,12,Chelsea Cassulo,67.52,0,68.25,0,67.47,0
+Hammer,Female,12,Ashley Harbin,65.31,0,67.75,0,67.44,68.18
+Hammer,Female,12,Kristin Smith,64.69,66.94,64.78,63.68,66.96,64.63
+Shot Put,Male,13,Ryan Whiting,19.9,21.33,20.72,0,22.23,20.71
+Shot Put,Male,13,Kurt Roberts,0,20.57,21.5,20.97,0,0
+Shot Put,Male,13,Joe Kovacs,19.11,20.62,20.44,21.09,21.46,0
+Shot Put,Male,13,Cory Martin,19.32,19.91,19.92,19.85,0,20.27
+Shot Put,Male,13,Jordan Clarke,18.78,19.37,0,20.61,20.78,0
+Shot Put,Male,13,Eric Werskey,19.8,0,19.66,19.42,0,19.64
+Shot Put,Male,13,Zack Lloyd,19.36,19.2,19.48,0,0,19.78
+Shot Put,Male,13,Nick Baatz,19.14,19.3,0,18.4,0,0
+Shot Put,Female,14,Michelle Carter,18.12,0,0,0,0,18.45
+Shot Put,Female,14,Jeneva McCall-Stevens,18.22,17.19,18.28,16.81,17.98,0
+Shot Put,Female,14,Felisha Johnson,0,17.59,0,0,0,17.94
+Shot Put,Female,14,Brittany Smith,17.06,16.82,17.7,16.82,0,17.4
+Shot Put,Female,14,Tia Brooks,0,0,16.7,17.62,0,0
+Shot Put,Female,14,Tina Hillman,17.41,17.18,17,17.13,0,0
+Shot Put,Female,14,Becky O'Brien,16.89,17.36,17,17.13,0,0
+Shot Put,Female,14,Whitney Ashley,17.17,16.67,16.78,0,16.51,16.32
+Weight,Male,15,AG Kruger,22.93,23.39,23.18,23.23,23.7,0
+Weight,Male,15,James Lambert,21.24,22.29,22.87,0,23.05,22.89
+Weight,Male,15,Jake Freeman,0,20.82,0,22.8,0,22.43
+Weight,Male,15,Andy Fryman,21.15,21.01,22.15,21.5,21.7,22
+Weight,Male,15,Joe Frye,21.82,22.12,20.61,21.01,20.96,20.78
+Weight,Male,15,Justin Welch,20.22,21.2,21.11,0,0,21.77
+Weight,Male,15,Alex Kizirian,0,19.95,18.7,20.04,20.54,20.2
+Weight,Male,15,Paul Wagner,19.23,20.42,19.77,19.8,20.23,19.81
+Weight,Female,16,Gwen Berry,0,23.82,0,22.97,23.33,0
+Weight,Female,16,Amber Campbell,23.18,22.01,23.48,23.04,23.68,23.2
+Weight,Female,16,Jeneva McCall-Stevens,23.16,21.51,22.88,22.49,22.58,23.15
+Weight,Female,16,Felisha Johnson,0,22.6,0,22.17,21.87,0
+Weight,Female,16,Amanda Bingson,19.9,22.42,20.56,0,0,22.15
+Weight,Female,16,Chelsea Cassulo,20.9,21.77,21.38,0,21.78,21.96
+Weight,Female,16,Brittany Cox,18.29,17.65,18.07,0,19.32,19.02
+Weight,Female,16,Lisa Wilson,17.61,18.6,0,18.32,17.63,0
+Shot Put,Male,17,Joe Kovacs,20.38,20.59,20.49,20.75,22.03,21.17
+Shot Put,Male,17,Kurt Roberts,20.56,21.03,21.47,20.27,20.82,21.34
+Shot Put,Male,17,Reese Hoffa,20.61,20.73,20.77,20.78,0,0
+Shot Put,Male,17,Jon Jones,19.12,20.31,20.75,0,19.3,0
+Shot Put,Male,17,Richard Garrett,20.05,20.23,20.35,0,19.33,19.53
+Shot Put,Male,17,Nick Vena,19.69,19.68,0,0,19.94,20.06
+Shot Put,Male,17,Cory Martin,0,0,19.67,19.89,19.9,0
+Shot Put,Female,18,Michelle Carter,18.58,19.12,18.63,19.45,18.8,0
+Shot Put,Female,18,Felisha Johnson,17.02,16.85,18.38,18.63,0,19.18
+Shot Put,Female,18,Tia Brooks,18.02,18.05,0,17.74,18.83,18.26
+Shot Put,Female,18,Kelsey Card,16.47,17.77,17.32,17.36,17.21,0
+Shot Put,Female,18,Tina Hillman,17.32,17.34,0,16.73,17.32,17.41
+Shot Put,Female,18,Brittany Smith,17.26,17.26,0,17.04,17.23,0
+Shot Put,Female,18,Jillian Rushin,16.08,16.52,16.35,0,16.54,16.55
+Javelin,Male,19,Sean Furey,75.77,0,76.79,74.35,81.1,0
+Javelin,Male,19,Riley Dolezal,79.27,0,75.74,0,77.56,0
+Javelin,Male,19,Tim Glover,75.45,78.87,74.02,0,76.46,0
+Javelin,Male,19,Sam Humphreys,75.81,76.99,76.2,74.99,77.99,76.34
+Javelin,Male,19,Craig Kinsley,77.26,74.81,77.08,0,74.98,74.52
+Javelin,Male,19,Barry Krammes,72.9,74.05,75.51,72.28,0,71.31
+Javelin,Male,19,Ryan Young,67.45,74.73,0,64.74,0,0
+Javelin,Male,19,Benjamin Woodruff,71.79,64.31,63.27,0,69.3,0
+Javelin,Female,20,Kara Patterson,56.67,59.79,62.42,59.42,60.16,62.28
+Javelin,Female,20,Brittany Borman,58,56.99,62.05,0,0,60.52
+Javelin,Female,20,Leigh Petranoff,52.45,56.07,0,57.8,55.59,0
+Javelin,Female,20,Kimberley Hamilton,56.09,55.96,55.94,57.59,57.56,53.46
+Javelin,Female,20,Elizabeth Herrs,57.21,52.16,51.66,53.65,0,50.91
+Javelin,Female,20,Fawn Miller,56.45,56.91,56.65,57.18,0,0
+Javelin,Female,20,Hannah Carson,49.09,51.4,55.19,56.43,0,0
+Javelin,Female,20,Karlee McQuillen,55.18,0,53.54,0,51.99,0
+Discus,Male,21,Hayden Reed,0,62.19,60.6,61.33,0,0
+Discus,Male,21,Bryan Powlen,61.05,58.9,0,56.41,58.37,0
+Discus,Male,21,Mason Finley,0,61.04,59.9,0,58.78,0
+Discus,Male,21,Russ Winger,60.83,58.4,0,57.09,0,56.91
+Discus,Male,21,Jason Young,59.36,60.52,0,0,0,60.46
+Discus,Male,21,Jared Schuurmans,59.76,57.51,58.75,59.6,60.02,60.28
+Discus,Male,21,Andrew Evans,55.67,56.68,59.61,56.98,0,0
+Discus,Female,22,Gia Lewis-Smallwood,58.24,61.55,65.96,65.42,0,64.19
+Discus,Female,22,Liz Podominick,57.94,0,0,0,59.96,59.76
+Discus,Female,22,Stephanie Brown Trafton,0,56.46,57.61,56.53,58.84,57.5
+Discus,Female,22,Whitney Ashley,58.68,57.34,0,58.36,0,0
+Discus,Female,22,Kelsey Card,0,0,57.31,0,54.11,58.41
+Discus,Female,22,Summer Pierson,55.71,54.53,56.73,0,56.63,57.6
+Discus,Female,22,Jaleesa Williams,0,0,56.3,57.32,0,56.99
+Hammer,Male,23,Kibwe Johnson,0,74.16,74.02,0,71.4,72.08
+Hammer,Male,23,AG Kruger,72.72,73.34,0,70.61,0,0
+Hammer,Male,23,Chris Cralle,0,72.83,71.8,71.49,0,72.49
+Hammer,Male,23,Andy Fryman,69.61,0,61.37,69.66,72.51,72.37
+Hammer,Male,23,Matthias Tayala,69.51,0,67.96,0,70.21,69.07
+Hammer,Male,23,Justin Welch,69.19,69.29,0,68.92,70.05,69.77
+Hammer,Male,23,Greg Skipper,68.48,0,67.58,69.38,69.28,68.25
+Hammer,Female,24,Amanda Bingson,74.41,75.07,0,70.83,73.64,0
+Hammer,Female,24,Jessica Cosby Toruga,70.87,0,70.52,71.72,0,0
+Hammer,Female,24,Amber Campbell,68.57,67.51,69.78,0,0,71.35
+Hammer,Female,24,Brittany Smith,66.29,69.31,69.15,68.88,67.38,69.28
+Hammer,Female,24,Britney Henry,60.31,0,68.93,66.61,66.47,0
+Hammer,Female,24,Jeneva McCall-Stevens,66.03,67.31,67.18,68.78,65.71,68.41
+Hammer,Female,24,Gwen Berry,66.6,68.66,68.74,63.68,65.58,0
+Hammer,Female,24,Kristin Smith,0,67.23,66.89,0,68.4,65.79
+Shot Put,Male,25,Christian Cantwell,20.11,20.41,20.27,0,0,20.3
+Shot Put,Male,25,Bobby Grace,19.14,0,19.19,18.76,0,18.93
+Shot Put,Male,25,Nate Hunter,19.07,0,18.9,18.66,0,0
+Shot Put,Male,25,Darien Moore,0,17.22,17.93,18.65,0,18.38
+Shot Put,Male,25,William Pless,18.53,18.56,18.62,0,18.12,0
+Shot Put,Male,25,Matt DeChant,0,17.85,18.19,17.84,17.8,18.51
+Shot Put,Male,25,Nick Baatz,0,0,18.4,0,18.44,0
+Shot Put,Female,26,Michelle Carter,17.93,19.32,18.65,19.39,18.99,19.45
+Shot Put,Female,26,Becky O'Brien,16.5,17.01,17.6,18.34,17.01,18.31
+Shot Put,Female,26,Jeneva McCall-Stevens,16.81,17.49,17.28,18.04,17.42,0
+Shot Put,Female,26,Felisha Johnson,17.33,17.41,17.39,0,17.66,17.42
+Shot Put,Female,26,Monique Riddick,16.1,16.95,16.11,0,17.15,16.47
+Shot Put,Female,26,Dani Bunch,17.11,0,16.8,16.66,16.81,16.76
+Shot Put,Female,26,Nia Henderson,16.28,15.75,16.48,0,0,15.89
+Weight,Male,27,AG Kruger,0,21.39,0,22.57,22.27,23.41
+Weight,Male,27,James Lambert,21.82,0,23.35,22.97,22.91,23.22
+Weight,Male,27,Andy Fryman,21.54,22.14,21.88,22.02,22.43,22.74
+Weight,Male,27,Kibwe Johnson,21.87,21.9,21.95,0,0,22.54
+Weight,Male,27,Colin Dunbar,21.76,0,0,0,20.79,0
+Weight,Male,27,Joe Frye,21.4,21.3,0,20.93,21.63,0
+Weight,Male,27,Tom Postema,20.84,21.56,0,20.43,20.8,20.73
+Weight,Male,27,Darien Moore,19.42,20.93,19.98,0,20.74,0
+Weight,Female,28,Felisha Johnson,0,21.91,23.45,23.43,0,0
+Weight,Female,28,Jeneva McCall-Stevens,21.64,23.06,22.63,23.4,23.43,23.23
+Weight,Female,28,Amber Campbell,22.48,0,0,21.6,0,0
+Weight,Female,28,Amanda Bingson,21.33,21.75,21.85,21.9,0,22.3
+Weight,Female,28,Dani Bunch,19.72,19.61,19.8,0,20.15,0
+Weight,Female,28,Briana Cherry-Bronson,19.18,0,19.74,19.56,19.31,19.1
+Weight,Female,28,Brittany Cox,19.5,0,0,19.71,0,19.47
+Hammer,Female,254,Amber Campbell,68.1,0,69.56,71.57,70.63,0
+Hammer,Female,254,Jessica Cosby Toruga,69.73,67.48,0,69.15,71.29,0
+Hammer,Female,254,Sophie Hitchon,68.33,69.48,68.7,69.5,70.47,69.88
+Hammer,Female,254,Britney Henry,66.44,69.01,70.04,0,69.43,0
+Hammer,Female,254,Keelin Godsey,69.39,66.03,68.51,0,66.38,64.45
+Hammer,Female,254,Brittany Riley,66.78,68.16,0,66.6,0,68.3
+Hammer,Female,254,Aubrey Baxter,66.47,64.16,67.96,67.62,66.34,0
+Hammer,Female,254,Eva Orban,66.08,65.39,0,0,0,66.73
+Hammer,Female,254,Amy Haapanen,66.23,66.5,0,0,64.12,64.53
+Shot Put,Female,216,Michelle Carter,19.2,19.19,0,18.27,0,18.48
+Shot Put,Female,216,Tina Hillman,16.44,0,17.4,0,0,16.38
+Shot Put,Female,216,Alyssa Hasslen,16.4,0,16.59,17.22,0,17.16
+Shot Put,Female,216,Julie Labonte,17.03,16.81,16.83,0,16.65,16.93
+Shot Put,Female,216,Baillie Gibson,16.8,16.28,0,16.87,0,16.12
+Shot Put,Female,216,Danielle Frere,15.98,0,16.46,0,16.2,0
+Shot Put,Female,216,Omotayo Talabi,15.86,0,0,0,16.2,0
+Shot Put,Female,216,Cassie Werman,15.33,16.04,0,0,15.51,15.35
+Shot Put,Female,216,Taryn Suttie,15.13,0,15.04,15.59,15.51,15.74
+Javelin,Male,217,Corey White,71.84,73.85,73.06,71.25,73.77,72.12
+Javelin,Male,217,Curtis Moss,70.66,72.04,73.11,72.05,73.6,73.51
+Javelin,Male,217,Riley Dolezal,64.05,70.72,73.25,68.51,71.02,70.5
+Javelin,Male,217,Juan Jose Mendez Blasco,70.35,0,69.83,0,58.47,69.25
+Javelin,Male,217,Benjamin Woodruff,66.94,67.58,67.15,0,69.49,70.03
+Javelin,Female,218,Brittany Borman,56.68,52.09,0,53.31,0,56.58
+Javelin,Female,218,Leigh Petranoff,0,0,52.25,48.42,51.16,53.17
+Javelin,Female,218,Kimberley Hamilton,52.55,49.07,0,49.61,0,48.72
+Javelin,Female,218,Hannah Carson,0,45.36,46.81,51.76,48.42,0
+Javelin,Female,218,McKell Camp-Nielson,45.22,47.02,44.51,45.74,42.77,42.53
+Javelin,Female,218,Diana Sammai Martinez,42.39,40.14,42.53,44.83,45.84,46.27
+Hammer,Female,219,Sultana Frizell,70.87,71.29,0,71.04,71.57,0
+Hammer,Female,219,Sophie Hitchon,68.32,69.13,68.97,69.54,69.25,68.67
+Hammer,Female,219,Jessica Cosby Toruga,68.83,68.31,68.96,67.47,67.41,65.3
+Hammer,Female,219,Ida Storm,59.39,49.65,0,0,68.05,0
+Hammer,Female,219,Sarah Holt,65.44,65.28,6.47,65.37,65.28,0
+Hammer,Female,219,Brooke Pleger,64.48,63.24,65.06,63.23,62.85,65.06
+Hammer,Female,219,Ashley Harbin,58.41,0,0,57.35,0,63.07
+Hammer,Female,219,Taylor Bush,58.82,62.34,0,0,62.57,60.94
+Hammer,Female,219,Marissa Minderler,56.34,0,0,59.8,58.28,60.04
+Hammer,Female,219,Jade Grace,55.27,54.35,55.15,56.23,57.73,56.9
+Hammer,Male,220,Andrew Loftin,73.59,74.63,73.27,71.64,72.4,72.39
+Hammer,Male,220,Mark Dry,72.85,73.49,73.98,0,73,74.46
+Hammer,Male,220,Libor Charfreitag,73.06,0,73.12,73.63,72.55,71.27
+Hammer,Male,220,Nick Miller,63.04,70.19,67.47,70.2,68.97,0
+Hammer,Male,220,Colin Dunbar,66.48,68.9,68.84,0,68.42,69.15
+Hammer,Male,220,Alec Faldermeyer,66.98,68.62,68.59,67.72,0,67.66
+Hammer,Male,220,Remy Conatser,63.94,64.52,61.65,0,64,65.65
+Hammer,Male,220,Ethan Dennis,64.7,0,60.49,61.15,0,0
+Hammer,Male,220,Bryce Buffalo,59.51,57.73,61.69,63.54,62.82,60.95
+Hammer,Male,220,Taylor Berliant,61.84,0,61.8,0,0,62
+Hammer,Male,220,Alex Umstead,58.71,0,61.7,0,59.95,0
+Hammer,Male,220,Tyler Johnson,0,56.24,0,61.53,60.27,60.65
+Hammer,Male,220,Jordan Arakawa,0,0,57.95,59.74,57.87,58.88
+Javelin,Male,211,Riley Dolezal,78.62,75.77,0,0,75.58,75.39
+Javelin,Male,211,Sean Furey,0,0,77.08,0,70.24,75.98
+Javelin,Male,211,Craig Kinsley,69.65,72.52,71.33,71.73,68,60.14
+Javelin,Male,211,Cyrus Hostetler,70.31,0,70.22,71.53,0,68.58
+Javelin,Male,211,Juan Jose Mendez Blasco,0,64.57,69.83,70.82,68.43,67.43
+Javelin,Male,211,Nicholas Howe,69.39,62.25,65.09,0,63.28,61.95
+Javelin,Male,211,Kyle Nielsen,68.12,0,0,68.35,0,67.07
+Javelin,Male,211,Brent Lagace,0,64.76,0,66.58,67.22,64.84
+Javelin,Male,211,Kyle Quinn,65.93,0,0,66.23,63.89,0
+Shot Put,Female,212,Felisha Johnson,16.13,17.52,17.57,0,16.96,0
+Shot Put,Female,212,Alyssa Hasslen,16.37,16.43,16.23,0,16.94,17.15
+Shot Put,Female,212,Brittany Smith,16.17,16.47,16.15,0,0,16.75
+Shot Put,Female,212,Becky O'Brien,15.13,14.79,15.33,15.76,16.15,0
+Shot Put,Female,212,Kayla Kovar,0,15.44,15.76,0,0,15.86
+Shot Put,Female,212,Aaliyah Pete,13.04,14.48,15.31,15.73,0,0
+Shot Put,Female,212,Taryn Suttie,15.4,0,0,0,15.49,15.64
+Shot Put,Female,212,Cassie Werman,14.88,0,0,0,15.37,14.09
+Shot Put,Female,212,Jasmine Burrell,0,15.14,14.69,0,0,15.13
+Shot Put,Male,213,Chang Ming-Huang,19.43,19.86,19.09,19.52,19.13,19.13
+Shot Put,Male,213,Willy Irwin,19.34,19.56,0,19.41,0,0
+Shot Put,Male,213,Russ Winger,18.79,0,17.51,0,0,18.22
+Shot Put,Male,213,Christopher Reed,15.58,17.04,17.37,0,18.25,17.56
+Hammer,Female,214,Sultana Frizell,71,73.23,74.98,72,71.72,72.14
+Hammer,Female,214,Amber Campbell,70.23,0,68.16,0,68.18,70.93
+Hammer,Female,214,Gwen Berry,0,0,68.9,67.77,69.01,0
+Hammer,Female,214,Taylor Bush,62.64,50.8,67.5,0,0,65.95
+Hammer,Female,214,Brittany Smith,65.61,63.79,67.43,65.7,63.98,65.99
+Hammer,Female,214,Shaunagh Brown,61.7,0,57.99,63.02,61.85,63.02
+Hammer,Female,214,Chelsea Cassulo,59.37,60.95,61.15,0,58.41,58.19
+Hammer,Male,215,Marcel Lomnicky,0,0,76.77,76.38,0,0
+Hammer,Male,215,Conor McCullough,70.09,72.19,70.28,71.75,70.53,72.53
+Hammer,Male,215,Mark Dry,0,68.76,71.58,70.73,71.25,72.12
+Hammer,Male,215,Nick Miller,68.85,70.84,0,69.17,0,0
+Hammer,Male,215,Remy Conatser,0,66.79,65.21,0,67.43,68.51
+Hammer,Male,215,Diego Alan del Real Gali,63.74,60.13,65.49,0,65.04,67.61
+Hammer,Male,215,Alex Poursanidis,66.07,66.18,0,67.02,67.24,67.09
+Hammer,Male,215,Kamalpreet Singh,64.8,66.76,0,64.3,66.25,66.27
+Hammer,Male,215,Caleb Stuart,62.63,0,62.62,0,0,66.26
+Hammer,Male,215,Adam Keenan,65.48,0,0,65.08,0,63.67
+Hammer,Male,215,Bryce Buffalo,63.85,64.65,0,61.83,62.26,0
+Hammer,Male,215,Jordan Arakawa,62.71,0,63.95,0,58.61,60.47
+Shot Put,Female,233,Jeneva McCall-Stevens,17.2,17.47,17.95,18.5,18.15,18.63
+Shot Put,Female,233,Brittany Smith,18.48,0,0,18.52,0,0
+Shot Put,Female,233,Raven Saunders,17.21,18.01,18.19,18.01,18.23,0
+Shot Put,Female,233,Becky O'Brien,17.82,0,16.47,16.54,17.27,16.28
+Shot Put,Female,233,Taryn Suttie,16.9,0,0,17.01,0,16.86
+Shot Put,Female,233,Danielle Frere,16.01,16.19,16.58,0,0,15.87
+Shot Put,Female,233,DeAnna Price,15.82,0,14.7,16.3,0,15.56
+Shot Put,Female,233,Ashley Gaston,15.04,0,16.19,0,15.98,15.94
+Javelin,Male,234,Riley Dolezal,0,0,70.19,75.15,75.91,79.69
+Javelin,Male,234,Craig Kinsley,73.27,73.47,0,77.3,77.19,77.85
+Javelin,Male,234,Sam Crouser,73.1,0,72.55,76.75,76.29,74.05
+Javelin,Male,234,Benjamin Woodruff,71.06,71.01,71.8,0,0,71.07
+Javelin,Male,234,Juan Jose Mendez Blasco,70.04,0,67.99,66.28,0,0
+Javelin,Male,234,Cooper Thompson,65.76,66.43,0,67.49,0,0
+Javelin,Male,234,Ryan Young,67.39,62.39,0,62.24,0,63.71
+Hammer,Male,235,Conor McCullough,71.75,72.39,71.73,70.38,73.13,73.7
+Hammer,Male,235,Diego Alan del Real Gali,69,69.23,70.4,70.83,72.66,71.89
+Hammer,Male,235,Colin Dunbar,69.29,70.26,69.36,68.39,0,0
+Hammer,Male,235,Kamalpreet Singh,67.9,69.76,68.51,68.96,69.01,68.48
+Hammer,Male,235,Renaldo Frechou,0,0,65.72,66.17,68.79,0
+Hammer,Male,235,Alex Poursanidis,67.3,0,0,0,68.49,0
+Hammer,Male,235,Curtis Wideman,64.43,66.68,67.34,0,0,67.38
+Hammer,Male,235,Alex Larson,62.03,0,62.79,61.46,0,0
+Shot Put,Male,236,Willy Irwin,18.85,0,0,18.79,19.03,19.57
+Shot Put,Male,236,Eric Werskey,0,19.07,0,0,19.49,0
+Shot Put,Male,236,Nicholas Ponzio,18.9,0,0,18.28,18.69,19.19
+Shot Put,Male,236,Nick Vena,19.13,19.05,0,0,0,18.9
+Shot Put,Male,236,Joshua Freeman,19.01,19.07,0,0,19.03,19.09
+Shot Put,Male,236,Aaron Castle,18.15,0,0,18.3,0,18.23
+Shot Put,Male,236,Mario Cota Castro,17.76,17.83,0,0,0,18.06
+Hammer,Female,237,Sultana Frizell,71.61,0,72.42,72.42,72.52,69.71
+Hammer,Female,237,Jeneva McCall-Stevens,66.1,69.37,69.9,70.58,71.46,69.94
+Hammer,Female,237,Britney Henry,71.08,70.04,0,68.21,70.04,0
+Hammer,Female,237,Gwen Berry,68.36,67.68,68.38,68.97,69.79,67.94
+Hammer,Female,237,Kristin Smith,0,65.12,63.31,67.99,67.54,67.18
+Hammer,Female,237,Lauren Stuart,66.88,65.3,64.57,0,65.31,65.8
+Hammer,Female,237,Heather Steacy,65.97,0,65.45,64.86,66.82,64.27
+Hammer,Female,237,Taylor Bush,64.66,63.3,0,62.04,64,0
+Hammer,Female,237,DeAnna Price,62.63,64.52,62.51,0,0,63.44
+Javelin,Female,238,Ariana Ince,55.79,54.71,59.84,51.25,54.8,0
+Javelin,Female,238,Jucilene Lima,57.35,59.8,0,56.33,0,0
+Javelin,Female,238,Brittany Borman,56.25,57.13,0,54.8,0,54.72
+Javelin,Female,238,Lillian Seibert,55.55,51.33,52.06,50.02,0,50.53
+Javelin,Female,238,Hannah Carson,48.24,53.07,54.42,54.11,53.39,51.91
+Javelin,Female,238,Leigh Petranoff,48.88,46.88,0,50.58,48.74,52.7
+Javelin,Female,238,Abigail Gomez,0,51.89,50.43,0,49.44,0
+Shot Put,Male,253,Reese Hoffa,20.84,21.12,21.25,0,21.65,21.73
+Shot Put,Male,253,Christian Cantwell,21.3,0,21.19,0,21.7,21.71
+Shot Put,Male,253,Justin Rodhe,20.62,21.11,0,20.59,0,0
+Shot Put,Male,253,Ryan Whiting,0,0,0,0,20.59,20.64
+Shot Put,Male,253,Dan Taylor,18.89,0,18.81,0,20.13,20.22
+Shot Put,Male,253,Nedzad Mulabegovic,0,19.81,20.01,19.8,19.88,20.01
+Shot Put,Male,249,Ryan Whiting,19.94,20.71,21.2,20.48,21.36,21.65
+Shot Put,Male,249,Reese Hoffa,0,20.12,20.43,20.71,21.6,20.72
+Shot Put,Male,249,Nedzad Mulabegovic,19.73,0,0,0,0,19.05
+Shot Put,Male,249,Joe Kovacs,19.42,0,19.07,0,0,19.5
+Shot Put,Male,249,Kurt Roberts,0,0,0,19.22,19.32,19.31
+Hammer,Female,250,Amber Campbell,0,68.75,69.66,69.12,69.61,69.65
+Hammer,Female,250,Jeneva McCall-Stevens,69.3,0,68.74,65.91,0,67.63
+Hammer,Female,250,Gwen Berry,0,66.6,0,0,66,67.37
+Hammer,Female,250,Alena Krechyk,0,0,67.03,0,0,67.34
+Hammer,Female,250,Chandra Andrews,58.57,61.02,0,59.12,62.46,0
+Hammer,Female,250,Sara Savatovic,0,55.38,59.65,0,59.34,0
+Hammer,Female,250,Kimberly Fortney,55.13,58.85,0,59.03,57.85,0
+Hammer,Female,250,Veronica Grizzle,51.99,55.75,51.4,53.35,54.12,53.29
+Hammer,Female,250,Emily Pendleton,0,52.46,0,0,49.39,52.03
+Shot Put,Female,251,Jeneva McCall-Stevens,16.06,16.12,16.71,0,16.57,16.89
+Shot Put,Female,251,Annie Jackson,14.31,15.45,15.83,15.54,0,16.33
+Shot Put,Female,251,Kimberly Fortney,14.79,14.97,15.11,0,15.05,15.95
+Shot Put,Female,251,Carlie Pinkelman,0,12.49,15.02,0,14.76,15.33
+Shot Put,Female,251,Jessica Maroszek,14.78,0,15.16,15.08,0,0
+Shot Put,Female,251,Dani Winters,0,0,15.01,13.86,13.83,14.09
+Shot Put,Female,251,Jennifer Maag,14.56,0,0,14.4,0,0
+Shot Put,Female,251,Rachel Aliotta,0,14.27,13.48,13.49,13.6,13.58
+Discus,Female,252,Jeneva McCall-Stevens,40.78,53.96,54.05,0,48.74,0
+Discus,Female,252,Jessica Maroszek,49.13,47.51,0,49.61,53.15,51.11
+Discus,Female,252,Emily Pendleton,49.78,0,50.85,51.3,48.39,52.18
+Discus,Female,252,Morgan Wilken,49.01,50.01,48.33,48.76,49.37,49.38
+Discus,Female,252,Jacquelyne Leffler,45.4,49.57,46.23,0,47.16,0
+Discus,Female,252,Anastasiya Muchkayev,0,42.34,46.04,47.04,49.33,0
+Discus,Female,252,Erin Pendleton,48.42,46.76,0,47.74,44.88,45.48
+Shot Put,Male,167,Justin Rodhe,0,19.61,0,19.39,19.92,0
+Shot Put,Male,167,Russ Winger,0,0,19.77,19.31,0,19.7
+Shot Put,Male,167,Dan Taylor,0,18.15,19.36,0,0,19.37
+Shot Put,Male,167,Kevin Bookout,19.36,0,0,19.28,19.24,0
+Shot Put,Male,167,Eric Werskey,0,18.9,0,18.86,18.66,0
+Shot Put,Male,167,Robert Gire,0,17.88,17.98,0,17.91,18.55
+Shot Put,Male,167,Bozidar Antunovic,17.67,17.91,17.86,0,0,18.17
+Shot Put,Male,167,Korion Morris,17.16,17.62,17.7,17,0,0
+Shot Put,Male,167,Jake Arnold,13.87,14.62,14.38,14.35,14.74,0
+Shot Put,Male,168,Russ Winger,19.63,0,19.72,19.87,19.72,20.28
+Shot Put,Male,168,Noah Bryant,0,0,19.88,20.22,0,20.14
+Shot Put,Male,168,Justin Rodhe,19.71,19.46,0,20.03,20.06,20.02
+Shot Put,Male,168,Ming-Huang Chang,19.67,19.57,19.28,19.79,18.96,19.02
+Shot Put,Male,168,Eric Werskey,19.26,0,19.51,19.54,19.28,19.6
+Shot Put,Male,168,Amin Nikfar,18.3,17.97,19.34,18.89,18.98,18.59
+Shot Put,Male,168,Jordan Clarke,18.9,18.97,19.06,19.32,18.72,19.17
+Shot Put,Male,168,Robert Gire,18.2,18.38,0,18.11,18.36,18.48
+Shot Put,Male,168,Bozidar Antunovic,18.16,18.07,0,0,0,18.34
+Shot Put,Female,169,Jillian Camarena-Williams,0,19.1,18.85,19.37,0,18.87
+Shot Put,Female,169,Sarah Walker,17.22,17.69,0,17.58,0,17.84
+Shot Put,Female,169,Jessica Pressley,0,16.75,0,0,0,16.88
+Shot Put,Female,169,Baillie Gibson,16,16.34,16.25,16.62,16.34,16.28
+Shot Put,Female,169,Ashley Muffet-Duncan,0,0,16.52,0,16.57,0
+Shot Put,Female,169,Abby Ruston,0,0,16.17,16.49,0,0
+Shot Put,Female,169,Zara Northover,16.13,16.26,15.93,0,15.59,0
+Shot Put,Female,169,Alyssa Hasslen,16.1,0,16.22,15.54,15.99,15.87
+Shot Put,Female,169,Anna Jelmini,0,14.57,14.86,15.94,0,0
+Shot Put,Female,169,Omotayo Talabi,0,15.62,0,15.4,15.61,0
+Shot Put,Female,169,Taylor Freeman,14.52,0,0,15.21,0,0
+Shot Put,Female,169,Kelsey Jessup,13.21,13.78,13.93,13.93,0,13.34
+Shot Put,Female,169,Ashley Weber,0,13.48,13.23,0,12.92,12.61
+Shot Put,Female,170,Sarah Walker,17.28,17.85,17.53,0,0,17.95
+Shot Put,Female,170,Jessica Pressley,15.56,15.72,16.96,16.75,17.29,0
+Shot Put,Female,170,Alyssa Hasslen,0,15.92,0,0,0,16.5
+Shot Put,Female,170,Zara Northover,15.61,0,0,15.97,16.31,0
+Shot Put,Female,170,Omotayo Talabi,15.58,0,15.11,0,15,0
+Shot Put,Female,170,Lisa Wilson,14.03,14.17,14.47,15.25,14.53,14.12
+Shot Put,Female,170,Kelsey Jessup,13.49,13.74,14.07,14.45,0,0
+Shot Put,Female,170,Torie Owers,0,12.96,13.84,13.5,13.59,14.03
+Javelin,Male,179,Corey White,70.99,71.22,76.79,77.67,81.7,73.91
+Javelin,Male,179,Mike Hazle,75.45,72.89,81.09,79.91,0,80.72
+Javelin,Male,179,Sean Furey,71.21,0,75.85,78.59,77.43,79.53
+Javelin,Male,179,Christopher Hill,74.36,68.34,75.64,71.45,79.15,75.19
+Javelin,Male,179,Barry Krammes,76.63,73.02,66.12,68.54,0,67.54
+Javelin,Male,179,Cyrus Hostetler,74.88,74.74,71.57,72.72,71.2,71.69
+Javelin,Male,179,Trent Mazanec,71.59,0,71.37,0,70.66,74.64
+Javelin,Male,179,Ryan Young,73.53,0,0,67.2,64.57,71.18
+Javelin,Male,179,Adam Burke,0,63.83,69.04,71.27,67.43,70.21
+Javelin,Male,179,Colin Moleton,66.44,68.14,69.15,0,66.45,65.41
+Javelin,Male,179,Tom Engwall,60.34,0,63.08,60.81,68.35,66.62
+Javelin,Male,179,Ethan Blose,63.89,61.48,0,67.26,65.41,63.4
+Javelin,Male,179,Marc Peck,0,0,62.42,0,56.57,65.02
+Javelin,Male,179,Sean Richardson,57.56,62.83,62.72,62.81,0,64.41
+Javelin,Male,179,Jeremy Tuttle,60.59,61.74,62.09,61.58,59.42,59.89
+Javelin,Female,180,Dana Pounds-Lyon,49.15,51.25,51.98,0,48.25,52.31
+Javelin,Female,180,Kateema Riettie,45.52,43.17,0,51.92,46.25,47.51
+Javelin,Female,180,Grace Zollman,42.01,50.76,47.38,47.76,48.21,0
+Javelin,Female,180,Kimberley Hamilton,45.67,42.72,0,46.78,50.67,0
+Javelin,Female,180,Kim Kreiner,0,49.69,47.6,47.1,48.4,46.58
+Hammer,Male,192,AG Kruger,0,73.37,0,73.61,0,0
+Hammer,Male,192,Michael Mai,69.02,0,71.09,70.12,72.33,0
+Hammer,Male,192,Garland Porter,67.55,66.67,68.57,68.73,67.64,0
+Hammer,Male,192,Kevin Becker,0,0,0,0,0,66.22
+Hammer,Male,192,David Paul,66.14,64.09,65.9,65.56,0,66.18
+Hammer,Male,192,Lucais MacKay,0,63.77,0,0,62.41,0
+Hammer,Male,192,Paul Wagner,61.49,0,59.69,59.86,61.16,59.49
+Hammer,Male,192,Tyler Johnson,59.92,0,61.21,0,61.35,0
+Hammer,Male,192,Mike Milakovic,58.42,0,0,61.17,0,0
+Hammer,Male,192,Bryan Tolcser,0,0,0,0,59.87,0
+Hammer,Male,192,Zach Hazen,0,58.36,0,0,0,59.04
+Hammer,Male,193,AG Kruger,72.13,73.93,75.33,76.34,75.52,75.84
+Hammer,Male,193,Michael Mai,0,72.59,73.19,71.94,72.71,0
+Hammer,Male,193,Garland Porter,68.87,67.61,69.78,70.57,70.4,72.57
+Hammer,Male,193,David Paul,63.39,65.13,66.45,64.94,67.15,65.84
+Hammer,Male,193,Lucais MacKay,64.66,0,66.45,65.6,64.93,65.67
+Hammer,Male,193,Zach Hazen,0,0,0,0,63.46,61.96
+Hammer,Male,193,Paul Wagner,61.41,63.39,62.96,0,0,61.7
+Hammer,Male,193,Bryan Tolcser,0,59.75,62.29,62.96,62.74,62.92
+Hammer,Male,193,Mike Milakovic,59.29,59.82,62.34,0,61.3,0
+Hammer,Male,193,Tyler Johnson,0,0,61.64,58.79,61.02,58.63
+Hammer,Male,193,Michael Foley,51.27,53.29,51.57,54.79,0,54.54
+Hammer,Male,193,Jeremy Tuttle,0,0,53.79,0,54.72,53.65
+Hammer,Female,194,Britney Henry,0,0,66.79,68.89,69.47,69.64
+Hammer,Female,194,Amy Haapanen,64.41,64.28,63.64,65.05,65.63,0
+Hammer,Female,194,Sarah Holt,0,61.58,0,62.85,0,65.48
+Hammer,Female,194,Aubrey Baxter,62.72,62.14,0,0,63.33,64.66
+Hammer,Female,194,Loree Smith,58.91,62.93,63.58,0,62.15,0
+Hammer,Female,194,Megann Rodhe,62.42,0,0,0,63.45,61.18
+Hammer,Female,194,Caressa Sims,61.92,60.38,58.85,58.33,60.57,58.89
+Hammer,Female,194,Kristin Smith,59.77,0,0,0,61.44,59.94
+Hammer,Female,194,Kimery Hern,60.28,0,0,0,0,57.17
+Hammer,Female,194,Shelby Ashe,54.17,0,0,59.66,0,0
+Hammer,Female,194,Taylor Bush,56.71,59.64,0,0,0,57.4
+Hammer,Female,194,Kristal Kostlew-Yush,0,0,0,0,59.24,0
+Hammer,Female,195,Britney Henry,0,68.37,67.2,0,0,67.38
+Hammer,Female,195,Amy Haapanen,0,67.66,64.62,62.77,63.84,63.84
+Hammer,Female,195,Caressa Sims,59.89,61.28,61.42,61.84,64.44,62.01
+Hammer,Female,195,Megann Rodhe,62.59,63.5,64.35,0,63.96,62.91
+Hammer,Female,195,Aubrey Baxter,61.81,63.58,62.88,0,61.97,62.04
+Hammer,Female,195,Loree Smith,63.45,61.66,62.35,0,63.45,62.77
+Hammer,Female,195,Kristin Smith,62.87,62.58,0,0,60.47,60.06
+Hammer,Female,195,Kristal Kostlew-Yush,61,0,60.09,60.85,61.49,60.1
+Hammer,Female,195,Sarah Holt,0,0,60.28,0,61.15,59.85
+Hammer,Female,195,Kimery Hern,59.77,0,0,59.08,0,0
+Hammer,Female,195,Taylor Bush,53.11,57.31,57.57,56.42,57.9,0
+Hammer,Female,195,Suesanna Williams,56.21,0,56.29,52.38,56.1,0
+Hammer,Female,195,CJ Navarro,0,54.08,0,54.48,54.72,0
+Hammer,Female,195,Ashley Weber,45.73,43.93,0,44.93,0,0
+Discus,Male,207,Russ Winger,60.49,59.45,57.82,60.34,59.37,0
+Discus,Male,207,Adam Kuehl,57.61,0,57.22,0,57.73,58.14
+Discus,Male,207,Drew Ulrick,0,56.09,0,56.27,0,53.74
+Discus,Male,207,William Conwell,53.47,0,52.61,55.38,0,53.89
+Discus,Male,207,Mike Torie,53.39,0,51.27,53.05,51.97,0
+Discus,Male,207,Korion Morris,50.75,0,51.38,49.73,52.27,0
+Discus,Male,207,Nathanael Meckes,0,49.94,0,48.96,51.28,51.23
+Discus,Male,207,Robert Gire,0,49.89,0,50.21,0,0
+Discus,Male,207,Jake Arnold,46.06,45.56,45.61,0,0,45.2
+Discus,Male,207,Michael Foley,0,45.01,0,39.93,0,43.91
+Discus,Male,208,Vikas Gowda,60.94,62.93,0,61.21,61.97,63.51
+Discus,Male,208,Lance Brooks,60,61.38,60.35,0,61.68,0
+Discus,Male,208,Jason Young,57.58,57,60.66,55.56,0,60.38
+Discus,Male,208,Russ Winger,59.31,60.44,0,56.95,60.55,59.65
+Discus,Male,208,Drew Ulrick,52.76,58.34,58.9,0,58.03,59.36
+Discus,Male,208,Adam Kuehl,56.05,58.66,0,0,0,56.41
+Discus,Male,208,William Conwell,0,56.58,55.55,55.29,56.93,57.72
+Discus,Male,208,Kevin Bookout,55.57,0,0,0,55.53,54.27
+Discus,Male,208,Mike Torie,52.48,53.31,0,53.76,0,55.42
+Discus,Male,208,Korion Morris,53.31,0,51.09,50.31,0,52.34
+Discus,Male,208,Nathanael Meckes,52.5,50.9,0,53.2,0,0
+Discus,Male,208,Robert Gire,0,50.46,0,52.36,0,52.7
+Discus,Female,209,Stephanie Brown Trafton,56.59,61.19,50.63,57.59,60.25,0
+Discus,Female,209,Anna Jelmini,60.04,58.84,0,55.96,55.74,55.11
+Discus,Female,209,Suzy Powell-Roos,0,59.73,0,0,58.38,58.46
+Discus,Female,209,Baillie Gibson,48.56,55.73,49.54,54.31,0,51.45
+Discus,Female,209,Summer Pierson,0,54.82,0,55.4,54.22,53.78
+Discus,Female,209,Emily Pendleton,46.97,52.02,52.31,50.23,50.34,53.47
+Discus,Female,209,Alyssa Hasslen,49.67,53.34,0,50.73,0,51.32
+Discus,Female,209,Liz Podominick,49.55,51.4,0,0,0,51.78
+Discus,Female,209,Taylor Freeman,0,51.43,0,0,49.97,0
+Discus,Female,209,Kelechi Anyanwu,50.52,50.36,51.13,0,50.08,0
+Discus,Female,209,Tai Battle,50.42,0,49.52,0,49.91,48.66
+Discus,Female,209,Lisa Wilson,44.05,0,48.08,47.41,48.43,47.86
+Discus,Female,209,Sara Ackman,43.15,47.94,46.7,46.85,0,47.61
+Discus,Female,209,Torie Owers,44.93,0,0,0,0,44.82
+Discus,Female,210,Stephanie Brown Trafton,58.95,0,58.86,0,60.79,57.03
+Discus,Female,210,Suzy Powell-Roos,57.62,58.7,58.19,58.54,58.36,57.37
+Discus,Female,210,Summer Pierson,0,54.85,0,0,0,56.41
+Discus,Female,210,Anna Jelmini,55.76,0,55.14,0,53.25,0
+Discus,Female,210,Baillie Gibson,0,50.17,50.73,0,55.61,53.25
+Discus,Female,210,Kelechi Anyanwu,47.49,55.04,0,50.99,55.55,51.95
+Discus,Female,210,Emily Pendleton,51.57,50.61,52.81,53.14,52.66,55.01
+Discus,Female,210,Liz Podominick,49,52.06,0,0,0,52.17
+Discus,Female,210,Alyssa Hasslen,47.38,50.88,49.54,50.05,0,50.8
+Discus,Female,210,Taylor Freeman,50.25,0,49.64,0,49.02,0
+Discus,Female,210,CJ Navarro,45.99,46.7,49.33,48.86,47.63,46.34
+Discus,Female,210,Sara Ackman,46.34,44.35,0,0,0,45.79
+Javelin,Female,247,Rachel Yurkovich,49.02,52.01,0,51.39,56.67,53.13
+Javelin,Female,247,Alicia DeShasier,51.56,55.4,52.6,50.14,54.3,55.86
+Javelin,Female,247,Kateema Riettie,0,50.79,53.65,48.31,0,43.35
+Javelin,Female,247,Jennifer Austin,52.18,0,48.37,46.96,50.52,47.72
+Javelin,Female,247,Grace Zollman,51.61,0,44.72,49.34,0,50.56
+Javelin,Female,247,Kim Kreiner,51.5,48.73,50.07,49.4,49.16,0
+Javelin,Female,247,Erma Gene Evans,0,47.33,0,50.45,48.12,51.09
+Javelin,Female,247,Kimberley Hamilton,44.29,45.75,49.77,0,0,49.52
+Javelin,Female,247,Dana Pounds-Lyon,0,0,0,48.39,47.99,0
+Javelin,Female,247,Asia Easley,46.76,0,0,40.36,39.22,39.51
+Shot Put,Male,165,Kemal Mesic,0,0,20.11,0,20.09,20.08
+Shot Put,Male,165,Kurt Roberts,19.81,19.63,19.72,0,19.28,0
+Shot Put,Male,165,Jun Zhang,19.37,18.96,0,0,19.23,0
+Shot Put,Male,165,Robert Gire,18.38,0,0,18.46,0,18.44
+Shot Put,Male,165,Arsi Harju,0,17.89,0,17.62,17.85,17.66
+Shot Put,Male,165,Jordan Young,0,17.36,0,0,17.41,17.82
+Shot Put,Female,166,Jillian Camarena-Williams,19.43,19.69,0,0,19.68,19.75
+Shot Put,Female,166,Michelle Carter,17.8,17.9,17.95,18.52,18.03,0
+Shot Put,Female,166,Julie Labonte,17.55,18.19,0,17.89,18.01,17.62
+Shot Put,Female,166,Sarah Walker,17.52,0,17.46,0,0,17.66
+Shot Put,Female,166,Omotayo Talabi,16.12,0,15.29,15.26,0,0
+Shot Put,Female,166,Ashley Muffet-Duncan,0,0,15.25,15.76,0,15.96
+Shot Put,Female,166,Suvi Helin,14.62,14.97,15.55,0,14.76,15.42
+Shot Put,Female,166,Hyleas Fountain,12.57,13.49,12.35,12.79,0,0
+Shot Put,Female,166,Ashley Weber,0,0,12.04,12.31,0,12.45
+Javelin,Male,177,Kyle Nielsen,75.61,77.17,72.44,0,73.96,0
+Javelin,Male,177,Chris Kirkwood,65.01,66.77,65.56,67.61,0,0
+Javelin,Male,177,Travis Colby,0,57.95,58.91,59.99,57.89,61.79
+Javelin,Male,177,Jake Arnold,54.94,57.72,57.42,57.68,0,58.41
+Javelin,Female,178,Kara Patterson,59.66,56.54,56.02,56.52,0,0
+Javelin,Female,178,Alicia DeShasier,50.78,0,54.29,53.64,56.75,54.66
+Javelin,Female,178,Karlee McQuillen,55.71,0,0,0,49.75,51.94
+Javelin,Female,178,Kateema Riettie,52.75,53.28,50.08,52.98,49.79,53.04
+Javelin,Female,178,Randi Hicks,47.59,49.51,50.14,0,50.53,52.23
+Javelin,Female,178,Kim Kreiner,0,49.69,0,49.7,50.86,50.47
+Javelin,Female,178,Jennifer Austin,0,50.78,0,50.01,49.32,47.52
+Javelin,Female,178,Marissa Tschida,50.41,48.6,46.26,46.41,48.15,0
+Javelin,Female,178,Chantae McMillan,43.14,46.69,0,49.93,0,44.79
+Javelin,Female,178,Grace Zollman,0,44.66,0,44.56,46.14,44.9
+Hammer,Male,189,AG Kruger,75.5,74.25,0,74.56,0,75.92
+Hammer,Male,189,Jim Steacy,73.37,73.1,72.39,73.16,0,74.96
+Hammer,Male,189,Andrew Loftin,72.49,70.91,0,0,67.4,62.07
+Hammer,Male,189,Garland Porter,0,71.48,0,71.25,0,70.49
+Hammer,Male,189,Colin Dunbar,66.21,64.8,0,66.7,0,65.07
+Hammer,Male,189,Lucais MacKay,65.79,65.58,0,65.79,63.87,66.26
+Hammer,Male,189,Bryan Tolcser,65.51,0,61.68,66.05,0,0
+Hammer,Male,189,Kevin Becker,0,0,64.42,0,63.75,0
+Hammer,Female,190,Amy Haapanen,66.5,68.87,69.8,69.82,0,69.88
+Hammer,Female,190,Britney Henry,66.86,67.95,67.35,0,68.54,0
+Hammer,Female,190,Loree Smith,65.22,0,66.96,64.46,67.95,66.75
+Hammer,Female,190,Aubrey Baxter,65.78,67.53,67.94,67.57,65.7,66.34
+Hammer,Female,190,Heather Steacy,0,0,67.05,65.88,0,66.26
+Hammer,Female,190,Ashley Harbin,63.52,64.53,0,62.13,63.12,0
+Hammer,Female,190,Kristin Smith,60.04,62.9,0,0,63.59,0
+Hammer,Female,190,Caressa Sims,60.08,62.14,57.48,61.2,60.38,61.18
+Hammer,Female,190,Shelby Ashe,60.81,0,0,59.65,0,0
+Hammer,Female,190,Gwen Berry,0,53.73,0,59.37,57.62,60.75
+Hammer,Female,191,Kimery Hern,63.9,0,65.1,0,62.69,63.55
+Hammer,Female,191,Chelsea Cassulo,57.05,61.8,0,64.11,60.06,62.96
+Hammer,Female,191,Valerie Fraizer,58.29,0,62.01,0,61.83,62.47
+Hammer,Female,191,Taylor Bush,61.65,60.84,59.73,0,59.97,0
+Hammer,Female,191,Lisa Wilson,0,0,57.59,61.21,59.92,0
+Hammer,Female,191,Brooke Pleger,55.47,58.44,0,0,56.7,0
+Hammer,Female,191,Avana Story,55.35,0,0,49.09,0,0
+Discus,Male,204,Bryan Powlen,52.1,58.96,56.26,58.38,60.99,0
+Discus,Male,204,Mike Torie,0,58.82,0,56.06,59.15,56.8
+Discus,Male,204,Willy Irwin,0,0,53.97,56.26,0,0
+Discus,Male,204,Dong Yi Huang,52.44,53.74,54.16,54.11,0,55.45
+Discus,Male,204,Andres Rossini,53.56,0,53.65,0,55.21,0
+Discus,Male,204,Jordan Young,0,0,45.92,0,0,55.02
+Discus,Male,204,Erik Sorenson,45.95,47.76,47.38,0,46.35,47.1
+Discus,Male,204,Jake Arnold,0,45.72,46.26,44.79,44.67,45.59
+Discus,Female,205,Kelechi Anyanwu,56.07,53.78,55.08,0,0,54.12
+Discus,Female,205,Alyssa Hasslen,50.79,0,0,54.57,0,0
+Discus,Female,205,Taylor Freeman,50.01,50.7,50.73,50.02,53.33,0
+Discus,Female,205,Sarah Thornton,53.02,0,0,51.45,51.18,0
+Discus,Female,205,Betty Williams,52.03,0,0,50.83,0,0
+Discus,Female,205,Sara Ackman,50.06,49.42,0,50.09,49.19,50.27
+Discus,Female,205,Alexaraee Toeaina,0,0,0,45.52,45.26,0
+Discus,Female,205,Avana Story,42,0,0,43.57,0,0
+Discus,Female,206,Gia Lewis-Smallwood,59.62,0,60.06,0,0,61.69
+Discus,Female,206,Anna Jelmini,51.34,58.09,57.48,58.02,59.77,57.5
+Discus,Female,206,Suzy Powell-Roos,59.41,58.85,0,59.38,55.36,0
+Discus,Female,206,Jere Summers,0,49.99,51.68,0,57.47,0
+Discus,Female,206,Rachel Longfors,50.07,56.15,0,52.83,55.37,55.37
+Discus,Female,206,Baillie Gibson,0,52.12,55.83,53.93,0,54.76
+Discus,Male,248,Russ Winger,0,0,61.81,0,61.09,61.57
+Discus,Male,248,Westley Stockbarger,0,0,0,61.41,0,0
+Discus,Male,248,William Conwell,0,0,58.05,58.8,58.45,61.05
+Discus,Male,248,Jarred Rome,0,0,0,60.52,0,58.67
+Discus,Male,248,Lance Brooks,58.08,59.08,59.88,58.82,0,58.04
+Discus,Male,248,Adam Kuehl,58.97,58.44,58.96,59.83,0,0
+Discus,Male,248,Gregory Garza,0,0,58.52,0,0,58.12
+Discus,Male,248,Jared Schuurmans,0,56.29,55.05,56.44,0,0
+Shot Put,Male,161,Kurt Roberts,0,19.91,0,20.29,20.98,20.32
+Shot Put,Male,161,Eric Werskey,19.2,0,19.81,0,19.23,19.26
+Shot Put,Male,161,Russ Winger,0,0,18.62,19.11,19.29,0
+Shot Put,Male,161,Matt DeChant,0,0,18.51,18.33,0,18.02
+Shot Put,Female,162,Omotayo Talabi,0,15.42,0,0,15.37,14.71
+Shot Put,Female,162,Suvi Helin,14.76,0,14.69,15.28,15.1,15.38
+Shot Put,Female,162,Shana Woods,10.49,10.42,0,11.91,11.54,11.85
+Shot Put,Female,162,Kiani Profit,11.68,10.55,11.5,11.75,0,0
+Javelin,Female,174,Krista Woodward,53.28,51.7,52.8,0,56.78,53.99
+Javelin,Female,174,Leigh Petranoff,51.4,0,52.56,52.06,0,48.13
+Javelin,Female,174,Asia Easley,0,36.62,40.14,52.23,40.17,40.15
+Javelin,Female,174,Liana Fuentes,38.62,0,41.55,41.2,0,0
+Javelin,Female,174,Kiani Profit,37.94,35.19,37.99,0,38.83,41.44
+Javelin,Female,174,Bettie Wade,33.82,36.07,0,33.52,0,0
+Javelin,Female,174,Asha Bramwell,34.74,0,0,26.86,31.64,32.31
+Javelin,Female,174,Shana Woods,0,30.86,0,0,0,30.81
+Hammer,Male,185,AG Kruger,74.58,76.11,75.26,0,76.12,0
+Hammer,Male,185,Robert Klenk,0,0,64.6,62.51,0,63.6
+Hammer,Male,185,Bryce Buffalo,63.86,64.57,62.34,0,62.72,62.08
+Hammer,Male,185,Brad Bolton,57.01,0,56.63,57.02,56.97,58.24
+Hammer,Female,186,Jessica Cosby Toruga,0,69.55,68.61,0,70.14,73.58
+Hammer,Female,186,Amanda Bingson,68.08,71.32,66.74,67.66,70.31,69.79
+Hammer,Female,186,Amber Campbell,70.27,70.59,71.02,69.15,68.94,0
+Hammer,Female,186,Britney Henry,0,68.56,67.01,68.32,69.35,0
+Hammer,Female,186,Ashley Harbin,0,0,62.88,0,65.87,68.53
+Hammer,Female,186,Caressa Sims,61.18,64,61.3,62.74,66.73,63.32
+Hammer,Female,186,Marissa Minderler,65.61,63.04,0,0,64.8,65.58
+Hammer,Female,186,Amy Haapanen,64.11,64.86,64.32,64.45,62.99,0
+Hammer,Female,186,Taylor Bush,0,62.72,64.49,0,0,61.35
+Hammer,Female,186,Kristin Smith,61.67,63.58,0,56.68,0,0
+Hammer,Female,186,Lisa Wilson,58.25,59.78,59.72,59.34,57.83,0
+Hammer,Female,186,Taylor Freeman,59.3,0,59.14,0,58.82,0
+Hammer,Female,186,Linda Oseso,0,56.99,0,55.79,0,56.05
+Discus,Male,200,Russ Winger,61.32,61.07,62.43,61.21,0,0
+Discus,Male,200,Luke Bryant,58.53,60.48,0,59.42,61.84,60.12
+Discus,Male,200,Jared Schuurmans,57.38,0,0,60.23,58.26,59.76
+Discus,Male,200,Bryan Powlen,0,56.13,0,56.97,0,57.46
+Discus,Male,200,Aleksas Abromavicius,57.31,0,0,0,0,55.76
+Discus,Male,200,Derek White,55.42,0,0,0,56.89,0
+Discus,Male,200,Jordan Young,0,0,0,0,0,47.74
+Discus,Male,200,Aaron Castle,47.03,47.63,45.57,43.7,0,0
+Discus,Female,201,Gia Lewis-Smallwood,59.65,59.19,62.31,59.86,62.22,58.3
+Discus,Female,201,Aretha Thurmond,62.21,58.15,58.16,56.35,59.4,60.62
+Discus,Female,201,Liz Podominick,59.39,58.27,58.99,59.06,60.15,59.77
+Discus,Female,201,Rachel Longfors,58.1,0,0,53.59,54.65,52.72
+Discus,Female,201,Summer Pierson,56.89,0,0,55.9,54.28,0
+Discus,Female,201,Emily Pendleton,54.76,55.9,0,54.98,55.77,0
+Discus,Female,201,Jere Summers,0,55.77,0,0,53.69,0
+Discus,Female,201,Baillie Gibson,53.98,0,54.53,54.64,52.48,0
+Discus,Female,201,Taylor Freeman,51.14,53.28,52.37,51.79,0,0
+Discus,Female,201,Sarah Thornton,0,0,51.45,0,50.97,51.79
+Discus,Female,201,Alyssa Hasslen,51.72,49.22,0,0,0,51.76
+Shot Put,Male,157,Jordan Clarke,19.71,21.21,20.58,20.85,20.6,20.85
+Shot Put,Male,157,Joe Kovacs,0,21.18,20.98,20.95,0,0
+Shot Put,Male,157,Zack Lloyd,19.47,19.66,19.88,0,19.98,20.25
+Shot Put,Male,157,Eric Werskey,20.13,0,19.85,0,20,0
+Shot Put,Male,157,Justin Rodhe,19.2,19.88,0,19.39,0,0
+Shot Put,Male,157,Curtis Jensen,19.4,0,0,19.35,19.7,0
+Shot Put,Male,157,Rashad Williams,0,17.1,17.73,17.24,17.41,0
+Shot Put,Female,158,Brittany Smith,16.41,17.54,18.45,18.57,0,18.12
+Shot Put,Female,158,Becky O'Brien,16.82,16.5,17.58,17.55,17.52,16.07
+Shot Put,Female,158,Monique Riddick,16.51,0,0,16.4,0,0
+Shot Put,Female,158,Maggie Ewen,15.9,0,0,0,14.71,14.96
+Shot Put,Male,159,Reese Hoffa,20.53,21.23,21.19,0,21.48,21.4
+Shot Put,Male,159,Eric Werskey,19.27,19.47,19.51,19.56,19.7,19.52
+Shot Put,Male,159,Justin Rodhe,19.65,0,0,19.55,0,19.37
+Shot Put,Male,159,Aaron Castle,0,0,0,16.71,18.35,0
+Shot Put,Male,159,Rashad Williams,0,0,0,16.74,0,17.36
+Shot Put,Female,160,Becky O'Brien,16.29,17.39,16.91,16.87,16.39,17.21
+Shot Put,Female,160,Alyssa Hasslen,0,0,0,0,16.57,0
+Shot Put,Female,160,Monique Riddick,0,15.85,0,15.69,15.97,16.43
+Shot Put,Female,160,Omotayo Talabi,15.31,0,0,15.64,0,0
+Shot Put,Male,163,Felipe Valencia,18.85,19.2,19.29,19.5,20,19.23
+Shot Put,Male,163,Nick Demaline,0,18.44,0,0,19.39,18.53
+Shot Put,Male,163,Eric Favors,18.88,19.12,19.04,18.99,0,19
+Shot Put,Male,163,Luke Lewis,18.05,18.59,18.49,19.11,18.34,18.92
+Shot Put,Male,163,Jack Lembcke,18.26,0,18.81,0,18.51,0
+Shot Put,Female,164,Felisha Johnson,0,18,0,17.71,18.72,0
+Shot Put,Female,164,Brittany Smith,16.59,16.74,17.17,17.39,0,17.11
+Shot Put,Female,164,Becky O'Brien,0,17.29,0,16.94,17.36,17.27
+Shot Put,Female,164,Raven Saunders,15.47,17.17,0,0,15.29,16.36
+Shot Put,Female,164,Nia Henderson,0,16.16,16.19,15.62,16.36,16.26
+Shot Put,Female,164,Lloydricia Cameron,13.5,13.73,0,0,13.73,14.31
+Shot Put,Female,164,Shaina Burns,14.06,13.97,0,13.48,13.64,0
+Shot Put,Female,164,Ashlie Blake,13.92,0,13.69,13.91,0,0
+Shot Put,Female,164,Courtney McCartney,13.63,0,13.66,0,13.86,0
+Javelin,Male,171,Sam Humphreys,70.97,77.47,75.29,77.44,78.66,81.51
+Javelin,Male,171,Tim Glover,79.95,79.71,79.44,0,75.29,73.33
+Javelin,Male,171,Riley Dolezal,78.47,74.51,73.5,77.03,0,78.94
+Javelin,Male,171,Cyrus Hostetler,78.5,78.41,76.06,76.3,76.6,76.78
+Javelin,Male,171,Craig Kinsley,74.9,75.92,72.33,76,76.3,78.14
+Javelin,Male,171,Benjamin Woodruff,78.03,72.93,75.35,75.14,0,0
+Javelin,Male,171,Sean Furey,71.31,75.08,77.08,0,77.84,77.84
+Javelin,Male,171,Timothy VanLiew,64.63,72.7,0,67.59,72.78,74.11
+Javelin,Male,171,Ryan Young,69.08,63.19,71.46,0,69.97,72.62
+Javelin,Male,171,Nicholas Howe,72.15,60.23,0,64.95,70.84,65.92
+Javelin,Male,171,Matthew Byers,68.81,0,67.83,68.51,68.78,67.89
+Javelin,Male,171,Carlos Armenta,61.4,68.61,68,66.07,0,65.32
+Javelin,Male,171,Brent Lagace,67,64.65,66.9,66.1,64.65,65.52
+Javelin,Female,172,Kara Patterson,59.97,57.03,56.16,56.08,56.32,57.72
+Javelin,Female,172,Leigh Petranoff,54.39,51.72,0,54.68,55.62,52.07
+Javelin,Female,172,Kimberley Hamilton,50.96,54.24,54,0,48.65,0
+Javelin,Female,172,Kateema Riettie,52.38,50.38,50.41,0,52.12,47.18
+Javelin,Female,172,Monika Gruszecki,49.02,0,44.9,50.15,47.3,48.06
+Javelin,Female,172,Krista Woodward,44.69,46.24,46.11,49.32,44.28,48.55
+Javelin,Female,173,Brittany Borman,57.34,53.58,0,0,55.75,55.97
+Javelin,Female,173,Karlee McQuillen,52.5,53.54,0,51.43,0,0
+Javelin,Female,173,Kateema Riettie,0,49.2,47.03,47.5,0,49.9
+Javelin,Female,173,Monika Gruszecki,48.18,46.88,49.34,45.73,47.96,0
+Javelin,Female,173,Krista Woodward,44.28,44.05,0,0,0,44.85
+Hammer,Male,181,Chris Cralle,71.93,0,73.67,72.14,0,73.43
+Hammer,Male,181,Kamalpreet Singh,66.86,68.76,69.43,68.71,70.37,0
+Hammer,Male,181,Michael Lauro,0,0,64.84,65.38,64.5,65.9
+Hammer,Male,181,Bryce Buffalo,64.86,63.7,64.46,64.98,63.07,61.59
+Hammer,Male,181,Daniel Novia,0,0,0,60.43,61.04,61.91
+Hammer,Female,182,Sultana Frizell,74.35,73.24,0,71.74,72.62,73.61
+Hammer,Female,182,Jessica Cosby Toruga,0,73.67,0,71.04,73.13,72.89
+Hammer,Female,182,Amanda Bingson,0,0,0,72.18,0,0
+Hammer,Female,182,Britney Henry,69.25,68.92,0,67.97,68.79,69.7
+Hammer,Female,182,Brittany Smith,67.85,0,67.22,68.22,67.25,67.26
+Hammer,Female,182,Kristin Smith,0,64.92,67.36,64.95,65.49,66.84
+Hammer,Female,182,Amy Haapanen,64.13,0,65.58,0,62.18,63.42
+Hammer,Female,182,Chelsea Cassulo,0,0,64.76,64.58,63.57,0
+Hammer,Female,182,Megann Rodhe,61.84,61.45,63.06,0,63.5,61.9
+Hammer,Female,182,Lisa Wilson,60.84,62.77,0,0,62.71,61.62
+Hammer,Female,182,Jessika Byrd,58.93,0,56.88,0,58.3,0
+Hammer,Female,182,Linda Oseso,0,58.39,0,0,58.2,0
+Hammer,Female,182,Haley Showalter,51.18,0,56.25,55.14,0,55.26
+Hammer,Male,183,Chris Cralle,72.73,74.63,74.54,73.32,73.5,75.26
+Hammer,Male,183,AG Kruger,73.57,75.04,0,72.75,0,0
+Hammer,Male,183,Jim Steacy,72.55,0,72.68,71.9,0,72.49
+Hammer,Male,183,Kamalpreet Singh,66.69,0,68.8,67.74,0,68.35
+Hammer,Male,183,Daniel Haugh,66.36,67.49,0,0,0,64.34
+Hammer,Male,183,Daniel Novia,61.33,63.86,0,62.64,63.69,65.35
+Hammer,Male,183,Bryce Buffalo,64.49,0,64.51,62.28,63.96,63.45
+Hammer,Male,183,Rick Fenton,0,0,62.3,60.42,0,0
+Hammer,Male,183,Clay Cashman,0,45.8,45.41,0,0,47.45
+Hammer,Female,184,Sultana Frizell,69.96,67.78,0,71.89,74.1,75.73
+Hammer,Female,184,Amanda Bingson,0,73.74,74.41,74.44,73.59,0
+Hammer,Female,184,Jessica Cosby Toruga,71.28,0,0,73.61,0,74.2
+Hammer,Female,184,Britney Henry,67.35,0,0,69.33,0,0
+Hammer,Female,184,Brittany Smith,67.49,0,0,67.74,68.38,0
+Hammer,Female,184,Amy Haapanen,65.98,67.46,66.37,65.63,64.34,0
+Hammer,Female,184,Kristin Smith,65.15,64.81,67.08,63.73,64.21,0
+Hammer,Female,184,Megann Rodhe,60.82,61.2,61.5,64.14,61.56,0
+Hammer,Female,184,Linda Oseso,56.32,0,59.13,58.6,58.61,60.76
+Discus,Male,196,Vikas Gowda,62.85,0,65.62,0,59.77,61.37
+Discus,Male,196,Russ Winger,61.77,60.09,0,0,60.42,62.4
+Discus,Male,196,Bryan Powlen,60.5,0,62.37,0,0,61.86
+Discus,Male,196,Jared Schuurmans,60.02,0,62.07,0,0,60.57
+Discus,Male,196,Mike Torie,59.79,0,56.5,0,0,60.45
+Discus,Male,196,Lance Brooks,60.25,58.9,56.95,0,58.02,57.07
+Discus,Male,196,Mario Cota Castro,57.1,55.04,55.95,55.27,0,55.23
+Discus,Male,196,Eldred Henry,0,0,49.01,0,0,52.95
+Discus,Male,196,Daniel Haugh,0,51.75,0,0,49.8,0
+Discus,Male,196,Yaohui Wang,50.61,0,51.06,0,0,50.76
+Discus,Male,196,Marius Rosbach,0,49.57,50.21,0,0,50.38
+Discus,Female,197,Whitney Ashley,60.19,59.51,0,59.29,0,59.88
+Discus,Female,197,Liz Podominick,59.98,57.33,0,59.92,58.03,58.2
+Discus,Female,197,Sabine Rumpf,58.84,0,56.44,56.75,56.64,0
+Discus,Female,197,Summer Pierson,0,56.93,0,54.93,0,58.56
+Discus,Female,197,Rachel Longfors,57.06,54.92,0,56.84,53.21,56.71
+Discus,Female,197,Beth Rohl,55.67,51.83,54.7,56.01,0,0
+Discus,Female,197,Jere Summers,0,0,0,0,55.42,0
+Discus,Female,197,Maggie Ewen,52.07,0,0,55.07,0,49.87
+Discus,Female,197,Emily Pendleton,50.15,49.15,51.63,51.67,54.48,51.01
+Discus,Female,197,Alex Hartig,51.46,51.94,53.01,53.57,53.06,0
+Discus,Female,197,Anna Jelmini,0,52.24,53.26,51.38,0,0
+Discus,Female,197,Sarah Thornton,48.66,51.28,52.99,0,51.53,0
+Discus,Female,197,Tsai-Yi Li,50.42,50.92,51.34,50.62,52.8,0
+Discus,Female,197,Paige Blackburn,49.7,49.7,50.6,0,0,52.43
+Discus,Female,197,Vanessa Levy,47.76,46.07,0,45.4,0,45.8
+Discus,Female,197,Haley Showalter,44.29,0,0,43.52,43.65,46.89
+Discus,Male,198,Jared Schuurmans,0,60.69,62.76,63.47,0,0
+Discus,Male,198,Bryan Powlen,62.81,57.12,58.2,60.86,61.35,0
+Discus,Male,198,Mario Cota Castro,58.68,55.5,56.92,61.63,58.3,57.7
+Discus,Male,198,Russ Winger,60.69,60.77,61.25,0,61.07,58.93
+Discus,Male,198,Yaohui Wang,52.57,50.97,51.42,51.3,52.85,54.53
+Discus,Male,198,Eldred Henry,53.62,53.35,0,0,51.8,0
+Discus,Male,198,Gerhard De Beer,51,0,0,0,53.34,0
+Discus,Male,198,Marius Rosbach,0,0,0,47.97,0,50.1
+Discus,Female,199,Rachel Longfors,59.67,57.7,56.2,57.06,0,0
+Discus,Female,199,Whitney Ashley,0,58.87,58.14,59.24,59.59,59.12
+Discus,Female,199,Stephanie Brown Trafton,58.63,57.33,59.33,57.9,0,53.32
+Discus,Female,199,Liz Podominick,57.51,0,58.84,58.72,56.09,0
+Discus,Female,199,Sabine Rumpf,0,48.76,57.29,58.62,0,0
+Discus,Female,199,Summer Pierson,0,55.92,54.93,57.74,56.22,52.66
+Discus,Female,199,Beth Rohl,0,49.98,54.33,0,55.4,57.37
+Discus,Female,199,Jere Summers,55.75,57.17,56.89,0,52.63,0
+Discus,Female,199,Julie Labonte,54.46,56.1,0,53.92,0,56.83
+Discus,Female,199,Tsai-Yi Li,49.57,0,51,54.88,50.5,51.52
+Discus,Female,199,Emily Pendleton,53.83,54.23,51.52,51.25,52.3,54.65
+Discus,Female,199,Paige Blackburn,52.66,50.55,52.8,0,50.37,0
+Discus,Female,199,Sarah Thornton,0,52.36,52.13,51.54,49.07,0
+Javelin,Male,175,Sean Furey,73.94,74.49,74.87,76.33,78.48,79.54
+Javelin,Male,175,Barry Krammes,74.12,73.12,0,0,71.66,67.9
+Javelin,Male,175,Tim Glover,73.36,0,70.62,67.99,72.34,70.8
+Javelin,Male,175,Ryan Young,0,0,61.2,0,70.63,0
+Javelin,Male,175,Matthew Tholis,66.63,62.32,0,60.96,0,60.37
+Javelin,Male,175,Curtis Thompson,60.82,62.84,0,66.31,62.87,64.41
+Javelin,Male,175,Nick Solfanelli,0,58.89,59.07,61.31,65.74,56.98
+Javelin,Male,175,Trevor Danielson,54.6,58.66,0,56.95,52.16,60.52
+Javelin,Male,175,John Putnam,50.74,0,0,56.42,53.03,59.92
+Javelin,Male,175,Todd Ogden,0,0,53.34,51.39,55.62,56.37
+Javelin,Female,176,Tairyn Montgomery,0,45.89,47.55,49.3,49.7,42.66
+Javelin,Female,176,Gabby Kearney,43.29,0,43.33,0,0,48.07
+Javelin,Female,176,Katelyn Gochenour,45.47,46.27,0,0,45.95,0
+Javelin,Female,176,Emma Fitzgerald,0,0,46.09,0,0,43.31
+Javelin,Female,176,Rebecka Anderson,39.29,42.46,44.14,44.57,44.65,44.04
+Hammer,Male,187,Kibwe Johnson,0,0,71.89,70.62,73.54,74.27
+Hammer,Male,187,Chris Cralle,71.29,71.44,71.45,71.31,69.92,71.19
+Hammer,Male,187,Adam Kelly,64.36,0,62.43,64.74,65.76,65.88
+Hammer,Male,187,Daniel Haugh,64.67,65.4,0,0,62.97,0
+Hammer,Male,188,Amanda Bingson,69.65,70.17,0,67.25,0,68.21
+Hammer,Male,188,Kristin Smith,63.98,68.35,65.87,66.05,0,65.78
+Hammer,Male,188,Brittany Smith,67.49,65.29,65.35,65.71,0,64.16
+Hammer,Male,188,Nikola Lomnicka,0,0,0,0,66.45,0
+Hammer,Male,188,Chelsea Cassulo,0,0,0,61.68,0,0
+Hammer,Male,188,Haley Showalter,0,56.34,0,0,0,56.37
+Hammer,Male,188,Lena Giger,52.67,52.22,52.63,51.64,53.2,53.83
+Hammer,Male,188,Nyla Woods,53.2,52.36,52.08,50.38,51.26,0
+Discus,Male,202,Jared Schuurmans,0,60.01,60.91,0,59.73,0
+Discus,Male,202,Bryan Powlen,60.37,60.66,0,0,58.85,0
+Discus,Male,202,Russ Winger,0,57.28,60.45,0,60.11,57.83
+Discus,Male,202,Carlos Davis,59.43,55.83,0,59.17,57.93,52.46
+Discus,Male,202,Daniel Haugh,59.14,57.45,58,0,0,58.63
+Discus,Male,202,Kahlil Davis,54.92,0,48.09,46.67,55.5,52.45
+Discus,Male,202,Dennis Russell,46.32,0,48.71,51.74,0,0
+Discus,Male,202,Jack Lembcke,0,0,0,50.55,0,0
+Discus,Female,203,Krishna Poonia,0,0,59.17,56.51,0,58.52
+Discus,Female,203,Stephanie Brown Trafton,56.82,57.3,0,57.35,55.59,52.2
+Discus,Female,203,Jessica Maroszek,50.01,55.39,0,53.97,0,0
+Discus,Female,203,Beth Rohl,0,52.25,54.64,0,52.23,51.45
+Discus,Female,203,Raven Saunders,41.15,0,0,45.46,41.34,0
+Discus,Female,203,Lloydricia Cameron,0,0,45.26,44.41,42.5,41.91
+Discus,Female,203,Ashlie Blake,0,42.19,40.79,40.92,42.8,0
+Hammer,Female,385,Carly Fehringer,61.04,0,60.32,61.94,62.19,0
+Hammer,Female,385,Aubrey Baxter,0,0,57.18,60.67,59.69,0
+Shot Put,Male,391,Reese Hoffa,21.12,21.71,0,21.3,0,21.57
+Shot Put,Male,391,Ryan Whiting,21.31,0,0,0,21.23,21.37
+Shot Put,Male,391,Justin Rodhe,19.9,0,20.65,20.63,21.29,0
+Shot Put,Male,391,Cory Martin,0,20.24,0,0,0,19.91
+Shot Put,Male,391,Kurt Roberts,19.87,0,19.9,18.8,0,19.02
+Shot Put,Male,391,Zack Lloyd,18.66,19.45,18.99,0,0,19.49
+Shot Put,Male,391,Nedzad Mulabegovic,19.12,19.04,19.18,19.03,0,0
+Shot Put,Male,874,Reese Hoffa,21.46,21.28,22,0,21.46,21.93
+Shot Put,Male,874,Ryan Whiting,21.66,0,21.07,21.28,21.12,21.46
+Shot Put,Male,874,Christian Cantwell,20.74,0,21.28,0,21.02,20.81
+Shot Put,Male,874,Joe Kovacs,19.56,20.2,21.08,0,20.53,19.91
+Shot Put,Male,874,Kurt Roberts,20.45,0,19.73,19.99,20.75,20.53
+Shot Put,Male,874,Cory Martin,20.17,20.01,0,0,20.7,0
+Shot Put,Male,874,Jacob Thormaehlen,19.53,19.59,19.76,19.29,0,19.76
+Shot Put,Male,874,Jordan Clarke,19.44,19.24,0,19.55,0,0
+Discus,Male,875,Lance Brooks,64.13,64.15,64.44,0,0,65.15
+Discus,Male,875,Jarred Rome,61.26,0,0,0,60.46,63.35
+Discus,Male,875,Jason Young,61.5,61.83,61.62,0,62.07,62.15
+Discus,Male,875,Ian Waltz,0,59.72,61.33,60.55,61.24,0
+Discus,Male,875,Russ Winger,59.2,0,0,61.24,0,60.02
+Discus,Male,875,Casey Malone,59.85,60.47,60.81,60.39,58.69,61.11
+Discus,Male,875,Dan Hytinen,0,54.43,59.69,0,59.31,0
+Discus,Male,875,Westley Stockbarger,0,58.66,0,58.48,59.19,0
+Hammer,Male,876,Kibwe Johnson,74.4,73.7,0,72.6,74.97,0
+Hammer,Male,876,Chris Cralle,72.05,74.35,72.95,72.2,74.36,73.96
+Hammer,Male,876,AG Kruger,73.93,0,71.53,73.37,73.85,72.29
+Hammer,Male,876,Conor McCullough,73.55,0,70.38,0,73.42,72.61
+Hammer,Male,876,Andrew Loftin,70.82,71.59,73.51,70.14,72.21,69.35
+Hammer,Male,876,Andy Fryman,0,68.27,71.49,0,72.63,70.8
+Hammer,Male,876,Garland Porter,69.83,68.95,65.79,70.4,71.01,70.71
+Hammer,Male,876,Thomas Freeman,70.11,68.74,0,0,68.07,70.41
+Hammer,Male,876,Lucais MacKay,68.87,0,68.35,0,68.61,68.87
+Javelin,Male,877,Sam Humphreys,80.74,81.86,0,76.16,80.84,80.44
+Javelin,Male,877,Sam Crouser,0,74.7,75.6,75.38,0,80.8
+Javelin,Male,877,Craig Kinsley,74.3,78.04,77.45,75.98,79.69,79.92
+Javelin,Male,877,Cyrus Hostetler,75.8,77.63,0,0,0,76.54
+Javelin,Male,877,Tim Glover,72.19,73.98,76.21,72.89,70.1,73.5
+Javelin,Male,877,Corey White,75.24,69.89,0,68.67,70.37,75.73
+Javelin,Male,877,Sean Keller,75.12,71.66,0,0,72.84,0
+Shot Put,Female,935,Jillian Camarena-Williams,17.33,0,19.16,18.99,0,0
+Shot Put,Female,935,Michelle Carter,18.16,18.27,0,18.37,18.57,0
+Shot Put,Female,935,Tia Brooks,18.02,18.34,17.46,18,18.06,0
+Shot Put,Female,935,Kearsten Peoples,0,17.32,16.85,18.22,17.9,0
+Shot Put,Female,935,Sarah Stevens-Walker,17.38,16.96,17.97,17.72,0,17.94
+Shot Put,Female,935,Alyssa Hasslen,17.05,17.36,17.1,17.74,0,0
+Shot Put,Female,935,Tiffany Howard,16.43,17.12,0,0,0,16.59
+Shot Put,Female,935,Jeneva McCall-Stevens,15.59,16.97,17.03,16.68,0,16.86
+Discus,Female,936,Stephanie Brown Trafton,63.3,62.62,60.19,0,0,65.18
+Discus,Female,936,Aretha Thurmond,62.04,0,0,59.9,62.23,0
+Discus,Female,936,Suzy Powell-Roos,58.68,57.5,57.13,60.2,57.57,0
+Discus,Female,936,Shelbi Vaughan,57.87,59.68,58.98,0,57.53,0
+Discus,Female,936,Liz Podominick,59,0,55.63,0,59.42,57.49
+Discus,Female,936,Gia Lewis-Smallwood,57.48,56.17,0,58.78,56.45,0
+Discus,Female,936,Beth Rohl,57.37,0,57.82,57.37,0,55.02
+Discus,Female,936,Summer Pierson,57.44,54.97,0,0,0,54.41
+Hammer,Female,937,Amber Campbell,69.48,69.11,0,66.4,71.8,71.56
+Hammer,Female,937,Amanda Bingson,67.07,69.61,71.22,71.78,0,71.21
+Hammer,Female,937,Jessica Cosby Toruga,68.75,69.33,70.77,68.62,65.5,0
+Hammer,Female,937,Amy Haapanen,67.55,66.21,0,0,70.63,68.28
+Hammer,Female,937,Keelin Godsey,66.52,68.19,65.64,70.48,67.24,67.17
+Hammer,Female,937,Brittany Riley,69.29,0,0,65.06,67.87,68.19
+Hammer,Female,937,Gwen Berry,64.36,0,67.76,0,68.84,68.72
+Hammer,Female,937,Aubrey Baxter,67.92,68.77,68.55,0,0,65.67
+Hammer,Female,937,Britney Henry,68.47,66.67,67.06,64.76,0,0
+Javelin,Female,938,Brittany Borman,56.47,55.07,57.59,0,57.44,61.51
+Javelin,Female,938,Kara Patterson,59.09,58.29,59.79,56.55,0,0
+Javelin,Female,938,Kimberley Hamilton,0,58.04,54.52,53.92,55.61,0
+Javelin,Female,938,Rachel Yurkovich,0,53.66,55.02,0,56.85,55.12
+Javelin,Female,938,Alicia DeShasier,53.99,56.62,0,54.25,56.53,53.3
+Javelin,Female,938,Dana Pounds-Lyon,54.45,54.6,0,55.16,0,0
+Javelin,Female,938,Haley Crouser,50.48,54.13,48.84,52.85,50.95,54.77
+Javelin,Female,938,Leigh Petranoff,48.06,51.29,53.59,51.71,52.73,0
+Shot Put,Male,491,Cory Martin,19.77,0,19.79,20.35,0,0
+Shot Put,Male,491,Bobby Grace,19.15,19.07,19.48,19.05,18.94,0
+Shot Put,Male,491,David Pless,19.07,18.41,19.16,18.88,18.18,0
+Shot Put,Male,491,Curtis Jensen,0,18.34,18.74,0,18.74,0
+Shot Put,Male,491,Stephen Saenz,17.91,0,18.51,0,0,18.49
+Shot Put,Male,491,Rashad Williams,0,0,16.94,17.67,0,0
+Shot Put,Male,491,Hezekiel Romeo,16.54,17.23,17.08,0,17.04,17.22
+Shot Put,Male,491,Eldred Henry,0,0,0,17.08,17,0
+Discus,Male,492,Jared Schuurmans,62.11,0,61.1,63.15,63.72,61.92
+Discus,Male,492,Russ Winger,56.56,0,57.85,0,60.5,59.7
+Discus,Male,492,Andrew Evans,54.29,0,57.42,0,0,59.86
+Discus,Male,492,Lance Brooks,55.45,59.42,0,56.4,0,58.87
+Discus,Male,492,Gerhard De Beer,57.82,56.39,57.32,0,0,59.09
+Discus,Male,492,Austin Gamble,56.45,0,0,55.59,56.49,57.72
+Discus,Male,492,Bryan Powlen,55.81,55.41,57.19,56.84,0,57.49
+Discus,Male,492,Pau Tonnesen,42.13,45.84,0,46.2,41.46,0
+Hammer,Male,493,Kibwe Johnson,72.41,0,75.98,0,0,75.88
+Hammer,Male,493,AG Kruger,70.79,75.34,74.28,0,75.04,73.95
+Hammer,Male,493,Kamalpreet Singh,72.86,69.98,70.8,71.48,72.32,70.39
+Hammer,Male,493,Colin Dunbar,67.47,0,0,71.28,0,69.84
+Hammer,Male,493,Jim Steacy,0,69.75,70.23,69.19,68.86,0
+Hammer,Male,493,Daniel Novia,0,64.27,64.72,64.56,66.56,0
+Hammer,Male,493,Ryan Loughney,0,0,0,65.2,0,0
+Hammer,Male,493,Isaac Dan,59.26,63.97,63.19,60.64,65.11,0
+Hammer,Male,493,Bryce Buffalo,61.2,63.35,63.38,63.05,63.07,60.06
+Javelin,Male,494,Timothy VanLiew,65.1,70.96,65.91,72.9,70.98,75.69
+Javelin,Male,494,Benjamin Woodruff,74.15,0,70.48,0,70.71,69.07
+Javelin,Male,494,Josue Menendez,69.16,69.25,69.89,71.15,73.81,73.01
+Javelin,Male,494,Carlos Armenta,72.07,71.44,68.2,0,68.46,73.07
+Javelin,Male,494,David Ocampo,0,0,0,0,0,69.76
+Javelin,Male,494,Brent Lagace,64.93,64.23,63.37,65.09,67.07,67.12
+Javelin,Male,494,Kyle Nielsen,0,62.87,65.38,62.72,66.72,0
+Shot Put,Female,495,Jillian Camarena-Williams,17.63,17.97,17.78,18.01,0,0
+Shot Put,Female,495,Jeneva McCall-Stevens,17.62,17.88,0,17.45,0,17.55
+Shot Put,Female,495,Becky O'Brien,17.09,16.56,16.49,16.87,16.51,16.48
+Shot Put,Female,495,Jessica Ramsey,16.47,16.69,16.8,16.67,17.07,0
+Shot Put,Female,495,Monique Riddick,0,15.7,15.5,15.62,15.74,16.6
+Shot Put,Female,495,Brittany Crew,15.48,0,0,0,15.22,16.32
+Shot Put,Female,495,Julie Labonte,16.23,0,16.07,16.15,0,0
+Shot Put,Female,495,Sharon Day-Monroe,15.25,0,0,0,0,14.41
+Discus,Female,496,Liz Podominick,0,57.38,0,55.92,58.82,59.59
+Discus,Female,496,Summer Pierson,55.39,0,55.05,55.38,57.14,55.41
+Discus,Female,496,Rachel Longfors,0,54.02,53.78,56.47,56.47,0
+Discus,Female,496,Stephanie Brown Trafton,55.47,0,50.43,0,55.03,56.15
+Discus,Female,496,Anna Jelmini,53.71,0,55.64,0,54.39,54.55
+Discus,Female,496,Laura Bobek,51.26,0,52.51,0,0,50.34
+Discus,Female,496,Jere Summers,0,48.11,0,0,52.17,0
+Discus,Female,496,Paige Blackburn,0,50.09,0,0,0,51.58
+Discus,Female,496,Gabi Dixson,50.44,45.6,45.9,42.87,47.17,48.67
+Hammer,Female,497,Jeneva McCall-Stevens,69.9,71.73,0,0,69.81,70.14
+Hammer,Female,497,Jessica Ramsey,64.47,64.36,64.45,0,59.84,69.47
+Hammer,Female,497,Heather Steacy,67.33,66.61,0,67.73,64.81,68.48
+Hammer,Female,497,Amy Haapanen,65.28,67.88,65.05,66.61,0,64.95
+Hammer,Female,497,Lauren Stuart,0,0,0,0,0,64.36
+Hammer,Female,497,Alina Duran,57.04,59.11,0,57.3,61.36,60.81
+Javelin,Female,498,Leigh Petranoff,54.41,53.31,0,47.95,52.92,52.48
+Javelin,Female,498,Ariana Ince,50.93,51.64,52.36,0,50.43,50.04
+Javelin,Female,498,Melissa Fraser,51.99,49.82,51.32,47.05,0,0
+Javelin,Female,498,Tiffany Forbito,50.5,45.34,47.24,45.02,0,44.69
+Javelin,Female,498,Abigail Gomez,46.16,50.05,49.85,49.71,0,48.35
+Javelin,Female,498,Sharon Day-Monroe,39.52,41.25,47.27,40.29,0,37.32
+Shot Put,Male,504,Jordan Clarke,20.5,20.7,20.69,0,20.61,20.78
+Shot Put,Male,504,Eric Werskey,19.67,0,20.13,0,0,19.25
+Shot Put,Male,504,Richard Garrett,18.24,0,18.88,19.65,19.45,19.33
+Shot Put,Male,504,Bobby Grace,18.97,19.47,0,18.82,0,19.15
+Shot Put,Male,504,Stephen Saenz,19.03,19.16,0,0,0,19.13
+Shot Put,Male,504,Curtis Jensen,0,0,18.64,18.82,0,19.1
+Shot Put,Male,504,David Pless,18.74,18.56,18.92,0,18.4,0
+Shot Put,Male,504,Eldred Henry,0,18.88,0,0,0,18.41
+Discus,Male,505,Jared Schuurmans,61.91,63.54,0,62.67,62.5,63.62
+Discus,Male,505,Vikas Gowda,57.8,59.41,59.65,62.79,63.07,61.14
+Discus,Male,505,Andrew Evans,60.75,57.75,0,59.53,57.94,60.54
+Discus,Male,505,Lance Brooks,60.04,58.68,57.98,57.82,57.72,58.61
+Discus,Male,505,Bryan Powlen,57.09,56.75,55.42,55.91,56.75,56.35
+Discus,Male,505,Gerhard De Beer,0,0,0,0,56.81,0
+Discus,Male,505,Russ Winger,55.4,56.53,0,56.74,0,0
+Discus,Male,505,Michael Ohakwe,53.26,0,54.31,55.6,54.7,0
+Discus,Male,505,Austin Gamble,53.89,55.41,55.39,53.78,0,0
+Hammer,Male,506,AG Kruger,75.62,0,0,0,75.19,0
+Hammer,Male,506,Kibwe Johnson,70.73,0,0,75.03,74.93,0
+Hammer,Male,506,Colin Dunbar,0,0,0,69.57,73.56,72
+Hammer,Male,506,Kamalpreet Singh,68.53,70.48,69.31,0,0,71.47
+Hammer,Male,506,Remy Conatser,67.93,0,66.72,66.53,67.17,0
+Hammer,Male,506,Daniel Novia,66.68,0,66.39,66.87,67.11,0
+Hammer,Male,506,Ryan Loughney,65.25,65.85,65.85,0,64.34,64.54
+Hammer,Male,506,Isaac Dan,60.97,63.35,0,63.89,63.92,0
+Hammer,Male,506,Bryce Buffalo,60.62,61.51,0,0,62.21,62.2
+Hammer,Male,506,Kyle Long,56.19,57.85,0,57.13,0,58.45
+Javelin,Male,507,Sean Furey,72.99,0,75.97,74.44,82.59,0
+Javelin,Male,507,Riley Dolezal,78.04,75.86,80.3,80.89,81.13,81.15
+Javelin,Male,507,Timothy VanLiew,79.49,0,74.83,76.49,0,0
+Javelin,Male,507,Benjamin Woodruff,0,74.2,71.38,74.63,0,78.67
+Javelin,Male,507,Craig Kinsley,76.31,73.5,76.54,75.83,72.88,71.04
+Javelin,Male,507,Cyrus Hostetler,0,73.83,74.28,0,75.72,0
+Javelin,Male,507,Nicholas Howe,69.05,0,0,69.14,71.64,75.28
+Javelin,Male,507,Cooper Thompson,70.4,73.14,0,0,0,70.67
+Javelin,Male,507,Barry Krammes,0,70.03,72.14,68.5,66.7,68.48
+Javelin,Male,507,Kyle Nielsen,63.31,61.9,0,64.12,0,0
+Shot Put,Female,508,Dani Bunch,17.73,18.27,0,0,18.76,18.89
+Shot Put,Female,508,Jeneva McCall-Stevens,0,18.05,0,0,17.77,18.58
+Shot Put,Female,508,Tia Brooks,18.2,18.03,18.4,18.42,0,0
+Shot Put,Female,508,Jillian Camarena-Williams,17.9,18.03,18.37,0,0,17.81
+Shot Put,Female,508,Monique Riddick,15.56,16.04,17.12,16.93,16.4,17.37
+Shot Put,Female,508,Becky O'Brien,15.51,16.73,17.14,16.29,17.19,16.48
+Shot Put,Female,508,Jessica Ramsey,15.97,16.39,0,16.38,16.9,0
+Shot Put,Female,508,Julie Labonte,16.05,0,16.41,0,15.99,16.08
+Shot Put,Female,508,Brittany Crew,14.79,14.93,15.2,15.52,16.18,15.77
+Shot Put,Female,508,Stamatia Scarvelis,14.06,14.84,0,0,14.76,0
+Discus,Female,509,Whitney Ashley,57.63,57.62,58.27,59.05,0,0
+Discus,Female,509,Liz Podominick,0,57.35,57.21,0,55.61,57.01
+Discus,Female,509,Maggie Ewen,57.14,55.51,0,52.24,0,0
+Discus,Female,509,Summer Pierson,54.11,0,56.31,53.19,56.81,0
+Discus,Female,509,Jere Summers,0,0,0,56.09,0,0
+Discus,Female,509,Rachel Longfors,52.18,0,54.82,55.54,0,55.67
+Discus,Female,509,Stephanie Brown Trafton,0,54.59,51.51,54.35,55.28,52.25
+Discus,Female,509,Anna Jelmini,0,53.69,0,51.96,0,52.36
+Discus,Female,509,Alex Hartig,53.2,0,48.11,48.5,0,49.28
+Discus,Female,509,Paige Blackburn,49.25,0,51.84,0,0,51.67
+Discus,Female,509,Stamatia Scarvelis,48.29,48.91,44.34,44.49,48.87,0
+Discus,Female,509,Gabi Dixson,0,46.83,44.77,45.35,0,45.25
+Hammer,Female,510,Jeneva McCall-Stevens,72.69,69.9,70.45,69.53,70.19,69.77
+Hammer,Female,510,Kristin Smith,64.61,68.45,63.86,66.8,0,67.34
+Hammer,Female,510,Heather Steacy,66.63,67.89,0,66.7,0,0
+Hammer,Female,510,Amy Haapanen,65.59,0,0,0,63.75,0
+Hammer,Female,510,Jessica Ramsey,0,0,0,0,0,63.19
+Hammer,Female,510,Taylor Bush,61.58,62.66,0,63.08,0,0
+Hammer,Female,510,Lauren Stuart,0,0,62.87,0,0,62.42
+Hammer,Female,510,Alina Duran,60.47,61.57,60.74,62.12,0,61.66
+Hammer,Female,510,Jessika Byrd,55.6,56.86,0,56.13,0,57.21
+Hammer,Female,510,Amanda Gricus,50.39,0,53.49,55.29,54.46,0
+Hammer,Female,510,Ginger Jarchow,0,53.66,0,0,53.71,53.32
+Javelin,Female,511,Brittany Borman,56.69,60.4,0,56.83,0,55.46
+Javelin,Female,511,Ariana Ince,59.79,55.57,53.36,51.81,55.46,56.88
+Javelin,Female,511,Kimberley Hamilton,52.09,51.47,53.77,51.46,54.6,54.4
+Javelin,Female,511,Abigail Gomez,53.61,54.6,50.34,48.16,0,0
+Javelin,Female,511,Melissa Fraser,48.31,45.76,0,0,52.29,46.95
+Javelin,Female,511,Paige Blackburn,0,46.33,51.97,49.77,48.82,0
+Javelin,Female,511,Tiffany Forbito,51.46,0,47.29,45.09,0,0
+Javelin,Female,511,Leigh Petranoff,50.09,48.18,51.44,49.68,51.34,0
+Javelin,Female,511,Sharon Day-Monroe,42.38,0,43.07,43.35,0,41.05
+Shot Put,Male,665,Dotun Ogundeji,0,20.05,18.35,19.47,0,0
+Shot Put,Male,665,Richard Garrett,18.67,18.43,18.82,19.01,0,0
+Shot Put,Male,665,Amir Ali Patterson,17.75,18,18.44,18.75,0,0
+Shot Put,Female,666,Kayla Hopkins,13.76,14.01,14.02,14,0,0
+Shot Put,Female,666,Linn Dunton,0,10.27,9.78,9.48,0,0
+Shot Put,Female,666,Linda Cohn,8.61,8.53,8.41,8.78,0,0
+Discus,Male,667,Andrew Evans,58.31,60.65,60.6,59.37,0,0
+Discus,Male,667,Mike Torie,58.32,58.83,0,58.34,0,0
+Discus,Male,667,Mathew Koscki,56.58,57.44,55.27,55.14,0,0
+Discus,Male,667,Amir Ali Patterson,53.77,54.65,54.82,52.18,0,0
+Discus,Male,667,Dave Endler,48.64,50.94,50.75,49.64,0,0
+Discus,Male,667,Scott Endler,0,41.45,40.65,40.13,0,0
+Discus,Male,667,Matt Enlder,40.88,0,39,39.72,0,0
+Discus,Female,668,Summer Pierson,57.66,0,0,58.61,0,0
+Discus,Female,668,Paige Blackburn,0,0,53.3,52.27,0,0
+Discus,Female,668,Claire Uke,0,51.36,51.15,51,0,0
+Discus,Female,668,Linda Cohn,21.81,24.71,24.05,24.65,0,0
+Hammer,Male,669,Ryan McCullough,60.56,61.87,62.48,64.26,0,0
+Hammer,Female,670,Britney Henry,68.81,67.96,0,70.16,0,0
+Hammer,Female,670,Jade Grace,58,0,0,57.79,0,0
+Hammer,Female,670,Amanda Gricus,56.69,56.78,54.48,56.21,0,0
+Hammer,Female,670,Linn Dunton,34.01,30.72,32.92,32.29,0,0
+Hammer,Female,670,Linda Cohn,17.25,17.11,16.16,19.07,0,0
+Javelin,Male,680,Benjamin Woodruff,72.43,72.06,0,68.36,0,0
+Javelin,Male,680,Cooper Thompson,69.96,0,67.7,72.21,0,0
+Javelin,Male,680,Nash Howe,62.85,62.68,62.58,62.91,0,0
+Javelin,Male,680,Neiman Howe,46.41,50.09,0,51.87,0,0
+Javelin,Male,680,David Dixon,36.85,47.29,44.11,46.97,0,0
+Javelin,Male,680,Kurt Rustin,43.03,38.27,42.38,41.68,0,0
+Javelin,Female,681,Allison Updike,44.66,52.08,0,50.11,0,0
+Javelin,Female,681,Leigh Petranoff,0,47.72,46.72,49.2,0,0
+Javelin,Female,681,Tiffany Forbito,46.41,47.09,43.21,45.52,0,0
+Javelin,Female,681,Linda Cohn,31.19,32.77,0,32.91,0,0
+Javelin,Female,681,Rita Hanscom,23.06,21.19,21.84,25.83,0,0
+Hammer,Male,682,Kibwe Johnson,74.56,76.22,73.11,0,76.95,0
+Hammer,Male,682,Conor McCullough,74.98,74.66,74.13,75.33,76.09,75.16
+Hammer,Male,682,AG Kruger,71.29,74.8,0,74.05,75.03,76.01
+Hammer,Male,682,James Lambert,66.41,0,70.85,71.21,0,72.49
+Hammer,Male,682,Matthias Tayala,0,69.12,69.61,0,71.94,0
+Hammer,Male,682,Colin Dunbar,68.9,71.86,71.77,71.06,0,0
+Hammer,Male,682,Andy Fryman,70.26,70.36,69.77,71.29,0,71.47
+Hammer,Male,682,Michael Lihrman,68.06,70.35,0,70.79,71.16,0
+Javelin,Male,711,Sean Furey,76.04,76.14,76.99,80.56,76.3,83.08
+Javelin,Male,711,Riley Dolezal,75.52,0,80.75,0,78.98,0
+Javelin,Male,711,Sam Crouser,73.34,70.53,71.1,75.07,75.93,71.21
+Javelin,Male,711,Sam Humphreys,71.17,0,73.12,73.2,73,72.67
+Javelin,Male,711,Curtis Thompson,66.82,71.53,72.45,0,70.05,0
+Javelin,Male,711,Cyrus Hostetler,0,69.61,0,70.78,69.91,0
+Javelin,Male,711,Benjamin Woodruff,68.38,70.34,67.45,0,69.56,0
+Discus,Male,712,Jared Schuurmans,63.11,64.64,0,0,63.23,62.8
+Discus,Male,712,Russ Winger,64.34,57.98,62.62,0,58.3,62.62
+Discus,Male,712,Andrew Evans,60.83,60.62,63.67,0,62.55,62.61
+Discus,Male,712,Rodney Brown,63.66,0,0,0,59.2,60.72
+Discus,Male,712,Tavis Bailey,59.9,61.48,0,0,59.54,0
+Discus,Male,712,Mason Finley,60.95,0,0,60.46,61.11,0
+Discus,Male,712,Chase Madison,57.68,61.04,0,59.08,59.32,60.84
+Discus,Male,712,Sam Mattis,57.59,0,60.82,58.89,57.06,55.6
+Shot Put,Female,713,Michelle Carter,20.02,0,18.86,0,18.9,0
+Shot Put,Female,713,Tia Brooks,18.25,18.29,18.22,18.19,18.16,18.93
+Shot Put,Female,713,Jeneva McCall-Stevens,18.79,0,18.11,0,0,18.84
+Shot Put,Female,713,Jillian Camarena-Williams,17.91,18.25,18.07,0,18.32,18.71
+Shot Put,Female,713,Brittany Smith,17.64,18.63,18.14,0,0,18.21
+Shot Put,Female,713,Jessica Ramsey,18.42,0,18.08,17.67,17.53,0
+Shot Put,Female,713,Felisha Johnson,16.78,18.24,0,17.5,0,17.83
+Shot Put,Female,713,Raven Saunders,17.71,0,17.71,17.85,17.83,0
+Javelin,Female,747,Kara Patterson,64.94,61.38,0,61.42,0,64.45
+Javelin,Female,747,Brittany Borman,61.08,0,61.08,60.93,0,61.8
+Javelin,Female,747,Hannah Carson,0,51.85,59.57,57.16,0,0
+Javelin,Female,747,Kimberley Hamilton,59.05,57.43,0,57.5,57.05,56.61
+Javelin,Female,747,Ariana Ince,57.34,56.47,58.14,57.8,0,0
+Javelin,Female,747,Karlee McQuillen,53.32,53.06,56.76,0,54.77,0
+Javelin,Female,747,Elizabeth Herrs,56.26,0,0,0,47.38,49.45
+Javelin,Female,747,Sarah Firestone,43.88,55.68,50.9,0,0,50.64
+Shot Put,Male,750,Joe Kovacs,20.65,0,20.18,21.84,20.79,21.61
+Shot Put,Male,750,Christian Cantwell,20.4,21.17,21.45,0,0,21.64
+Shot Put,Male,750,Jordan Clarke,20.49,20.41,21.11,20.93,21.12,21.49
+Shot Put,Male,750,Reese Hoffa,0,0,21.18,20.75,0,0
+Shot Put,Male,750,Jon Jones,19.98,20.34,20.92,0,0,19.67
+Shot Put,Male,750,Ryan Whiting,19.48,20.23,20.6,20.79,20.09,0
+Hammer,Female,751,Amber Campbell,68.83,70.06,71.67,0,70.36,72.36
+Hammer,Female,751,Deanna Price,0,72.3,2.44,68.57,0,69.53
+Hammer,Female,751,Amanda Bingson,70.17,69.62,0,0,70.6,0
+Hammer,Female,751,Jeneva McCall-Stevens,68.24,67.15,68.42,70.55,0,69.5
+Hammer,Female,751,Gwen Berry,69.58,70.35,68.85,0,70.04,70.17
+Hammer,Female,751,Jessica Ramsey,68.79,0,0,67.32,0,64.34
+Hammer,Female,751,Kristin Smith,66.07,68.25,66.14,66.73,65.29,67.74
+Hammer,Female,751,Brooke Pleger,67.27,66.37,0,64.13,0,0
+Discus,Female,752,Gia Lewis-Smallwood,60.79,61.13,61.24,59.45,61.02,63.09
+Discus,Female,752,Whitney Ashley,62.21,60.25,61.91,0,62.18,0
+Discus,Female,752,Shelbi Vaughan,40.65,60.76,55.69,59.03,58.36,59.35
+Discus,Female,752,Kelsey Card,53.72,58.42,58.34,56.6,60.06,60.16
+Discus,Female,752,Stephanie Brown Trafton,53.34,0,58.11,55.22,55.86,58.06
+Discus,Female,752,Rachel Longfors,58.1,56.46,56.63,0,55.7,57.01
+Discus,Female,752,Summer Pierson,0,52.38,57.29,56.31,0,57.93
+Hammer,Female,811,Gwen Berry,67.37,69.6,69.45,68.98,68.97,0
+Hammer,Female,811,Kristin Smith,67.11,63.93,0,68.9,63.73,66.75
+Hammer,Female,811,Brooke Pleger,64.68,65.65,63.05,0,68.66,0
+Hammer,Female,811,Britney Henry,63.15,67.01,0,66.11,0,67.05
+Hammer,Female,811,Taylor Bush,64.01,63.22,64.2,0,65.1,64.26
+Hammer,Female,811,Haley Showalter,58.46,0,0,57.47,59.17,56.45
+Hammer,Female,811,Courtney Jacobsen,51.9,50.51,50.83,50.22,0,52.96
+Hammer,Female,811,Alyssa Wilson,0,0,49.25,47.35,48.52,51.89
+Hammer,Female,811,Kaylee Antill,48.3,50.09,0,51.47,0,0
+Hammer,Female,811,Makena Thomas,0,45.39,46.56,48.01,0,0
+Hammer,Male,812,Adam Kelly,70.82,74.1,71.27,73.65,73.96,73.92
+Hammer,Male,812,Timothy Morse,65.62,65.46,0,65.49,66.7,0
+Hammer,Male,812,Seth Whitener,0,62.28,0,64.18,0,63.81
+Hammer,Male,812,Michael Alvernaz,59.15,0,0,0,60.78,0
+Discus,Female,813,Gia Lewis-Smallwood,62.39,0,60.25,0,64.01,0
+Discus,Female,813,Liz Podominick,52.31,53.7,0,56.26,57.39,0
+Discus,Female,813,Summer Pierson,53.24,52.65,55.97,57.12,54.25,55.15
+Discus,Female,813,Stephanie Brown Trafton,50.28,50.71,48.11,51.26,52.4,51.72
+Discus,Female,813,Samantha Lockhart,0,50.57,0,50.69,0,50.64
+Discus,Female,813,Kiana Phelps,46.7,47.18,48.3,48.75,48.32,50.2
+Discus,Female,813,Allison Szykowny,45.27,47.46,0,45.57,49.41,0
+Discus,Female,813,Kaylee Antill,46.13,47.32,42.23,44.64,42.21,47.72
+Discus,Female,813,Elena Bruckner,44.86,45.8,47.56,0,47.04,42.52
+Discus,Female,813,Alyssa Wilson,41.19,44.05,42.67,44.1,43.9,44.25
+Discus,Female,813,KD Young,42.23,41.6,42.36,40.32,42.86,36.21
+Discus,Female,813,Khayla Dawson,0,0,40.78,0,38.24,0
+Discus,Male,814,Carlos Davis,60.14,0,57.88,55.1,0,58.24
+Discus,Male,814,Kahlil Davis,59.5,58.21,55.5,55.31,57.77,58.04
+Discus,Male,814,Andrew Evans,57.92,56.48,56.45,59.14,59.27,57.83
+Discus,Male,814,Russ Winger,55.89,58.26,59.14,0,0,57.24
+Discus,Male,814,Lucas Ribeiro,54.19,52.17,0,51.73,51.05,0
+Discus,Male,814,Jordan Geist,50.35,50.27,48.76,49.7,50,49.97
+Javelin,Female,815,Kimberley Hamilton,0,54.37,52.56,50.51,55,58.08
+Javelin,Female,815,Ariana Ince,57.72,54.54,50.85,54.38,0,52.74
+Javelin,Female,815,Leigh Petranoff,51.06,51.13,45.93,51.94,49.14,51.23
+Javelin,Female,815,Gabby Kearney,46.21,47,0,49.29,49.62,48.6
+Javelin,Female,815,Emma Fitzgerald,41.67,43.2,43.36,45.21,0,43.64
+Javelin,Female,815,Morgan Bower,30.37,32.58,0,0,0,31.7
+Javelin,Male,816,Riley Dolezal,77.02,79.49,0,79.71,0,0
+Javelin,Male,816,Sean Furey,76.03,0,75.69,72.39,77.72,79.04
+Javelin,Male,816,Timothy VanLiew,65.66,0,0,67.35,63.66,62.99
+Javelin,Male,816,Nicholas Howe,66.4,64.9,0,0,64.78,66.52
+Javelin,Male,816,Michael Marsack,59.46,61.67,59.67,60.48,64.26,0
+Javelin,Male,816,Michael Biddle,62.25,61.44,0,59.45,60.47,60.38
+Javelin,Male,816,Grant Jones,56.83,60.28,57.9,56.9,52.6,57.91
+Javelin,Male,816,Grayson Hill,0,57.3,58.36,0,56.55,0
+Javelin,Male,816,Kiegan Lenihan,50.49,54.45,49.63,47.07,0,0
+Shot Put,Female,817,Brittany Smith,17.67,17.4,17.67,17.64,17.98,18.12
+Shot Put,Female,817,Becky O'Brien,17.64,16.93,17.57,16.74,16.52,17.41
+Shot Put,Female,817,Dani Bunch,17.28,0,0,17.08,0,0
+Shot Put,Female,817,Tori Bliss,15.87,16.73,16.41,0,16.9,0
+Shot Put,Female,817,Alyssa Wilson,0,14.95,0,15.15,0,15.2
+Shot Put,Female,817,Elena Bruckner,14.33,0,14.71,0,14.62,14.35
+Shot Put,Female,817,Khayla Dawson,13.77,13.91,14.09,13.85,14.15,13.69
+Shot Put,Female,817,KD Young,13.37,13.27,0,12.7,13.67,13.88
+Shot Put,Female,817,Kaylee Antill,0,11.98,12.03,0,11.99,12.43
+Shot Put,Male,818,Jordan Geist,0,19.76,0,19.67,19.55,0
+Shot Put,Male,818,Eric Werskey,19.52,19.28,19.2,19.33,19.11,19.28
+Shot Put,Male,818,Eric Favors,18.88,19.17,19.11,0,0,19.28
+Shot Put,Male,818,Matt DeChant,0,18.05,18.48,0,18.85,18.64
+Shot Put,Male,818,Kahlil Davis,17.83,0,17.56,17.39,0,17.44
+Shot Put,Male,818,Grant Cartwright,0,0,15.23,0,16.06,0
+Shot Put,Male,1054,Braheme Days,19.91,21.16,20.1,0,20.71,20.04
+Shot Put,Male,1054,Norman Black,10.96,10.69,11.6,0,0,12.05
+Discus,Male,1055,Jared Schuurmans,0,63.05,60.9,62.32,62.3,61.36
+Discus,Male,1055,Andres Rossini,56.2,56.33,54.41,56.46,57.2,58.24
+Discus,Male,1055,Braheme Days,54.96,0,0,0,57.54,0
+Discus,Male,1055,Yaohui Wang,50.2,52.23,0,56.89,0,0
+Discus,Male,1055,Brenden Song,54.37,0,0,56.61,0,0
+Discus,Male,1055,Jeremy Franklin,42.76,44.18,42.99,44.56,43.6,0
+Discus,Male,1055,Matthew-Jonathan Seawright,0,0,24.72,0,37.3,0
+Discus,Male,1055,Norman Black,35.07,32.87,0,0,0,35.83
+Discus,Female,1056,Whitney Ashley,0,0,0,62.78,61.05,0
+Discus,Female,1056,Liz Podominick,59.61,58.67,60.51,60.27,60.17,0
+Discus,Female,1056,Krishna Poonia,57.26,56.78,58.26,55.55,58.05,57.23
+Discus,Female,1056,Beth Rohl,52.57,56.82,51.99,54.1,56.62,53.39
+Discus,Female,1056,Tsai-Yi Li,49.56,0,52.22,46.6,52.96,0
+Discus,Female,1056,Stamatia Scarvelis,46.06,0,46.35,0,48.14,50.43
+Discus,Female,1056,Dorienne Ordaz,0,0,37.41,34.26,36.13,35.34
+Hammer,Male,1057,Caleb Stuart,61.31,0,0,62.01,64.16,0
+Hammer,Male,1057,Rick Fenton,0,0,60.11,62.4,61.03,0
+Hammer,Male,1057,Jeremy Franklin,59.31,60.81,0,59.07,0,0
+Hammer,Male,1057,Mitchell Dixon,0,57.51,0,56.06,0,0
+Hammer,Male,1057,Matthew-Jonathan Seawright,37.08,55.12,52.88,54.54,52.7,0
+Hammer,Male,1057,Kyong Song,47.07,0,0,46.18,45.12,0
+Hammer,Male,1057,Norman Black,32.45,31.44,32.68,31.36,31.95,33
+Hammer,Female,1058,Jessica Cosby Toruga,72.96,72.76,0,0,70.57,0
+Hammer,Female,1058,Britney Henry,68.09,0,64.82,0,65.39,65.69
+Hammer,Female,1058,Kristin Smith,67.76,63.54,53.19,63.43,56.71,62.73
+Hammer,Female,1058,Lisa Wilson,59.77,63.54,53.19,63.43,56.71,62.73
+Hammer,Female,1058,Brooke Andersen,52.77,53.94,54.25,52.17,48.98,55.22
+Hammer,Female,1058,Amanda Gricus,0,53.8,51.08,0,51.41,54.91
+Hammer,Female,1058,Dorienne Ordaz,45.9,45.29,46.04,47,45.42,44.9
+Javelin,Male,1065,Sean Furey,73.02,74.98,75.11,0,73.23,76.87
+Javelin,Male,1065,Nicholas Howe,67.84,67.1,64.93,67.93,71.35,72.8
+Javelin,Male,1065,Brent Lagace,70.28,68.62,70.34,0,0,67
+Javelin,Male,1065,Ryan Young,55.7,0,53.76,57.28,54.29,55.55
+Javelin,Male,1065,John Lally,55.7,0,53.76,57.28,54.29,55.55
+Javelin,Male,1065,Joshua Marsters,46.64,51.54,48.29,50.4,0,0
+Javelin,Male,1065,Michael Sills,41.68,44.19,42.29,45.05,40.08,0
+Javelin,Male,1065,Michael Shea,0,0,38.65,0,0,39
+Hammer,Male,1249,James Parker,69.25,70.67,0,70.73,73.04,0
+Hammer,Male,1249,Patrick McGrath,71.13,67.55,72.12,70.4,0,71.98
+Hammer,Male,1249,Thomas Freeman,66.39,0,69.16,70.08,0,0
+Hammer,Male,1249,Travis Nutter,64.04,64.36,67.8,69.54,68.43,68.9
+Hammer,Male,1249,Lucais MacKay,64.66,67.11,0,67.61,67.7,68.59
+Hammer,Male,1249,Andrew Loftin,63.72,68.34,68.45,67.67,0,68.33
+Hammer,Male,1249,Michael Mai,67.49,64.77,64.79,66.45,68.09,65.23
+Hammer,Male,1249,Gerald Ingalls,67.55,0,0,0,0,66.22
+Shot Put,Female,1292,Elizabeth Wanless,0,18,16.74,0,17.05,17.9
+Shot Put,Female,1292,Jillian Camarena-Williams,17.92,0,17.33,17.45,17.57,0
+Shot Put,Female,1292,Zara Northover,15.26,15.56,14.79,0,0,15.84
+Shot Put,Female,1292,Melissa Faubus,13.97,0,14.52,0,14.62,15.54
+Shot Put,Female,1292,Adeoti Oshinowo,14.72,14.94,15.08,14.86,0,14.88
+Hammer,Male,1294,Jake Freeman,0,70.52,70.24,72.51,0,72.6
+Hammer,Male,1294,AG Kruger,71.48,0,0,0,0,71.34
+Hammer,Male,1294,Scott Boothby,66.63,67.6,67.38,68.42,66.05,69.84
+Hammer,Male,1294,Luke Woydziak,0,67.23,69.19,0,0,66.08
+Hammer,Male,1294,Travis Nutter,61.57,68.52,65.85,66.27,65.28,63.23
+Hammer,Male,1294,Lucais MacKay,66.53,67.03,65.5,67.51,67.79,65.63
+Hammer,Male,1294,Adam Kriz,65.9,64.62,66.87,66.78,67.28,66.85
+Hammer,Male,1294,Isaac Ybarra,0,65.78,0,62.72,0,63.68
+Shot Put,Female,1295,Kristin Heaston,17.86,18.12,0,17.97,18.62,18.68
+Shot Put,Female,1295,Michelle Carter,0,16.71,17.09,16.71,17.38,18.26
+Shot Put,Female,1295,Elizabeth Wanless,17.58,0,17.43,17.8,18.14,17.61
+Shot Put,Female,1295,Jillian Camarena-Williams,17.13,17.66,17.51,17.66,17.72,17.53
+Shot Put,Female,1295,Adriane Blewitt,16.76,17.03,17.3,16.65,16.17,17.17
+Shot Put,Female,1295,Aubrey Martin,0,16.01,16.46,15.38,0,14.5
+Shot Put,Female,1295,Jessica Pressley,16.14,16.41,0,15.87,0,0
+Shot Put,Female,1295,Chandra Brewer,15.89,16.41,0,15.46,14.53,14.97
+Shot Put,Female,1417,Kristin Heaston,17.92,0,17.53,18.09,0,17.68
+Shot Put,Female,1417,Becky Breisch,0,0,17.1,16.54,16.12,15.79
+Shot Put,Female,1417,Adriane Blewitt,16.66,17.05,16.48,16.58,16.73,16.77
+Shot Put,Female,1417,Jessica Cosby Toruga,16.52,0,15.74,16.55,16.64,16.84
+Shot Put,Female,1417,Leann Boerema,0,14.95,15.29,14.35,14.79,0
+Shot Put,Female,1417,Aspen Marshall,13.16,14.63,13.74,0,13.69,0
+Shot Put,Female,1420,Jillian Camarena-Williams,0,18.69,0,18.92,0,18.57
+Shot Put,Female,1420,Laura Gerraughty,17.34,18.24,17.74,0,0,18.1
+Shot Put,Female,1420,Elizabeth Wanless,18.11,17.73,17.66,16.25,17.38,17.9
+Shot Put,Female,1420,Kristin Heaston,17.69,17.41,18.06,0,0,17.45
+Shot Put,Female,1420,Michelle Carter,17.04,0,17.45,17.24,0,17.29
+Shot Put,Female,1420,Adriane Blewitt,14.53,16.66,17.31,17.25,17.05,0
+Shot Put,Female,1420,Becky Breisch,0,16.76,16.73,17.23,0,0
+Shot Put,Female,1420,Janae Strickland,15.3,0,16.59,0,15.98,15.69
+Shot Put,Male,1473,Adam Nelson,21.46,20.98,0,21.86,22.04,21.37
+Shot Put,Male,1473,Reese Hoffa,20.31,21.05,21.32,21.32,21.45,21.96
+Shot Put,Male,1473,Christian Cantwell,19.91,20.56,21.89,21.42,0,0
+Shot Put,Male,1473,Brian Robison,0,0,20.69,20.83,0,0
+Shot Put,Male,1473,Jeffrey Chakouian,19.3,18.95,19.84,20.66,20.68,19.98
+Shot Put,Male,1473,Dan Taylor,17.23,20.32,20.4,0,20.42,20.49
+Shot Put,Male,1473,Jamie Beyer,19.81,20.11,0,19.91,0,0
+Shot Put,Female,1435,Kristin Heaston,17.19,18.6,18.09,18.74,18.15,18.46
+Shot Put,Female,1435,Jillian Camarena-Williams,16.96,18.5,0,18.33,0,18.1
+Shot Put,Female,1435,Sarah Stevens-Walker,16.97,17.24,16.91,18.02,17.41,17.36
+Shot Put,Female,1435,Jessica Pressley,16.31,16.37,15.72,17.57,16.53,17.49
+Shot Put,Female,1435,Michelle Carter,17.4,17.4,17.3,16.97,17.57,17.2
+Shot Put,Female,1435,Elizabeth Wanless,16.34,0,16.79,17.03,0,16.88
+Shot Put,Female,1435,Adriane Blewitt,16.12,16.78,0,16.77,16.46,0
+Shot Put,Male,1482,Reese Hoffa,21.38,21.43,21.26,21.15,21.47,0
+Shot Put,Male,1482,Dan Taylor,19.66,19.56,20.01,0,21,0
+Shot Put,Male,1482,Noah Bryant,20.06,0,0,0,20.14,0
+Shot Put,Male,1482,Christian Cantwell,0,20.1,0,0,19.82,0
+Shot Put,Male,1482,Russ Winger,19.19,18.8,19.69,19.19,19.49,0
+Shot Put,Male,1482,Garrett Johnson,19.2,19.42,19.62,19.2,19.45,19.64
+Hammer,Male,1366,Lance Deal,72.41,73.02,74.49,70.81,0,74.41
+Hammer,Male,1366,John McEwen,73.51,74.18,0,71.88,71.87,73.4
+Hammer,Male,1366,Kevin McMahon,73.12,0,0,0,73.65,72.26
+Hammer,Male,1366,Jay Harvard,72.47,71.48,70.15,0,69.31,67.85
+Hammer,Male,1366,Gerald Ingalls,68.27,67.38,0,0,70.4,66.03
+Hammer,Male,1366,James Heizman,67.43,0,0,64.24,68.11,66.02
+Hammer,Male,1366,Scott Boothby,66.44,67.53,0,65.68,66.14,63.78
+Hammer,Male,1366,Carey Ryan,67.41,66.4,65.28,64.31,0,65.04
+Shot Put,Female,1392,Jillian Camarena-Williams,16.53,17.22,0,17.31,17.11,0
+Shot Put,Female,1392,Janae Strickland,16.18,16.35,15.8,16.24,15.47,0
+Shot Put,Female,1392,Leann Boerema,15.89,15.6,16,0,0,15.56
+Shot Put,Female,1392,Robyn Jarocki,0,13.08,0,0,0,13.17
+Shot Put,Female,1402,Jillian Camarena-Williams,17.75,17.71,17.55,17.53,17.05,17.54
+Shot Put,Female,1402,Melinda Lincoln,16.04,0,0,16.43,17.1,17.1
+Shot Put,Female,1402,Adriane Blewitt,16.66,17.01,0,1.61,0,0
+Shot Put,Female,1402,Michelle Carter,16.99,16.62,16.74,0,0,16.81
+Shot Put,Female,1410,Jillian Camarena-Williams,18.31,19.26,18.21,0,18.3,0
+Shot Put,Female,1410,Kristin Heaston,18.24,0,0,0,17.51,0
+Shot Put,Female,1410,Jessica Cosby Toruga,16.61,16.72,17.03,0,17.19,17.05
+Shot Put,Female,1410,Elizabeth Wanless,16.55,15.67,16.1,15.6,16.07,16.58
+Shot Put,Female,1410,Robyn Jarocki,0,15.05,15.41,16.22,0,0
+Shot Put,Female,1410,Sarah Vance,14.39,0,14.56,13.85,14.84,15.08
+Shot Put,Female,1410,Blessing Egwu,14.51,14.76,0,0,14.76,14.69
+Shot Put,Male,1468,Reese Hoffa,20.98,20.93,20.78,20.67,21.61,21.54
+Shot Put,Male,1468,John Godina,20.5,0,0,20.34,0,20.47
+Shot Put,Male,1468,Adam Nelson,0,0,20.3,0,0,20.15
+Shot Put,Male,1468,Steve Manz,18.69,19.89,18.44,19.51,20.07,20.29
+Shot Put,Male,1468,Dan Taylor,19.05,19.76,20.13,20.25,0,20.26
+Shot Put,Male,1468,Vincent Mosca,19.59,19.57,0,19.98,0,20.05
+Shot Put,Male,1468,Ryan Whiting,18.26,18.65,19.36,18.29,0,0
+Shot Put,Female,1446,Jillian Camarena-Williams,17.8,17.9,17.42,17.39,17.46,18.11
+Shot Put,Female,1446,Abby Ruston,17.8,17.31,17.67,0,17.79,18.03
+Shot Put,Female,1446,Elizabeth Wanless,17.38,17.16,18.01,16.82,17.26,17.26
+Shot Put,Female,1446,Kristin Heaston,17.35,0,17.78,17.29,17.44,0
+Shot Put,Female,1446,Chandra Brewer,15.99,0,16.19,16.51,16.44,15.51
+Shot Put,Female,1446,Becky O'Brien,15.08,15.19,15.52,14.9,14.51,15.32
+Shot Put,Female,1446,Billie-Jo Grant,15.02,15.48,14.8,15.5,0,15.44
+Shot Put,Female,1446,Sarah Vance,14.59,14.18,15.07,14.89,14.23,14.15
+Shot Put,Female,1449,Michelle Carter,18.37,18.85,17.45,17.72,18.16,18.49
+Shot Put,Female,1449,Kristin Heaston,17.86,16.97,17.68,18.34,18.32,17.56
+Shot Put,Female,1449,Jillian Camarena-Williams,18.12,0,0,0,17.64,18.01
+Shot Put,Female,1449,Chandra Brewer,18.03,16.54,16.73,16.92,16.98,16.75
+Shot Put,Female,1449,Elizabeth Wanless,17.88,17.97,17.63,17.86,17.68,17.6
+Shot Put,Female,1449,Susan King,17.26,17.93,17.15,0,17.49,0
+Shot Put,Female,1449,Jessica Pressley,16.96,17.92,17.4,0,17.24,0
+Shot Put,Female,1449,Abby Ruston,17.3,17.04,16.29,0,0,17.41
+Shot Put,Female,1453,Jillian Camarena-Williams,17.78,0,16.75,18.13,18.59,18.42
+Shot Put,Female,1453,Elizabeth Wanless,17.93,15.83,17.07,17.51,18.13,18.18
+Shot Put,Female,1453,Karen Shump,15.6,16.45,16.48,16.95,0,17.26
+Shot Put,Female,1453,Chandra Brewer,16.35,16.74,16.8,15.97,16.62,16.81
+Shot Put,Female,1453,Abby Ruston,16.47,16.14,0,15.98,16.25,0
+Shot Put,Female,1453,Faith Sherrill,13.53,14.24,14.72,15.5,0,15.11
+Shot Put,Female,1454,Jillian Camarena-Williams,0,17.96,0,17.94,17.63,17.56
+Shot Put,Female,1454,Elizabeth Wanless,17.62,17.83,17.63,17.03,0,17.77
+Shot Put,Female,1454,Michelle Carter,17.2,17.56,17.51,17.27,17.55,17.82
+Shot Put,Female,1454,Chandra Brewer,15.8,16.3,16.33,16.18,16.64,16.04
+Shot Put,Female,1454,Simone du Toit,15.32,16.18,15.73,16.01,14.95,0
+Shot Put,Female,1454,Megan Howard,15.71,0,0,15.53,0,0
+Shot Put,Female,1454,Tamara Lechuga,14.46,15.19,14.97,15.12,0,0
+Shot Put,Female,1454,Nicole Lloyd,14.85,14.89,14.79,15.1,0,0
+Shot Put,Female,1454,Alisha Misiata,13.73,14.71,14.94,14.54,14.51,0
+Shot Put,Female,1455,Elizabeth Wanless,17.68,18.31,17.43,15.02,17.37,16.6
+Shot Put,Female,1455,Kristin Heaston,16.64,17.55,17.28,0,0,17.01
+Shot Put,Female,1455,Michelle Carter,16.5,16.98,17.44,17.31,0,0
+Shot Put,Female,1455,Jessica Pressley,0,15.95,17.17,16.06,0,0
+Shot Put,Female,1455,Chandra Brewer,15.22,16.3,15.76,16.81,15.48,15.55
+Shot Put,Female,1455,Abby Ruston,16,15.96,0,15.79,16.3,0
+Shot Put,Female,1457,Jessica Pressley,0,0,0,0,17.83,0
+Shot Put,Female,1457,Jillian Camarena-Williams,0,17.28,17.49,17.69,17.58,0
+Shot Put,Female,1457,Adriane Blewitt,16.21,17.18,16.09,16.92,17,16.53
+Shot Put,Female,1457,Sarah Stevens-Walker,16.18,16.71,16.76,0,16.9,17.04
+Shot Put,Female,1457,Karen Shump,16.83,0,16.45,16.58,16.12,16.93
+Shot Put,Female,1457,Abby Ruston,0,0,16.2,0,0,16.66
+Shot Put,Female,1457,Zara Northover,15.63,15.19,15.36,15.38,0,15.54
+Shot Put,Female,1459,Michelle Carter,16.83,17.82,17.84,18.03,17.94,17.84
+Shot Put,Female,1459,Jillian Camarena-Williams,0,17.94,0,16.95,17.52,17.37
+Shot Put,Female,1459,Kristin Heaston,17.38,17.88,0,17.41,17.26,17.38
+Shot Put,Female,1459,Jessica Pressley,0,17.81,17.07,17.13,16.22,0
+Shot Put,Female,1459,Elizabeth Wanless,17,16.61,16.27,16.63,17.55,17.22
+Shot Put,Female,1459,Chandra Brewer,16.32,17.18,16.53,16.4,15.93,16.36
+Shot Put,Female,1459,Tiffany Howard,16.87,16.64,15.65,15.77,15.98,0
+Shot Put,Male,1480,Christian Cantwell,20.72,20.69,21.3,19.52,0,0
+Shot Put,Male,1480,Dan Taylor,19.63,0,0,0,0,21.17
+Shot Put,Male,1480,Jeffrey Chakouian,15.8,19.26,18.62,19.53,20.29,20.24
+Shot Put,Male,1480,Sheldon Battle,0,19.29,20.03,0,20.23,0
+Shot Put,Male,1480,Vincent Mosca,0,0,15.44,19.48,19.52,0
+Shot Put,Male,1480,Jamie Beyer,18.59,18.77,0,0,18.71,0
+Shot Put,Male,1480,Jeremy Silverman,18.38,18.52,18.31,18.24,18.31,18.5
+Discus,Male,1504,Jarred Rome,63.41,63.79,0,67.05,64.35,63.79
+Discus,Male,1504,Ian Waltz,64.52,66.18,65.19,64.25,0,66.54
+Discus,Male,1504,Casey Malone,63.04,62.5,0,63.86,0,59.9
+Discus,Male,1504,Dariusz Slowik,56.69,60.81,62.41,62.54,63.26,59.23
+Discus,Male,1504,Niklas Arrhenius,0,62.95,0,62.54,58.06,62.47
+Discus,Male,1504,Benn Harradine,0,58.03,0,60.69,58.07,55.1
+Discus,Male,1504,James Dennis,0,56.31,60.24,58.29,0,56.83
+Shot Put,Male,1529,Kurt Roberts,19.68,0,0,20.08,19.6,0
+Shot Put,Male,1529,Reese Hoffa,0,19.69,20.07,0,19.98,0
+Shot Put,Male,1529,Jon Jones,0,19.25,0,19,19.94,0
+Shot Put,Male,1529,Matt DeChant,18.74,19.48,19.22,18.98,18.42,18.86
+Shot Put,Male,1529,Jacob Thormaehlen,18.91,19.34,0,17.91,19.37,0
+Shot Put,Male,1529,Colton Feltes,18.77,19.15,19.34,0,18.6,18.85
+Shot Put,Male,1529,David Pless,17.47,18.2,18.87,17.65,18.09,19.05
+Shot Put,Male,1529,Curtis Jensen,18.67,18.82,0,18.61,18.63,18.75
+Weight,Male,1531,Colin Dunbar,22.12,23,23.01,23.6,23.96,0
+Weight,Male,1531,AG Kruger,0,22.29,0,23.24,0,0
+Weight,Male,1531,Sean Donnelly,0,0,21.31,21.67,22.22,23.05
+Weight,Male,1531,Michael Lihrman,22.55,22.65,23.02,22.98,0,22.64
+Weight,Male,1531,Joe Frye,20.75,0,20.78,0,21.88,21.7
+Weight,Male,1531,Robert Klenk,20.94,20.73,20.52,21.8,20.67,0
+Weight,Male,1531,Andy Fryman,20.76,20.08,20.7,20.81,21.17,21.3
+Weight,Male,1531,Paul Wagner,19.89,20.9,19.86,0,20.42,20.69
+Weight,Female,1532,Gwen Berry,24.35,24.28,24.09,24.06,0,24.35
+Weight,Female,1532,Amber Campbell,23.9,24.09,24.19,24.1,24.12,0
+Weight,Female,1532,Felisha Johnson,22.27,22.19,22.66,23.53,22.93,22.91
+Weight,Female,1532,Jessica Ramsey,22.7,0,0,22.34,22.39,0
+Weight,Female,1532,Amanda Bingson,22.05,22.02,21.73,21.73,0,0
+Weight,Female,1532,Kasey Renshaw,20.13,18.97,19.58,20,19.94,0
+Weight,Female,1532,Carly Fehringer,0,19.95,19.1,19.85,19.32,19.86
+Weight,Female,1532,Mel Herl,18.36,19.23,18.15,19.14,18.83,0
+Shot Put,Female,1535,Michelle Carter,19.49,18.21,18.01,18.32,18.85,18.44
+Shot Put,Female,1535,Jillian Camarena-Williams,17.44,17.69,18.42,18.64,18.29,18.64
+Shot Put,Female,1535,Jeneva McCall-Stevens,0,17.83,17.9,17.79,0,18.56
+Shot Put,Female,1535,Brittany Smith,17.45,18.39,18.5,18.39,0,0
+Shot Put,Female,1535,Felisha Johnson,17.32,17.76,18.29,0,0,17.75
+Shot Put,Female,1535,Monique Riddick,16.9,16.96,17.16,17.34,17.13,0
+Shot Put,Female,1535,Jillian Rushin,16.8,16.51,16.44,15.86,0,16.24
+Shot Put,Female,1535,Jessica Ramsey,16.57,16.68,16.55,16.67,0,0
+Hammer,Female,1561,Jillian Weir,62.81,66.11,0,66.96,64.02,0
+Hammer,Female,1561,Brooke Andersen,0,0,0,0,64.98,0
+Hammer,Female,1561,Taylor Bush,61.36,64.49,0,63.2,0,0
+Hammer,Female,1561,Lauren Stuart,0,63.7,0,0,0,61.98
+Hammer,Female,1561,Emily Hunsucker,0,59.41,63.02,61.2,60.68,0
+Hammer,Female,1561,Amy Haapanen,58.89,58.44,0,59.9,0,60.23
+Discus,Male,1562,Tavis Bailey,61.03,58.67,60.07,0,0,63.38
+Discus,Male,1562,Nathaniel Moses,57.44,59.07,58.99,61.96,61.07,56.18
+Discus,Male,1562,Chad Wright,59.79,0,0,0,61.46,0
+Discus,Male,1562,Gerhard de Beer,58.15,0,57.93,60.33,0,59.07
+Discus,Male,1562,Mario Cota Castro,59.56,56.05,0,57.65,56.3,57.49
+Discus,Male,1562,Bryan Powlen,0,59.13,58.71,59.14,0,58.55
+Discus,Male,1562,Jason Harrell,57.28,0,0,57.09,0,55.78
+Discus,Male,1562,Michael Ohakwe,53.96,54.98,56.69,0,56.59,57.03
+Hammer,Male,1563,Colin Dunbar,70.6,69.89,71.9,72.59,0,71.73
+Hammer,Male,1563,Michael Lihrman,0,0,67.64,0,0,68.6
+Hammer,Male,1563,Matthias Tayala,0,67.83,66.83,68.53,0,0
+Hammer,Male,1563,Ryan Loughney,0,65.54,67.33,66.85,65.86,67.11
+Hammer,Male,1563,Will Lohman,62.46,65.92,65.64,0,65.99,65.56
+Hammer,Male,1563,Jacob Beene,56.45,0,0,55.23,0,55.55
+Discus,Female,1564,Yanbo Yang,60.17,57.95,58.07,58.64,54.5,0
+Discus,Female,1564,Liz Podominick,57.31,54.74,0,55.38,58.16,0
+Discus,Female,1564,Rachel Longfors,56.62,52.75,56.26,0,58.04,56.41
+Discus,Female,1564,Summer Pierson,0,52.49,55.39,56.05,54.95,55.65
+Discus,Female,1564,Paige Blackburn,53.24,54.98,0,55,55.44,0
+Discus,Female,1564,Anna Jelmini,52.62,51.14,52.68,51.89,54.17,52.38
+Discus,Female,1564,Sarah Thornton,52.98,50.54,0,52.88,51.98,0
+Discus,Female,1564,Alex Collatz,50.93,51.03,51.97,52.14,52.65,52.92
+Discus,Female,1564,Jere Summers,49.8,52.4,49.64,0,52.66,52.92
+Shot Put,Female,1565,Jillian Camarena-Williams,17.88,0,0,17.95,0,0
+Shot Put,Female,1565,Brittany Crew,16.29,17.78,17.76,17.29,0,16.85
+Shot Put,Female,1565,Monique Riddick,16.72,17.42,16.95,17.4,17.03,0
+Shot Put,Female,1565,Becky O'Brien,17.01,17.17,17.16,17,16.69,0
+Shot Put,Female,1565,Kearsten Peoples,16.25,16.58,16.75,16.72,0,16.62
+Shot Put,Female,1565,Jillian Rushin,0,15.92,16.68,16.15,0,16.13
+Javelin,Female,1566,Ariana Ince,52.92,56.91,59.06,56.25,0,0
+Javelin,Female,1566,Abigail Gomez,57.29,55.18,0,55.12,54.24,0
+Javelin,Female,1566,Haley Crouser,46.22,51.4,48.45,49.46,50.21,51.1
+Javelin,Female,1566,Leigh Petranoff,46.96,0,49.78,51.23,48.61,0
+Javelin,Female,1566,Melissa Fraser,46.38,0,0,0,44.34,0
+Shot Put,Male,1567,Darrell Hill,20.36,0,19.77,20.3,0,0
+Shot Put,Male,1567,Jon Jones,0,18.62,19.11,18.76,20.31,19.58
+Shot Put,Male,1567,Jacob Thormaehlen,0,19.13,18.74,19.34,0,19.76
+Shot Put,Male,1567,Bobby Grace,19.18,0,19.02,0,19.56,0
+Shot Put,Male,1567,Colton Feltes,19.13,19.13,0,0,18.52,0
+Shot Put,Male,1567,David Pless,17.91,0,0,18.32,18.53,18.97
+Shot Put,Male,1567,Mario Cota Castro,18.46,18.32,0,18.21,18.19,18.77
+Shot Put,Male,1567,Aaron Castle,17.79,18.48,18.15,0,0,18.56
+Shot Put,Male,1567,Eldred Henry,0,0,17.28,0,17.38,18.41
+Javelin,Male,1568,Timothy VanLiew,78.46,73.98,75.31,74.94,73.64,77.2
+Javelin,Male,1568,Juan Jose Mendez Blasco,69.94,0,71.79,70.86,69.04,75.95
+Javelin,Male,1568,Josue Menendez Bejarano,74.19,74.43,75.8,73.64,75.29,75.59
+Javelin,Male,1568,Christopher Carper,69.77,70.11,71.89,0,70.4,72.36
+Javelin,Male,1568,David Ocampo,0,0,67.59,66.64,71.05,71.34
+Javelin,Male,1568,Carlos A Armenta Castro,69.98,67.88,0,70.03,0,68.22
+Javelin,Male,1568,Barry Krammes,66.97,69.84,67.09,62.53,68.2,0
+Javelin,Male,1568,Jack Thomas,0,67.69,62.01,60.86,64.31,63.6
+Discus,Female,1569,Anna Jelmini,0,0,51.15,0,0,55.28
+Discus,Female,1569,Julia Viberg,50.49,0,0,55.14,0,0
+Discus,Female,1569,Laura Bobek,47.39,49.31,51.39,53.61,0,53.61
+Discus,Female,1569,Sarah Thornton,0,0,48.78,0,51.97,0
+Discus,Female,1569,Alissa Rausch,0,46.95,0,0,50.6,48.53
+Discus,Female,1569,Ginger Jarchow,0,50.02,0,47.39,0,0
+Discus,Female,1569,Allison Szykowny,49.41,47.18,48.63,48.41,47.41,47.65
+Discus,Female,1570,Yanbo Yang,59.55,60.67,57.46,61.23,54.39,61.37
+Discus,Female,1570,Liz Podominick,57.85,0,0,58,57.06,59.88
+Discus,Female,1570,Summer Pierson,57.99,56.03,58.17,57.45,58.41,55.44
+Discus,Female,1570,Paige Blackburn,54.93,55.98,55.74,54.78,55.34,57.78
+Discus,Female,1570,Maggie Ewen,57.07,0,57.44,52.09,56.85,0
+Discus,Female,1570,Rachel Longfors,56.05,53.63,0,0,53.91,55.73
+Discus,Female,1570,Jere Summers,0,54.14,52.44,53.61,0,53
+Discus,Female,1570,Kristy Law,52.94,0,0,0,0,54.08
+Discus,Female,1570,Alex Collatz,53.47,52.25,49.97,52.05,0,51.82
+Discus,Male,1571,Nathaniel Moses,59.6,64.26,64.24,63.61,0,61.94
+Discus,Male,1571,Gerhard de Beer,61.97,61.28,0,60.54,61.45,61.34
+Discus,Male,1571,Bryan Powlen,58.32,59.71,0,58.75,61.57,0
+Discus,Male,1571,Chad Wright,59.16,0,60.25,0,0,61.42
+Discus,Male,1571,Jason Harrell,56.98,0,59.56,57.67,0,0
+Hammer,Female,1572,Gwen Berry,0,72.06,76.31,0,0,71.71
+Hammer,Female,1572,Jillian Weir,66.17,0,69.16,0,67.59,69.65
+Hammer,Female,1572,Britney Henry,66.93,67.66,66.14,66.12,67.35,0
+Hammer,Female,1572,Alina Duran,63.41,63.94,66.79,0,0,63.49
+Hammer,Female,1572,Brooke Andersen,0,64.73,60.14,64.65,0,0
+Hammer,Female,1572,Caressa Sims,64.66,0,64.19,0,64.48,63
+Hammer,Female,1572,Lauren Stuart,63.6,63.18,0,0,0,63.42
+Hammer,Female,1572,Taylor Bush,0,62.69,0,63.07,0,0
+Hammer,Female,1572,Lisa Wilson,0,61.39,58.75,0,58.46,59.19
+Discus,Male,1573,Chad Wright,61.91,60.89,60.72,61.05,62.18,0
+Discus,Male,1573,Mario Cota Castro,59.56,59.45,59.21,57.37,0,58.44
+Discus,Male,1573,Michael Ohakwe,56.29,0,56.31,59.47,58.23,57.68
+Discus,Male,1573,Austin Gamble,53.72,56.65,0,52.57,0,0
+Discus,Male,1573,Kyle Long,53.47,55.83,55.22,0,54.03,54.15
+Discus,Male,1573,Justin Ramirez,0,0,54.71,53.51,0,0
+Discus,Male,1573,Mike Guidry,52.63,54.69,51.85,50.9,53.57,53.79
+Discus,Male,1573,Eldred Henry,0,0,0,0,0,53.48
+Discus,Male,1573,Quaid Vuncannan,50.21,50.77,47.74,0,49.06,0
+Hammer,Male,1574,Conor McCullough,70.39,71.19,73.15,70.55,70.51,72.19
+Hammer,Male,1574,Michael Lihrman,71.11,72.45,71.76,71.07,68,71.07
+Hammer,Male,1574,Colin Dunbar,72.01,0,71.46,0,72.29,0
+Hammer,Male,1574,Matthias Tayala,0,69.32,0,70.19,0,0
+Hammer,Male,1574,Ryan Loughney,66.75,66.77,68.37,0,67.14,67.54
+Hammer,Male,1574,Will Lohman,0,62.44,66.05,0,64.12,0
+Hammer,Male,1574,Albert Hughes,0,0,64.09,62.47,61.15,0
+Hammer,Male,1574,Daniel Raithel,0,0,60.57,0,60.2,0
+Javelin,Female,1575,Ariana Ince,56.66,59.68,0,56.33,57.9,0
+Javelin,Female,1575,Kimberley Hamilton,56.55,0,52,0,0,55.59
+Javelin,Female,1575,Abigail Gomez,0,50.7,0,51.38,52.72,0
+Javelin,Female,1575,Leigh Petranoff,0,0,50.51,48.2,51.04,51.69
+Javelin,Female,1575,Fawn Miller,0,0,48.48,49.65,0,51.02
+Javelin,Female,1575,Haley Crouser,44.24,48.87,47.88,50.62,0,48.76
+Javelin,Female,1575,Melissa Fraser,49.92,47.51,47.42,50.29,50.05,0
+Shot Put,Female,1576,Brittany Crew,16.59,0,0,17.24,17.84,0
+Shot Put,Female,1576,Monique Riddick,16.85,17.71,17.73,17.68,17.36,0
+Shot Put,Female,1576,Becky O'Brien,16.05,16.07,0,17.01,17.47,17.16
+Shot Put,Female,1576,Jillian Rushin,16.08,16.85,17.2,16.81,16.36,16.72
+Shot Put,Female,1576,Julie Labonte,0,14.85,0,14.2,15.46,0
+Shot Put,Female,1576,Jess St. John,0,15.06,15.28,15.24,0,0
+Shot Put,Female,1576,Portious Warren,13.94,14.39,0,0,0,14.22
+Javelin,Male,1577,David Ocampo,68.2,69.26,72.71,76.32,79.68,79.84
+Javelin,Male,1577,Josue Menendez Bejarano,75.88,73.23,75.24,73.46,76.22,76.36
+Javelin,Male,1577,Ryan Young,73.39,76.11,72.61,0,66.68,69.69
+Javelin,Male,1577,Juan Jose Mendez Blasco,66.63,70.12,0,0,74.74,73.98
+Javelin,Male,1577,Carlos A Armenta Castro,70.39,0,0,69.63,71.47,73.63
+Javelin,Male,1577,Kyle Nielsen,64.43,63.62,68.56,68.72,70.63,0
+Javelin,Male,1577,Barry Krammes,65.75,68.14,67.79,0,67.88,65.55
+Javelin,Male,1577,Chris Kirkwood,61.15,61.72,66.24,64.64,61.51,64.55
+Shot Put,Male,1578,David Pless,19.09,0,0,18.67,0,19.46
+Shot Put,Male,1578,Colton Feltes,19.26,0,0,0,18.98,0
+Shot Put,Male,1578,Matt DeChant,18.79,0,18.25,17.92,19.21,18.34
+Shot Put,Male,1578,Aaron Castle,18.41,0,18.84,18.45,18.71,0
+Shot Put,Male,1578,Mario Cota Castro,18.38,0,18.61,18.5,18.82,18.6
+Shot Put,Male,1578,Rashad Williams,0,17.54,0,17.71,0,17.79
+Shot Put,Male,1578,Mike Thalken,0,16.9,17.02,0,17.44,17.18
+Shot Put,Male,1579,Jordan Clarke,20.05,20.69,21.11,20.63,0,20.7
+Shot Put,Male,1579,Darrell Hill,20.37,0,20.94,0,0,19.91
+Shot Put,Male,1579,Reese Hoffa,20.23,0,0,20.83,20.37,0
+Shot Put,Male,1579,Ryan Whiting,19.87,20.11,0,0,19.86,0
+Shot Put,Male,1579,Bobby Grace,19.78,19.87,0,0,20.08,0
+Shot Put,Male,1579,Jon Jones,18.89,19.26,19.68,19.68,19.18,0
+Shot Put,Male,1579,Jacob Thormaehlen,19.04,19.38,0,0,19.43,19.29
+Shot Put,Male,1579,Eldred Henry,18.57,19.39,18.42,18.34,17.47,0
+Shot Put,Male,1579,Sultan Albebshi,17.68,18.66,17.79,0,18.1,0
+Javelin,Male,1580,Benjamin Woodruff,0,69.96,73.49,0,71.43,80.86
+Javelin,Male,1580,Timothy VanLiew,75.16,0,77.14,79.62,75.83,78.48
+Javelin,Male,1580,Sam Humphreys,77.59,78.77,0,74.43,75.64,0
+Javelin,Male,1580,Tim Glover,69.26,73.95,78.03,71.14,0,76.25
+Javelin,Male,1580,Riley Dolezal,0,70.79,68.33,77.52,74.67,0
+Javelin,Male,1580,Christopher Carper,77.36,72.91,0,73.67,77.5,74.49
+Javelin,Male,1580,Raymond Dykstra,66.73,0,0,67.17,69.49,0
+Discus,Male,1694,Mason Finley,62.04,63.42,0,0,62.2,63.21
+Discus,Male,1694,Tavis Bailey,61.57,0,60.55,0,58.82,59.39
+Discus,Male,1694,Andrew Evans,61.22,60.67,0,58.3,0,59.17
+Discus,Male,1694,Lance Brooks,58.12,60.5,59.17,0,59.23,58.38
+Discus,Male,1694,James Plummer,56.1,58.14,0,55.34,56.26,0
+Hammer,Male,1696,Rudy Winkler,70.07,72.25,72.41,76.76,71.19,0
+Hammer,Male,1696,Kibwe Johnson,0,73.12,75.11,0,0,74.08
+Hammer,Male,1696,Conor McCullough,74.16,70.41,71.44,68.96,72.18,71.37
+Hammer,Male,1696,AG Kruger,71.75,73.31,0,73.3,72.01,0
+Hammer,Male,1696,Andy Fryman,67.12,69.13,69.85,0,72.73,71.33
+Hammer,Male,1696,Matthias Tayala,70.87,0,70.09,0,71.72,72.52
+Hammer,Male,1696,Colin Dunbar,71.81,70.45,0,72.31,0,69.28
+Hammer,Male,1696,J C Lambert,67.59,69.1,67.15,68.94,69.03,68.12
+Hammer,Male,1696,Sean Donnelly,66.78,0,68.96,0,0,67.44
+Hammer,Female,1697,Amber Campbell,0,66.78,69.93,72.02,70.33,74.03
+Hammer,Female,1697,Gwen Berry,69.33,70.42,69.41,71,72.04,73.09
+Hammer,Female,1697,Deanna Price,71.66,71.04,69.63,0,73.09,71.22
+Hammer,Female,1697,Amanda Bingson,67.61,69.03,0,68.58,0,70.3
+Hammer,Female,1697,Heavin Warner,68.25,0,0,0,66.12,66.32
+Hammer,Female,1697,Jeneva Stevens,0,61.78,67.86,67.15,0,65.54
+Hammer,Female,1697,Aubrey Baxter,65.43,66.3,66.9,0,67.01,64.59
+Hammer,Female,1697,Brooke Pleger,64.05,66.92,66.53,63.67,0,63.54
+Hammer,Female,1697,Maggie Ewen,66.35,64.53,62.87,0,0,60.73
+Javelin,Male,1698,Cyrus Hostetler,74.98,76.66,75.13,77.95,83.24,0
+Javelin,Male,1698,Curtis Thompson,82.88,72.66,0,72.13,77.15,78.06
+Javelin,Male,1698,Riley Dolezal,76.5,0,76.22,79.67,0,0
+Javelin,Male,1698,Sam Crouser,74.18,78.06,75.88,0,76.5,76.16
+Javelin,Male,1698,Robert Robbins,62.19,73.42,0,0,68.55,70.53
+Javelin,Male,1698,Timothy VanLiew,67.71,67.73,70.5,72.15,0,0
+Javelin,Male,1698,Capers Williamson,62.02,70.97,70.08,66.9,64.04,69.69
+Shot Put,Male,1700,Ryan Crouser,20.42,22.11,21.43,21.47,0,21.07
+Shot Put,Male,1700,Joe Kovacs,20.69,21.03,20.88,21.09,20.93,21.95
+Shot Put,Male,1700,Darrell Hill,20.93,21.63,19.46,20.47,20.08,0
+Shot Put,Male,1700,Ryan Whiting,20.65,20.05,20.83,20.23,20.72,20.89
+Shot Put,Male,1700,Reese Hoffa,20.46,0,20.55,20.61,20.32,0
+Shot Put,Male,1700,Garrett Appier,20.12,20.09,0,0,20.46,0
+Shot Put,Male,1700,Bobby Grace,19.07,19.75,20.06,19.7,0,19.45
+Discus,Female,1702,Whitney Ashley,61.38,61.96,0,0,62.25,0
+Discus,Female,1702,Shelbi Vaughan,0,60.28,0,58.8,0,58.07
+Discus,Female,1702,Kelsey Card,60.13,56.66,55.93,58.75,59.82,58.29
+Discus,Female,1702,Liz Podominick,0,57.53,51.38,59.67,60.07,58.42
+Discus,Female,1702,Stephanie Brown Trafton,58.73,0,0,59.33,56.28,59.65
+Discus,Female,1702,Valarie Allman,58.69,54.63,58.92,58.99,59.02,0
+Discus,Female,1702,Rachel Longfors,55.05,54.73,57.9,56.71,56.09,58.87
+Javelin,Female,1703,Maggie Malone,0,60.07,56.11,59.31,60.84,57.15
+Javelin,Female,1703,Hannah Carson,0,58.19,0,54.64,0,0
+Javelin,Female,1703,Kara Winger,56.65,0,0,0,57.9,0
+Javelin,Female,1703,Brittany Borman,56.22,0,0,0,54.23,56.6
+Javelin,Female,1703,Nicolle Murphy,0,0,53.92,54.28,56.35,53.63
+Javelin,Female,1703,Sarah Firestone,51.3,51.65,47.12,0,0,50.33
+Javelin,Female,1703,Ariana Ince,0,50.82,0,0,50.39,51.42
+Shot Put,Female,1705,Michelle Carter,19.07,19.12,19.06,0,0,19.59
+Shot Put,Female,1705,Raven Saunders,0,18.54,0,18.98,19.24,0
+Shot Put,Female,1705,Felisha Johnson,17.51,16.78,17.69,0,19.23,18.11
+Shot Put,Female,1705,Tia Brooks,18.16,18.89,0,18.33,18.94,0
+Shot Put,Female,1705,Jillian Camarena-Williams,18.19,18.3,18.81,17.86,18.63,18.67
+Shot Put,Female,1705,Brittany Smith,17.48,18.11,18.04,18.58,18.22,17.99
+Shot Put,Female,1705,Chase Ealey,17.1,18.46,17.62,0,17.65,0
+Shot Put,Female,1705,Jeneva Stevens,17.85,18.14,17.15,18.25,17.96,17.64
+Weight,Female,1715,Gwen Berry,25.22,24.45,25.21,0,0,25.6
+Weight,Female,1715,Deanna Price,23.76,23.84,23.86,23.83,24.09,24.3
+Weight,Female,1715,Felisha Johnson,23.6,24.22,0,0,23.48,23.55
+Weight,Female,1715,Jessica Ramsey,0,22.71,23.68,0,24.04,0
+Weight,Female,1715,Amber Campbell,23.32,0,22.88,23.29,23.48,23.3
+Weight,Female,1715,Mel Herl,0,19.2,0,0,19.98,20.31
+Weight,Female,1715,Brittany Cox,0,18.28,0,0,19.98,19.68
+Weight,Female,1715,Lisa Wilson,18.4,18.09,19.71,17.58,18.02,19.61
+Shot Put,Male,1717,Darien Moore,20.1,0,0,20.78,0,0
+Shot Put,Male,1717,Jon Jones,20.53,0,18.94,0,0,19.36
+Shot Put,Male,1717,David Pless,19.15,20.31,19.81,0,0,20.06
+Shot Put,Male,1717,Darrell Hill,19.97,0,20.16,20.08,20.08,0
+Shot Put,Male,1717,Joshua Freeman,20.11,0,20.09,0,0,20
+Shot Put,Male,1717,Roger Steen,17.16,18.43,19.87,0,18.43,19.07
+Shot Put,Male,1717,Curtis Jensen,19.54,19.62,0,0,0,19.79
+Shot Put,Male,1717,Ryan Whiting,19.07,0,19.13,19.3,0,0
+Weight,Male,1718,Alex Young,23.06,23.99,0,24.02,23.68,0
+Weight,Male,1718,Colin Dunbar,22.94,22.48,0,23.64,23.74,23.19
+Weight,Male,1718,Sean Donnelly,23.57,0,23.26,23.52,0,22.84
+Weight,Male,1718,Joe Frye,21.27,0,22.38,21.68,22.14,22.77
+Weight,Male,1718,Andy Fryman,21.33,22.13,21.75,21.42,22.1,22.59
+Weight,Male,1718,Luis Rivera,20.54,3.94,20.78,21.37,0,22.01
+Weight,Male,1718,Michael Shanahan,20.23,20.24,0,20.27,0,20.68
+Weight,Male,1718,Justin Barber,0,20.55,18.93,19.36,20.36,20.33
+Shot Put,Female,1720,Michelle Carter,17.25,19.03,18.21,18.89,18.69,19.01
+Shot Put,Female,1720,Brittany Smith,0,18.29,17.36,18.04,0,0
+Shot Put,Female,1720,Felisha Johnson,0,18.23,0,17.27,17.52,17.86
+Shot Put,Female,1720,Jeneva Stevens,17.3,17.32,0,17.09,18.04,17.84
+Shot Put,Female,1720,Chase Ealey,17.6,17.09,17.27,17.17,17.23,17.16
+Shot Put,Female,1720,Tina Hillman,16.81,0,16.77,17.57,16.58,17.2
+Shot Put,Female,1720,Kelsey Card,16.81,0,16.23,0,16.76,0
+Hammer,Female,1722,Jillian Weir,70.13,67.36,72.5,0,68.35,69.09
+Hammer,Female,1722,Jessica Ramsey,0,68.36,67.6,67.25,67.91,68
+Hammer,Female,1722,Heavin Warner,0,66.47,66.18,66.4,67.37,0
+Hammer,Female,1722,Sultana Frizell,0,65.17,66.68,66.55,66.64,64.97
+Hammer,Female,1722,Alina Duran,58.43,64.02,61.74,0,61.78,65.41
+Hammer,Female,1722,Britney Henry,0,63.72,64.28,0,62.96,64.93
+Discus,Male,1723,Turner Washington,0,59.92,60.52,64.27,66.47,69.45
+Discus,Male,1723,David Blair,55.94,65.72,62.32,59.63,62.13,57.15
+Discus,Male,1723,Jason Harrell,0,60.56,60.21,62.28,60.76,61.2
+Discus,Male,1723,Vikas Gowda,55.32,59.31,61.13,0,59.24,0
+Discus,Male,1723,Mario Cota Castro,54.03,58.17,57.7,59.47,57.4,59.01
+Discus,Male,1723,Marshall Hall,0,55.2,56.2,55.64,54.54,55.51
+Discus,Male,1723,Michael Ohakwe,0,0,0,51.51,0,0
+Hammer,Male,1724,Sean Donnelly,0,73.48,71.87,72.32,73.59,73.4
+Hammer,Male,1724,Alexander Ziegler,69.85,70.4,71.49,73.01,71.21,68.7
+Hammer,Male,1724,Colin Dunbar,0,70.66,71.33,71.29,69.17,71.19
+Hammer,Male,1724,Michael Lihrman,60.12,62.98,63.79,63.44,61.54,64.83
+Hammer,Male,1724,Will Lohman,63.93,62.85,0,0,0,62.52
+Hammer,Male,1724,Abraham Parra,61.47,60.47,61.1,61.64,63.22,0
+Discus,Female,1725,Gia Lewis-Smallwood,57.53,57.92,62.91,61.04,59.73,0
+Discus,Female,1725,Tarasue Barnett,61.66,0,59.38,56.03,56.28,60.99
+Discus,Female,1725,Liz Podominick,57.35,56.95,50.79,55.9,54.14,59
+Discus,Female,1725,Kelsey Card,56.14,54.42,52.21,56.04,54.98,56.62
+Discus,Female,1725,Sarah Thornton,52.69,55.35,0,53.58,0,54.78
+Discus,Female,1725,Alex Collatz,50.33,54.6,0,51.76,52.28,54.87
+Discus,Female,1725,Kim Mulhall,50.92,53.9,50.08,53.39,51.32,52.06
+Discus,Female,1725,Sasha-Gaye Marston,42.71,53.23,50.21,52.31,0,0
+Shot Put,Female,1726,Monique Riddick,17.98,0,17.39,17.82,18.55,0
+Shot Put,Female,1726,Brittany Smith,17.64,0,0,0,18.33,0
+Shot Put,Female,1726,Chase Ealey,15.97,16.42,17.79,16.8,17.36,0
+Shot Put,Female,1726,Taryn Suttie,16.38,17.01,16.98,16.83,17.14,0
+Shot Put,Female,1726,McKenzie Warren,16.22,16.65,0,0,17.13,0
+Shot Put,Female,1726,Maria Fernanda Orozco,16.16,17.05,0,0,15.95,0
+Shot Put,Female,1726,Tina Hillman,16.5,0,16.49,0,16.4,0
+Shot Put,Female,1726,Kearsten Peoples,15.92,0,15.27,0,16.11,16.35
+Javelin,Female,1727,Melissa Fraser,46.12,47.88,48.05,47.69,48.14,44.48
+Javelin,Female,1727,Elia Pascual Hernandez,43.74,43.91,42.38,43,0,46.17
+Javelin,Female,1727,Abigail Gomez Hernandez,44.76,0,0,45.84,44.48,0
+Javelin,Female,1727,Betzabet Menendez Bejarano,38.93,38.61,40.31,38.04,41.46,39.79
+Shot Put,Male,1728,Joe Kovacs,22.57,22.1,0,22.26,0,0
+Shot Put,Male,1728,Joshua Freeman,19.6,20.21,20.58,20.55,0,20.32
+Shot Put,Male,1728,Jon Murasky,18.74,20.21,19.55,19.86,0,0
+Shot Put,Male,1728,Jon Jones,0,19.73,0,0,19.72,0
+Shot Put,Male,1728,Rashad Williams,0,0,16.77,17.03,0,0
+Javelin,Male,1729,David Ocampo Bravo,73.22,75.22,76.96,77.5,0,80.29
+Javelin,Male,1729,David Carreon,69.34,74.96,77.13,74.85,72.45,68.95
+Javelin,Male,1729,Josue Menendez Bejarano,70.48,73.71,75.38,73.77,71.59,70.7
+Javelin,Male,1729,Kyle Nielsen,71.76,69.37,0,0,74.4,68.22
+Javelin,Male,1729,Raymond Dykstra,63,0,57.93,0,0,69.44
+Javelin,Male,1729,Roald Bradstock,57.94,62.27,0,62.47,0,60.35
+Javelin,Male,1729,Christian Spaulding,61.26,58.02,55.89,0,55.74,59.39
+Discus,Female,1730,Whitney Ashley,60.27,0,0,58.4,57.47,0
+Discus,Female,1730,Tarasue Barnett,59.13,0,57.41,58.95,55.89,58.92
+Discus,Female,1730,Liz Podominick,57.24,53.67,0,54.52,57.21,56.09
+Discus,Female,1730,Kelsey Card,0,56.37,0,53.75,53.96,0
+Discus,Female,1730,Summer Pierson,54.67,50.29,51.04,55.11,55.94,56.21
+Discus,Female,1730,Alex Collatz,0,0,54.43,0,51.76,52.52
+Discus,Female,1730,Sarah Thornton,51.68,53.91,51.68,52.54,50.96,52.71
+Discus,Female,1730,Kim Mulhall,53.17,51.09,53.68,0,51.78,52.94
+Discus,Female,1730,Sasha-Gaye Marston,51.6,51.32,51.75,50.42,50.93,0
+Discus,Male,1731,Turner Washington,59.56,0,60.44,64.45,63.78,59.05
+Discus,Male,1731,David Blair,63.44,62.98,0,58.73,61.65,0
+Discus,Male,1731,Mario Cota Castro,61.18,61.9,61.39,61,56.98,58.84
+Discus,Male,1731,Vikas Gowda,60.44,61.06,60.16,0,0,59.33
+Discus,Male,1731,Jason Harrell,0,0,57.33,59.62,0,0
+Discus,Male,1731,Michael Ohakwe,55.71,57.53,55.33,57.52,57,55.98
+Discus,Male,1731,Marshall Hall,0,56.99,56.56,55.68,0,0
+Discus,Male,1731,Viktor Gardenkrans,51.8,53.3,53.2,53.82,0,0
+Hammer,Female,1732,Deanna Price,71.49,74.4,70.6,0,0,69.91
+Hammer,Female,1732,Heavin Warner,68.78,68.21,0,68.86,65.09,0
+Hammer,Female,1732,Jessica Ramsey,63.2,63.51,68.07,68.1,67.2,68.25
+Hammer,Female,1732,Sultana Frizell,68.01,66.23,0,65.05,65.9,65.65
+Hammer,Female,1732,Alina Duran,61.28,64.98,0,0,0,65.4
+Hammer,Female,1732,Britney Henry,64.41,0,0,64.24,0,64.78
+Hammer,Male,1733,Kibwe Johnson,0,69.05,71.1,72.98,72.88,74.32
+Hammer,Male,1733,Colin Dunbar,71.4,71.47,0,68.95,71.81,70.51
+Hammer,Male,1733,Alexander Ziegler,69.95,69.98,69.64,70.89,66.4,68.15
+Hammer,Male,1733,Michael Lihrman,59.61,60.92,61.79,65.13,65.15,63.98
+Hammer,Male,1733,Will Lohman,61.02,60.6,63.08,62.63,0,62.88
+Hammer,Male,1733,Abraham Parra,61.39,62.83,62.99,62.39,62.68,62.45
+Javelin,Female,1734,Ariana Ince,0,0,50.99,52.12,51.47,57.34
+Javelin,Female,1734,Melissa Fraser,47.01,0,47.77,50.58,45.34,47.79
+Javelin,Female,1734,Katie Reichert,48.07,47.38,47.66,0,47.97,42.1
+Javelin,Female,1734,Elia Pascual Hernandez,42.48,0,0,45.32,46.69,44.41
+Javelin,Female,1734,Betzabet Menendez Bejarano,40.19,41.86,0,42.03,43.27,42.03
+Shot Put,Female,1735,Monique Riddick,18.18,18.25,0,18.6,18.48,0
+Shot Put,Female,1735,Brittany Crew,17.03,17.69,18,0,18.58,17.91
+Shot Put,Female,1735,Taryn Suttie,17.12,17.74,0,17.68,17.1,0
+Shot Put,Female,1735,Chase Ealey,16.66,16.7,17.64,0,17.64,0
+Shot Put,Female,1735,Whitney Ashley,17.41,0,17.33,17.54,17.28,17.31
+Shot Put,Female,1735,McKenzie Warren,17.28,0,17.12,17.39,17.35,0
+Shot Put,Female,1735,Maria Fernanda Orozco,16.82,16.9,0,16.47,16.85,17.13
+Shot Put,Female,1735,Tina Hillman,0,16.3,0,16.8,0,16.64
+Shot Put,Female,1735,Kearsten Peoples,16.35,16.57,16.2,16.78,16.4,0
+Shot Put,Male,1736,Tom Walsh,21.45,21.44,21.22,21.64,0,21.31
+Shot Put,Male,1736,Darrell Hill,21.25,0,0,20.72,20.93,0
+Shot Put,Male,1736,Ryan Whiting,20.68,20.7,0,20.79,0,20.85
+Shot Put,Male,1736,Joshua Freeman,19.68,0,0,0,20.37,20.09
+Shot Put,Male,1736,Jon Jones,19.94,0,0,0,20.05,19.91
+Shot Put,Male,1736,Jon Murasky,19.2,19.87,0,19.41,0,19.33
+Shot Put,Male,1736,Mario Cota Castro,18.18,18.33,0,0,17.98,18.62
+Shot Put,Male,1736,Rashad Williams,0,16.32,0,0,17.16,17.54
+Javelin,Male,1737,Riley Dolezal,71.52,70.8,75.35,0,74.89,77.73
+Javelin,Male,1737,David Carreon,77.58,76.49,75.8,71.77,70.54,0
+Javelin,Male,1737,Josue Menendez Bejarano,71.35,74.37,75.99,77.57,73.99,76.36
+Javelin,Male,1737,David Ocampo Bravo,75.01,0,72.66,76.95,0,77.39
+Javelin,Male,1737,Kyle Nielsen,72.49,63.68,76.13,74.1,70.68,71.65
+Javelin,Male,1737,Sean Furey,69.49,0,70.55,71.31,0,0
+Javelin,Male,1737,Benjamin Woodruff,0,0,68.45,67.03,0,0
+Discus,Female,1738,Gia Lewis-Smallwood,58.82,60.74,60.23,0,62.65,61.54
+Discus,Female,1738,Whitney Ashley,55.13,55,61.13,58.77,62.2,57.85
+Discus,Female,1738,Valarie Allman,51.97,52.48,57.04,54.94,57.93,57.63
+Discus,Female,1738,Rachel Dincoff,54.99,56.91,56.04,0,55.21,53.79
+Discus,Female,1738,Kelsey Card,54.77,51.4,54.38,56.49,0,56.84
+Discus,Female,1738,Summer Pierson,53.4,53.82,56.14,56.7,56.36,56.1
+Discus,Female,1738,Liz Podominick,52.38,48.74,54.44,52.89,51.39,55.2
+Discus,Female,1738,Katelyn Daniels,0,50.99,53.82,52.92,54.83,54.16
+Hammer,Male,1739,Alex Young,68.02,0,72.49,71.54,0,73.75
+Hammer,Male,1739,Johnnie Jackson,68.91,69.41,68.71,0,71.69,0
+Hammer,Male,1739,Sean Donnelly,67.1,68.99,71.45,70.11,0,70.3
+Hammer,Male,1739,Rudy Winkler,70.32,70.54,71.33,0,71.43,69.54
+Hammer,Male,1739,Colin Dunbar,0,71.21,68.63,69.6,69.4,70.61
+Hammer,Male,1739,Kibwe Johnson,0,65.37,69.66,0,0,70.09
+Hammer,Male,1739,Jordan Crayon,65.16,65.29,67.05,0,0,66.05
+Javelin,Female,1740,Kara Winger,62.8,59.18,59.67,61.56,57.42,61.91
+Javelin,Female,1740,Ariana Ince,54.18,54.86,57.13,51.94,57.91,58.32
+Javelin,Female,1740,Rebekah Wales,53.87,51.76,55.28,52.16,52.47,53.18
+Javelin,Female,1740,Dominique Ouellette,53.54,46.26,51.56,51.09,46.96,49.8
+Javelin,Female,1740,Channing Wilson,47.89,51.14,53.03,49.04,0,46.33
+Javelin,Female,1740,Alyssa Olin,51.58,47.81,46.79,49.23,0,0
+Javelin,Female,1740,Madalaine Stulce,51.24,40.51,48.84,47.47,46.38,40.32
+Shot Put,Male,1745,Jon Murasky,0,19.86,19.72,19.8,19.69,0
+Shot Put,Male,1745,Joshua Freeman,0,19.48,19.82,19.91,20.41,20.1
+Shot Put,Male,1745,Kurt Roberts,20.21,19.7,19.77,19.73,20.51,20.42
+Shot Put,Male,1745,Darrell Hill,20.55,0,0,0,20.6,0
+Shot Put,Male,1745,Ryan Whiting,20.9,20.37,21.09,20.9,21.26,21.54
+Shot Put,Male,1745,Joe Kovacs,0,21.46,20.89,21.63,21.93,22.35
+Shot Put,Male,1745,Ryan Crouser,21.82,22.02,0,21.94,22.01,22.65
+Discus,Male,1746,Reggie Jagers,58.65,54.92,57.21,57.87,57.75,55.48
+Discus,Male,1746,Jared Schuurmans,57.63,57.45,59,0,58.26,56.96
+Discus,Male,1746,Mason Finley,60.9,63.03,62.37,0,59.11,60.76
+Discus,Male,1746,Tavis Bailey,54.19,0,59.96,0,60.5,0
+Discus,Male,1746,Rodney Brown,60.87,59.72,58.48,60.84,60.86,59.17
+Discus,Male,1746,Andrew Evans,60.64,61.68,62.37,62.57,0,60.85
+Discus,Male,1746,Brian Williams,59.55,57.46,0,60.55,0,59.47
+Discus,Male,1746,Michael Ohakwe,54.26,58.02,56.81,55.93,0,56.33
+Javelin,Male,1747,Curtis Thompson,69.75,70.81,0,65.92,68.78,72.74
+Javelin,Male,1747,Andrew Fahringer,69.41,70.83,72.29,69.07,69.41,67.44
+Javelin,Male,1747,Sean Furey,70.86,73.46,0,0,71.02,72.34
+Javelin,Male,1747,Timothy VanLiew,0,70.92,75.09,0,74.07,76.91
+Javelin,Male,1747,Cyrus Hostetler,79.71,74.46,73.96,74.69,74.16,75
+Javelin,Male,1747,Michael Shuey,71.64,72.24,77.94,77.32,0,73.36
+Javelin,Male,1747,Riley Dolezal,76.64,81.77,78.09,78.05,0,0
+Shot Put,Female,1748,Jessica Woodard,17.52,0,17.12,16.55,16.81,17.44
+Shot Put,Female,1748,Brittany Smith,17.59,17.04,0,0,17.11,0
+Shot Put,Female,1748,Felisha Johnson,17.39,0,18.64,0,17.68,17.15
+Shot Put,Female,1748,Monique Riddick,18,17.88,0,18.32,18.33,18.89
+Shot Put,Female,1748,Michelle Carter,18.86,18.68,19.25,19.28,19.01,19.34
+Shot Put,Female,1748,Dani Bunch,18.92,19.18,0,0,19.64,19.57
+Shot Put,Female,1748,Raven Saunders,18.3,17.75,0,18.58,0,19.76
+Hammer,Female,1749,Britney Henry,64.56,68.37,65.65,67.61,67.03,68.12
+Hammer,Female,1749,Heavin Warner,66.54,62.26,69.16,67.66,69.01,67.4
+Hammer,Female,1749,Maggie Ewen,71.45,70.65,70.99,0,71.92,74.56
+Hammer,Female,1749,Gwen Berry,71.73,74.77,72.31,74.44,72.29,73.45
+Hammer,Female,1749,Amber Campbell,65.25,71.87,72.58,73.08,72.46,73.58
+Hammer,Female,1749,Deanna Price,73.62,74.06,69.22,73.16,73.99,0
+Hammer,Female,1749,Amanda Bingson,66.23,0,69.54,0,0,65.45
+Hammer,Female,1749,Jeneva Stevens,67.81,0,63.22,63.81,0,0
+Hammer,Female,1750,Amanda Bingson,68.37,72.06,0,69.5,0,0
+Hammer,Female,1750,Campbell NIKE,0,70.55,71.89,70.92,0,0
+Hammer,Female,1750,Deanna Price,69.88,0,68.82,0,69.68,0
+Hammer,Female,1750,Gwen Berry,0,73.17,74.41,0,74.62,73.62
+Hammer,Female,1750,Heavin Warner,68.05,0,64.1,64.74,67.17,64.96
+Hammer,Female,1750,Jeneva Stevens,64.63,68.83,68.74,68.95,68.13,68.7
+Hammer,Female,1750,Jessica Ramsey,63.43,64.91,65.93,64.59,0,0
+Hammer,Female,1750,Lauren Stuart,63.98,63.44,61.81,61.71,0,61.91
+Hammer,Male,1751,Adam Keenan,67.23,67.54,68.41,68.03,66.51,68.44
+Hammer,Male,1751,Colin Dunbar,66.21,67.27,67.48,0,0,69.13
+Hammer,Male,1751,Conner Neu,68.4,69.37,69.78,65.33,67.2,64.64
+Hammer,Male,1751,Dempsey McGuigan,66.77,0,69,68.21,70.55,0
+Hammer,Male,1751,Diego Del,0,68.36,0,72.94,74.98,73.83
+Hammer,Male,1751,Erick Loomis,62.61,64.25,65.83,64.73,63.14,0
+Hammer,Male,1751,Johnnie Jackson,68.11,70.47,68.39,64.56,68.47,69.33
+Hammer,Male,1751,Michael Painter,63.74,62.01,65.29,64.55,63.77,65.34
+Hammer,Male,1751,Sean Donnelly,66.4,67.71,0,0,68.35,69.57
+Discus,Female,1752,Andrew Evans,61.31,64.46,0,0,63.23,0
+Discus,Female,1752,Avery Meyers,51.88,0,54.39,0,54.24,54.45
+Discus,Female,1752,Brian Williams,0,52.78,59.95,0,0,59.46
+Discus,Female,1752,Dan Greaves,52.31,55.44,0,54.57,55.5,58.33
+Discus,Female,1752,Kordell Hampton,52.7,51.4,49.46,0,49.87,51.57
+Discus,Female,1752,Kyle Douglass,55.97,0,53.72,52.01,0,50.3
+Discus,Female,1752,Reno Tuufuli,54.54,58,54.49,58.81,0,59.85
+Discus,Female,1752,Rodney Brown,62.71,0,62.06,58.5,62.08,0
+Discus,Female,1752,Ryan Hunter-Simms,54.61,0,53.17,55.82,55,53.81
+Discus,Female,1752,Sam Mattis,59.29,61.6,63.14,61.04,61.64,62.24
+Discus,Male,1753,Aaliyah Pete,44.25,42.41,41.44,46.21,46.44,0
+Discus,Male,1753,Ieva Zarankaite,51.69,54.4,52.1,0,0,53.01
+Discus,Male,1753,Janeah Stewart,0,47.05,0,0,41.54,0
+Discus,Male,1753,Julie Lange,51.5,50.05,0,52.24,49.85,0
+Discus,Male,1753,Laulauga Tausaga,50.37,52.33,0,51.46,0,43.36
+Discus,Male,1753,Nikki Okwelogu,52,0,47.48,50.82,48.76,52.56
+Discus,Male,1753,Nora Monie,0,47.27,0,47.99,46.99,49
+Discus,Male,1753,Rebecca Famurewa,38.83,54.4,0,0,54.24,48.54
+Shot Put,Female,1754,Aaliyah Pete,15.73,15.4,0,15.06,15.83,17.14
+Shot Put,Female,1754,Brittany Mann,16.01,16.48,0,16.19,0,16.52
+Shot Put,Female,1754,Janeah Stewart,16.98,17.04,15.62,0,16.11,0
+Shot Put,Female,1754,Jeneva Stevens,17.68,17.97,18.19,17.66,0,17.99
+Shot Put,Female,1754,Jessica Ramsey,17,0,16.89,16.5,17.56,17.15
+Shot Put,Female,1754,Julie Lange,14.67,15.59,15.83,15.38,0,0
+Shot Put,Female,1754,Nickolette Dunbar,15.45,0,16.01,15.34,15.32,15.35
+Shot Put,Female,1754,Nikki Okwelogu,15.48,15.83,14.93,15.59,15.64,15.22
+Shot Put,Female,1754,Rosario Sanchez,15.25,15.72,15.67,15.46,16,15.64
+Shot Put,Female,1760,Brittany Smith,17.31,17.71,18.1,17.36,17.33,17.81
+Shot Put,Female,1760,Dani Bunch,17.46,17.76,17.38,17.75,0,18.55
+Shot Put,Female,1760,Felisha Johnson,17.03,17.19,0,16.85,17.24,0
+Shot Put,Female,1760,Jeneva Stevens,16.92,17.96,17.7,17.23,17.54,0
+Shot Put,Female,1760,Jessica Ramsey,16.25,0,16.73,0,0,16.18
+Shot Put,Female,1760,Kearsten Peoples,15.92,0,15.78,15.91,0,15.67
+Shot Put,Female,1760,Kelsey Card,0,0,0,16.69,17.4,0
+Shot Put,Female,1760,Tina Hillman,16.94,17.29,0,0,0,17.02
+Discus,Male,1762,Sam Mattis,57.11,0,62.2,65.18,64.09,66.32
+Discus,Male,1762,Reggie Jagers,58.19,0,62.21,65.19,65.09,66.33
+Discus,Male,1762,Andrew Evans,0,0,62.22,65.2,66.09,66.34
+Discus,Male,1762,Jason Harrell,58.48,0,62.23,65.21,67.09,66.35
+Discus,Male,1762,Jared Schuurmans,61.22,0,62.24,65.22,68.09,66.36
+Discus,Male,1762,Uziel Munoz,53.57,0,62.25,65.23,69.09,66.37
+Discus,Male,1762,Jordan Young,53.92,0,62.26,65.24,70.09,66.38
+Discus,Male,1762,Turner Washington,53.03,0,62.27,65.25,71.09,66.39
+Discus,Male,1762,Justin Ramirez,51.36,0,62.28,65.26,72.09,66.4
+Discus,Female,1763,Kelsey Card,56.93,59.13,59.16,57.77,60.44,57.42
+Discus,Female,1763,Alex Collatz-Sellens,56.55,55.68,56.35,58.22,58.96,55.69
+Discus,Female,1763,Rachel Dincoff,0,44.82,0,0,53,0
+Discus,Female,1763,Summer Pierson,55.58,57.12,53.59,0,57.82,56.01
+Discus,Female,1763,Alison Szykowny,55.32,0,52.82,54.56,0,53.95
+Discus,Female,1763,Alex Morgan,54.83,52.44,0,0,0,54.37
+Discus,Female,1763,Sasha-Gaye Marston,46.67,0,48.43,0,49.13,50.89
+Shot Put,Male,1764,Jones Tyson,20.74,20.69,21.41,21.86,0,20.63
+Shot Put,Male,1764,Eldred Henry,18.34,17.8,0,19.53,19.24,18.64
+Shot Put,Male,1764,Corey Murphy,18.12,18.2,18.76,18.03,18.59,18.9
+Shot Put,Male,1764,Lucas Warning,18.21,18.63,18.19,0,17.98,18.74
+Shot Put,Male,1764,Uziel Munoz,0,17.81,0,18.26,18.07,17.99
+Shot Put,Male,1764,Roger Steen,18.48,18.12,18.32,0,18.58,0
+Shot Put,Male,1764,Aiden Harvey,17.54,16.59,16.88,0,17.25,16.97
+Shot Put,Male,1764,Matthew Cowie,16.45,16.43,16.63,15.93,16.99,16.38
+Shot Put,Female,1765,Monique Riddick,17.51,0,17.08,17.79,18.08,17.45
+Shot Put,Female,1765,Rachel Fatherly,0,0,16.02,0,16.71,17.89
+Shot Put,Female,1765,Chase Ealey,16.89,0,17.59,16.96,0,17.78
+Shot Put,Female,1765,Maria Orozco,17.3,16.99,17.52,17.02,0,17.53
+Shot Put,Female,1765,Suvi Helin,0,14.65,0,14.69,14.42,14.38
+Javelin,Female,1766,Mariana Castro,53.42,0,0,0,49.17,54.67
+Javelin,Female,1766,Rebekah Wales,49.46,52.12,0,47.33,50.26,0
+Javelin,Female,1766,Sharon Day-Monroe,51.33,0,46.64,46.98,50.47,51.01
+Javelin,Female,1766,Melissa Fraser,51.32,49.34,0,51.06,0,51.01
+Javelin,Female,1766,Bethany Drake,0,47.6,0,47.12,50.3,49.71
+Javelin,Female,1766,Channing Wilson,41.49,46.78,0,46.35,0,45.77
+Shot Put,Male,1767,Darrell Hill,20.43,21.07,20.82,21.07,0,20.31
+Shot Put,Male,1767,Curtis Jensen,20.63,20.97,20.63,20.5,20.17,20.29
+Shot Put,Male,1767,Garrett Appier,18.96,18.91,0,19.22,19.87,19.73
+Shot Put,Male,1767,Josh Freeman,19.29,0,0,19.59,19.46,19.77
+Shot Put,Male,1767,David Pless,18.59,19.38,0,19.13,19.44,19.06
+Shot Put,Male,1767,Jordan Young,18.25,0,0,18.36,0,0
+Javelin,Male,1768,David Carreon,73.33,73.01,0,79.78,74.89,78.51
+Javelin,Male,1768,Carlos Armenta,72.87,78.65,78.24,78.67,79.73,0
+Javelin,Male,1768,Michael Shuey,68.35,70.24,76.77,78.52,0,75.08
+Javelin,Male,1768,David Ocampo,73.42,75.38,73.47,75.15,72.12,72.78
+Javelin,Male,1768,Capers Williamson,67.96,69.15,70.7,70.31,74.62,0
+Javelin,Male,1768,Josue Menendez Bejarano,70.74,69.05,70.05,69.32,72.69,0
+Javelin,Male,1768,Jaime Arroyo,62.1,63.62,60.53,62.87,67.58,66.52
+Discus,Male,1769,Sam Mattis,63.38,61.3,63.88,61.41,61.59,64.27
+Discus,Male,1769,Andrew Evans,58.23,0,0,0,63.52,0
+Discus,Male,1769,Jason Harrell,58.11,58.17,0,0,57.72,0
+Discus,Male,1769,Jared Schuurmans,56.8,0,55.79,58.18,56.22,0
+Discus,Male,1769,Jordan Young,56.74,56.55,0,0,56.19,0
+Discus,Male,1769,Justin Ramirez,52.51,0,0,0,50.82,0
+Discus,Male,1769,Noel Aguirre,0,51.41,0,51.28,0,0
+Discus,Female,1770,Rachel Dincoff,0,56.28,57.96,0,61.16,0
+Discus,Female,1770,Kelsey Card,55.82,56.31,0,59.9,58.54,0
+Discus,Female,1770,Whitney Ashley,0,0,57.22,58.74,0,0
+Discus,Female,1770,Alex Collatz-Sellens,57.39,56.55,56.78,0,0,58.14
+Discus,Female,1770,Summer Pierson,56.49,56.96,55.37,0,54.62,57.22
+Discus,Female,1770,Alex Morgan,54.34,50.64,53.16,0,0,53.19
+Discus,Female,1770,Sarah Thornton,0,52.63,51.81,48.57,50.41,51.02
+Discus,Female,1770,Alma Pollorena,51.7,50.26,0,50.73,51.91,0
+Shot Put,Male,1771,Eldred Henry,18.98,0,19.05,18.95,18.71,19.56
+Shot Put,Male,1771,Aiden Harvey,18.31,19.22,19.32,19.36,19.01,0
+Shot Put,Male,1771,Roger Steen,17.75,18.63,18.69,18.48,19.14,0
+Shot Put,Male,1771,Lucas Warning,18.87,18.97,18.96,18.84,18.66,18.55
+Shot Put,Male,1771,Corey Murphy,18.34,18.43,18.56,18.9,18.8,18.85
+Shot Put,Male,1771,Uziel Munoz,0,18.06,18.83,18.54,18.69,18.65
+Shot Put,Male,1771,Ilwoo Jung,17.71,0,0,18.38,18.59,0
+Shot Put,Male,1771,Scott Lincoln,18.11,0,18.32,17.92,18.44,18.3
+Shot Put,Male,1771,Matthew Cowie,0,16.82,16.89,16,16.5,16.7
+Shot Put,Female,1772,Chase Ealey,16.37,0,16.97,0,17.34,0
+Shot Put,Female,1772,Maria Orozco,16.6,16.91,17.14,0,0,17.29
+Shot Put,Female,1772,Megan Dulaney,13.63,15.19,0,0,14.98,0
+Shot Put,Female,1772,Suvi Helin,14.37,0,0,0,14.6,14.43
+Javelin,Female,1773,Ariana Ince,0,53.12,55.8,52.14,57.88,52.5
+Javelin,Female,1773,Mariana Castro,51.23,51.21,51.04,52.45,48.7,51.95
+Javelin,Female,1773,Rebekah Wales,51.37,50.44,43.22,46.64,0,44.14
+Javelin,Female,1773,Channing Wilson,44.57,46.8,48.69,50.71,45.33,49.49
+Javelin,Female,1773,Katie Reichert,40.23,48.59,40.75,45.91,48.03,49.55
+Javelin,Female,1773,Bethany Drake,49.11,48.43,0,46.79,48.94,0
+Javelin,Female,1773,Sharon Day-Monroe,47.29,48.84,46.93,0,42.55,41.42
+Javelin,Female,1773,Melissa Fraser,47.62,48.68,47.52,0,0,45.61
+Javelin,Female,1773,Kaelyn Carlson-Shipley,43.39,44.9,40,43.17,40.29,40.58
+Shot Put,Male,1774,Tom Walsh,21.34,21.7,20.97,21.22,21.39,21.73
+Shot Put,Male,1774,Darrell Hill,21.14,0,0,0,20.74,20.88
+Shot Put,Male,1774,Ryan Whiting,20.14,20.37,0,0,20.46,0
+Shot Put,Male,1774,Curtis Jensen,19.89,20.32,19.98,0,20.01,20.24
+Shot Put,Male,1774,Jordan Geist,20.02,20.19,19.83,19.8,20.23,0
+Shot Put,Male,1774,Josh Freeman,19.77,0,0,19.79,0,0
+Shot Put,Male,1774,David Pless,18.09,19.25,19.23,0,19.78,19.65
+Shot Put,Male,1774,Garrett Appier,19.3,0,19.39,18.89,0,0
+Javelin,Male,1775,Michael Shuey,74.28,77.3,0,78.17,70.64,72.48
+Javelin,Male,1775,David Carreon,74.78,77.63,74.22,77.95,76.63,77.05
+Javelin,Male,1775,Carlos Armenta,0,77.3,75.3,0,75.76,72.81
+Javelin,Male,1775,Capers Williamson,66.08,72.27,0,70.92,70.88,74.74
+Javelin,Male,1775,David Ocampo,72.63,73.16,0,73.66,74.72,74.66
+Javelin,Male,1775,Josue Menendez Bejarano,68.54,71.94,69.83,69.96,67.03,68.88
+Javelin,Male,1775,Nicholas Howe,70.92,68.3,0,68.47,0,69.02
+Javelin,Male,1775,Kyle Nielsen,63.83,66.58,0,69.93,68.56,65.88
+Javelin,Male,1775,Jaime Arroyo,61.6,59.31,61.83,60.19,62.58,64.18
+Shot Put,Male,1776,Tom Walsh,21.11,21.82,21.58,21.6,21.77,21.43
+Shot Put,Male,1776,Curtis Jensen,20.44,0,20.24,20.08,20.57,21.18
+Shot Put,Male,1776,Chuk Enekwechi,20.28,19.69,20.54,20.15,20.35,20.64
+Shot Put,Male,1776,Darrell Hill,0,19.82,20.39,20.11,0,20.18
+Shot Put,Male,1776,Ryan Whiting,20.13,0,0,0,20.25,20.18
+Shot Put,Male,1776,Josh Freeman,19.06,0,0,0,0,19.21
+Shot Put,Male,1776,Alex Renner,18.34,18.61,18.44,0,18.48,0
+Discus,Male,1777,Tarves Smikle,59.4,0,0,0,61.09,64.07
+Discus,Male,1777,Jeremy Campbell,63.49,0,59.4,0,60.05,0
+Discus,Male,1777,Jarred Schuurmans,0,57.49,60.89,61.29,58.89,0
+Shot Put,Female,1856,Maggie Ewen,17.94,19.09,0,18.58,19.29,18.74
+Shot Put,Female,1856,Jessica Ramsey,19.23,17.65,17.51,0,18.24,0
+Shot Put,Female,1856,Raven Saunders,18.74,0,0,0,18.13,0
+Shot Put,Female,1856,Monique Riddick,17.96,18.2,17.95,17.68,17.55,17.94
+Shot Put,Female,1856,Janeah Stewart,17,17.68,17.85,17.1,17.82,18.03
+Shot Put,Female,1856,Michelle Carter,17.26,17.51,17.87,17.26,17.65,18.01
+Shot Put,Female,1856,Jeneva Stevens,17.19,17.85,17.19,16.74,0,17.66
+Discus,Female,1857,Valarie Allman,59.1,61.55,59.68,63.55,0,59.62
+Discus,Female,1857,Maggie Ewen,60.46,59.47,60.28,58.6,61.13,0
+Discus,Female,1857,Laulauga Tausaga-Collins,58.34,0,0,57.36,54.56,60.65
+Discus,Female,1857,Gia Lewis-Smallwood,59.26,0,57.37,60.58,59.03,58.24
+Discus,Female,1857,Gabi Jacobs,0,59.59,0,45.01,0,60.16
+Discus,Female,1857,Kelsey Card,0,56.77,60.04,60.07,0,58.78
+Discus,Female,1857,Alex Collatz,56.31,0,56.87,0,56.55,0
+Discus,Female,1857,Summer Pierson,56.29,52.36,56.06,54.1,0,54.14
+Hammer,Female,1858,Deanna Price,73.81,0,0,76.35,78.12,77.01
+Hammer,Female,1858,Gwendolyn Berry,0,72.99,72.81,71.85,72.32,0
+Hammer,Female,1858,Brooke Andersen,72.17,0,71.76,69.38,70.61,0
+Hammer,Female,1858,Janeah Stewart,0,67.83,70.23,70.56,69.98,69.77
+Hammer,Female,1858,Jessica Ramsey,68.18,64.95,64.42,67.25,69,70.41
+Hammer,Female,1858,Jeneva Stevens,0,68.72,68.85,67.4,68.68,0
+Hammer,Female,1858,Heavin Warner,68.01,0,0,0,0,66.64
+Hammer,Female,1858,Maddie Nilles,65.69,0,64.75,65.96,0,65.04
+Javelin,Female,1859,Kara Winger,56.89,52.93,55.48,54.45,57.59,62.88
+Javelin,Female,1859,Avione Allgood,56.54,0,54.39,51.61,54.32,0
+Javelin,Female,1859,Ariana Ince,51.93,53.46,52.45,55.97,55.18,0
+Javelin,Female,1859,Bethany Drake,49.88,51.02,54.2,0,50.59,0
+Javelin,Female,1859,Alyssa Olin,0,53.74,52.08,51.48,0,52.78
+Javelin,Female,1859,Dominique Ouellette,49.6,44.22,50.6,51.26,49.25,53.17
+Javelin,Female,1859,Kristen Clark,47.18,50.93,0,48.17,49.27,49.61
+Javelin,Female,1859,Rebekah Wales,48.83,0,50.38,48.23,0,46.65
+Shot Put,Male,1860,Darrell Hill,20.33,0,20.51,21.36,21.57,0
+Shot Put,Male,1860,Curtis Jensen,20.06,20.13,20.86,20.72,20.47,20.87
+Shot Put,Male,1860,Joe Kovacs,19.71,20.74,0,0,0,20.57
+Shot Put,Male,1860,Josh Awotunde,19.39,0,19.95,20.13,20.14,0
+Shot Put,Male,1860,Garrett Appier,19.05,19.71,19.94,19.87,19.95,19.86
+Discus,Male,1861,Reggie Jagers,63.54,61.7,66.92,0,68.61,0
+Discus,Male,1861,Mason Finley,0,65.27,0,65.77,67.06,64.79
+Discus,Male,1861,Sam Mattis,65.45,0,66.32,66,0,65.6
+Discus,Male,1861,Andrew Evans,60.72,63.13,64.16,0,62.21,64.66
+Discus,Male,1861,Jared Schuurmans,60.01,60.64,59.94,62.61,63.99,59.97
+Discus,Male,1861,Luke Vaughn,59.55,58.95,63.13,0,61.1,0
+Discus,Male,1861,Phillip Jagers,59.57,61.68,56.83,0,0,56.91
+Discus,Male,1861,Jason Harrell,0,59.93,0,61.26,60.94,0
+Hammer,Male,1862,Rudy Winkler,71.89,71.01,73.76,71.1,71.2,72.26
+Hammer,Male,1862,Alex Young,72.35,0,73.01,72.23,73.22,0
+Hammer,Male,1862,Sean Donnelly,73.09,0,0,72.72,0,0
+Hammer,Male,1862,Daniel Roberts,71.92,0,72.63,73.06,0,0
+Hammer,Male,1862,Conor McCullough,71.52,72.46,72.69,71.42,72.98,69.76
+Hammer,Male,1862,Morgan Shigo,67.02,0,70.16,0,68.16,71.75
+Hammer,Male,1862,Daniel Haugh,69.85,0,68.52,70.2,0,70.71
+Hammer,Male,1862,Colin Dunbar,68.02,70.39,0,0,66.3,0
+Javelin,Male,1863,Curtis Thompson,74.55,75.77,71.99,75.99,71.14,70.67
+Javelin,Male,1863,Capers Williamson,71.09,71.95,75.71,71.54,70.25,0
+Javelin,Male,1863,Riley Dolezal,74.13,69.93,69.14,75.1,0,0
+Javelin,Male,1863,Michael Shuey,70.9,70.85,59.14,0,72.93,68.26
+Javelin,Male,1863,Tim VanLiew,70.74,71.79,68.99,0,67.9,72.04
+Javelin,Male,1863,Aaron True,70.78,69.51,69.34,70.93,70.5,70.23
+Javelin,Male,1863,Michael Brazzel,65.93,66.96,70.34,66.02,0,0
+Javelin,Male,1863,Michael Biddle,69.01,70.24,67.25,0,0,69.09
