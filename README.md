@@ -15,7 +15,5 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 
 | Project | Description |
 | --- | --- |
-|<img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_62/img/project_image.png" width="250">  `Phyllotaxis: Draw Flowers Using Mathematics`|Use R to make art and create imaginary flowers inspired by nature.|
+|`Phyllotaxis: Draw Flowers Using Mathematics`|Use R to make art and create imaginary flowers inspired by nature.|
 
-
-![o](https://s3.amazonaws.com/assets.datacamp.com/production/project_62/img/project_image.png)
