@@ -16,7 +16,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | Project | Description |
 | --- | --- |
 |[`Phyllotaxis: Draw Flowers Using Mathematics`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/%20Draw%20flowers%20using%20mathematics)|[Use R to make art and create imaginary flowers inspired by nature.](https://www.datacamp.com/projects/62)|
-|[`A Text Analysis of Trump's Tweets`](A Text Analysis of Trump's Tweets) | [Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half.](https://www.datacamp.com/projects/511)|
+|[`A Text Analysis of Trump s Tweets`](A Text Analysis of Trump's Tweets) | [Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half.](https://www.datacamp.com/projects/511)|
 
 
 
