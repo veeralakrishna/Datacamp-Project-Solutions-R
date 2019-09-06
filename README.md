@@ -11,6 +11,12 @@ Designed by expert instructors, DataCamp Projects are an important step in your 
 <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg" width="250">
 </p>
 
+<p align="center"> 
+<img src="https://static.datacamp.com/static/6cef7a0c5b8bf061ebdb044e0cce49dc/47ffe/project_image.png" width="250">
+</p>
+
+
+
 My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakrishna).
 
 | Project | Description |
