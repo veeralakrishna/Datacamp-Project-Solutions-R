@@ -11,9 +11,6 @@ Designed by expert instructors, DataCamp Projects are an important step in your 
 <img src="https://cdn.datacamp.com/main-app/assets/projects/projects-illustration-fb3e253ea0527cd53aafbd5ed1c4570a5c818c8deba9d0cedceb095bf64cb3fa.svg" width="250">
 </p>
 
-<p align="center"> 
-<img src="https://static.datacamp.com/static/6cef7a0c5b8bf061ebdb044e0cce49dc/47ffe/project_image.png" width="250">
-</p>
 
 
 
@@ -25,7 +22,9 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 |[`A Text Analysis of Trump's Tweets`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/A%20Text%20Analysis%20of%20Trump's%20Tweets) | [Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half.](https://www.datacamp.com/projects/511)|
 | [`A Visual History of Nobel Prize Winners`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners) | [Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?](https://www.datacamp.com/projects/309) |
 | [`Bad passwords and the NIST guidelines`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Bad%20passwords%20and%20the%20NIST%20guidelines) | [Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.](https://www.datacamp.com/projects/68) |
-| [`Clustering Heart Disease Patient Data`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Clustering%20Heart%20Disease%20Patient%20Data) | [Experiment with clustering algorithms to help doctors inform treatment for heart disease patients.](https://www.datacamp.com/projects/552)|
+| <p
+<img src="https://static.datacamp.com/static/6cef7a0c5b8bf061ebdb044e0cce49dc/47ffe/project_image.png" width="25">
+</p>[`Clustering Heart Disease Patient Data`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Clustering%20Heart%20Disease%20Patient%20Data) | [Experiment with clustering algorithms to help doctors inform treatment for heart disease patients.](https://www.datacamp.com/projects/552)|
 
 
 
