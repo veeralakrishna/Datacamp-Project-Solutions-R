@@ -19,7 +19,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 <center>
 
 |    | Project | Description |
-| :-------------: | :-------------: |  :-------------: |
+| :-: | :-: |  --- |
 | <img src="https://static.datacamp.com/static/0a6e0782321cf125eed57173bea4a53f/47ffe/project_image.png" width="150"> | [`Phyllotaxis: Draw Flowers Using Mathematics`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/%20Draw%20flowers%20using%20mathematics)|[Use R to make art and create imaginary flowers inspired by nature.](https://www.datacamp.com/projects/62)|
 | <img src="https://static.datacamp.com/static/9a26495f82cef0b00998ab2e8712ac01/47ffe/project_image.png" width="150"> | [`A Text Analysis of Trump's Tweets`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/A%20Text%20Analysis%20of%20Trump's%20Tweets) | [Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half.](https://www.datacamp.com/projects/511)|
 |<img src="https://static.datacamp.com/static/c9314c09eb4bec6e159f065c6bc956ec/47ffe/project_image.png" width="150"> | [`A Visual History of Nobel Prize Winners`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners) | [Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?](https://www.datacamp.com/projects/309) |
