@@ -32,9 +32,9 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | <img src="https://static.datacamp.com/static/b5b1dcfe22048955210058cbf70ac895/47ffe/project_image.png" width="150"> | [`Exploring the Kaggle Data Science Survey`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Exploring%20the%20Kaggle%20Data%20Science%20Survey) | [Discover the top tools Kaggle participants use for data science and machine learning.](https://www.datacamp.com/projects/74)|
 | <img src="https://static.datacamp.com/static/0594cd6f9f94ccd0f585055d7eaa3db4/47ffe/project_image.png" width="150"> | [`Functions for Food Price Forecasts`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Functions%20for%20Food%20Price%20Forecasts) | [Write functions to forecast time series of food prices in Rwanda.](https://www.datacamp.com/projects/515)|
 | <img src="https://static.datacamp.com/static/70d9cc7cfe067d9e1df13abe2a6daca7/47ffe/project_image.png" width="150"> | [`Gender Bias in Graduate Admissions`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Gender%20Bias%20in%20Graduate%20Admissions) | [Analyze admissions data from UC Berkeley and find out if the university was biased against women.](https://www.datacamp.com/projects/567)|
+| <img src="https://static.datacamp.com/static/a0de7f8dc6a8728ab07c7ea89c61b6ca/47ffe/project_image.png" width="150"> | [`Kidney Stones and Simpson's Paradox`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Kidney%20Stones%20and%20Simpson's%20Paradox) | [Use logistic regression to determine which treatment procedure is more effective for kidney stone removal.](https://www.datacamp.com/projects/697)|
 
 </center>
-
 
 
 
