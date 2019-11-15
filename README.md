@@ -34,9 +34,9 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | <img src="https://static.datacamp.com/static/70d9cc7cfe067d9e1df13abe2a6daca7/47ffe/project_image.png" width="150"> | [`Gender Bias in Graduate Admissions`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Gender%20Bias%20in%20Graduate%20Admissions) | [Analyze admissions data from UC Berkeley and find out if the university was biased against women.](https://www.datacamp.com/projects/567)|
 | <img src="https://static.datacamp.com/static/a0de7f8dc6a8728ab07c7ea89c61b6ca/47ffe/project_image.png" width="150"> | [`Kidney Stones and Simpson's Paradox`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Kidney%20Stones%20and%20Simpson's%20Paradox) | [Use logistic regression to determine which treatment procedure is more effective for kidney stone removal.](https://www.datacamp.com/projects/697)|
 | <img src="https://static.datacamp.com/static/f2bc0e16eabdc3570ff7be1d5afdc738/47ffe/project_image.png" width="150"> | [`Level difficulty in Candy Crush Saga`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Level%20difficulty%20in%20Candy%20Crush%20Saga) | [Analyze data from the hit mobile game, Candy Crush Saga.](https://www.datacamp.com/projects/139)|
+| <img src="https://static.datacamp.com/static/370c1a70ac5d3340b0115ea293125602/47ffe/project_image.png" width="150"> | [`Partnering to Protect You from Peril`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Partnering%20to%20Protect%20You%20from%20Peril) | [Examine the network of connections among local health departments in the United States.](https://www.datacamp.com/projects/438)|
 
 </center>
-
 
 
 
