@@ -38,9 +38,9 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | <img src="https://static.datacamp.com/static/370c1a70ac5d3340b0115ea293125602/47ffe/project_image.png" width="150"> | [`Partnering to Protect You from Peril`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Partnering%20to%20Protect%20You%20from%20Peril) | [Examine the network of connections among local health departments in the United States.](https://www.datacamp.com/projects/438)|
 | <img src="https://static.datacamp.com/static/4bf709647d76a9140d2b9c705506d726/47ffe/project_image.png" width="150"> | [`Planning Public Policy in Argentina`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Planning%20Public%20Policy%20in%20Argentina) | [Apply unsupervised learning techniques to help plan an education program in Argentina.](https://www.datacamp.com/projects/638)|
 | <img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_496/img/project_image.png" width="150"> | [`Predict Taxi Fares with Random Forests`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Predict%20Taxi%20Fares%20with%20Random%20Forests) | [Use regression trees and random forests to find places where New York taxi drivers earn the most.](https://www.datacamp.com/projects/496)|
+| <img src="https://static.datacamp.com/static/f1c8213254a491e15b51f16607796c87/47ffe/project_image.png" width="150"> | [`Rise and Fall of Programming Languages`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Rise%20and%20Fall%20of%20Programming%20Languages) | [Analyze the relative popularity of programming languages over time based on Stack Overflow data.](https://www.datacamp.com/projects/435)|
 
 </center>
-
 
 
 
