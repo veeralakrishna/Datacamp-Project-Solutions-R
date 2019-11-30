@@ -1,0 +1,201 @@
+zombieid,zombie,age,sex,rurality,household,water,food,medication,tools,firstaid,sanitation,clothing,documents
+1,Human,18,Female,Rural,1,0,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,NA
+2,Human,18,Male,Rural,3,24,Food,Medication,tools,First aid supplies,Sanitation,Clothing,NA
+3,Human,18,Male,Rural,4,16,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,NA
+4,Human,19,Male,Rural,1,0,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,NA
+5,Human,19,Male,Urban,1,0,Food,Medication,No tools,First aid supplies,Sanitation,NA,NA
+6,Human,19,Female,Urban,1,0,Food,Medication,tools,First aid supplies,Sanitation,Clothing,NA
+7,Human,20,Female,Suburban,2,0,No food,Medication,No tools,First aid supplies,Sanitation,Clothing,NA
+8,Human,20,Female,Rural,2,0,Food,No medication,No tools,No first aid supplies,Sanitation,Clothing,NA
+9,Human,21,Female,Urban,1,8,No food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+10,Human,21,Female,Rural,2,8,No food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+11,Human,21,Male,Rural,1,8,Food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+12,Human,21,Male,Rural,2,16,No food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+13,Human,22,Male,Suburban,2,16,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+14,Human,23,Male,Rural,3,8,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+15,Human,23,Male,Rural,2,8,Food,Medication,tools,First aid supplies,Sanitation,Clothing,Documents
+16,Human,23,Male,Suburban,1,8,Food,Medication,tools,No first aid supplies,No sanitation,NA,NA
+17,Human,24,Male,Rural,4,40,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,NA
+18,Human,24,Female,Rural,3,18,Food,Medication,tools,First aid supplies,Sanitation,Clothing,NA
+19,Human,24,Female,Suburban,2,11,No food,Medication,No tools,No first aid supplies,No sanitation,NA,NA
+20,Human,24,Male,Urban,1,0,Food,No medication,tools,First aid supplies,Sanitation,Clothing,NA
+21,Human,24,Male,Rural,2,8,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+22,Human,25,Male,Suburban,2,8,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+23,Human,25,Male,Rural,1,0,No food,No medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+24,Human,25,Female,Urban,1,0,Food,No medication,tools,First aid supplies,No sanitation,NA,NA
+25,Human,25,Female,Rural,2,8,No food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+26,Human,25,Male,Rural,3,40,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+27,Human,26,Female,Rural,3,40,Food,Medication,tools,No first aid supplies,No sanitation,Clothing,NA
+28,Human,26,Female,Rural,2,8,No food,Medication,tools,No first aid supplies,No sanitation,Clothing,NA
+29,Human,26,Female,Suburban,3,8,Food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+30,Human,26,Female,Suburban,3,40,Food,Medication,No tools,First aid supplies,No sanitation,NA,NA
+31,Human,27,Male,Rural,2,8,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,NA
+32,Human,27,Male,Rural,4,40,Food,No medication,tools,No first aid supplies,Sanitation,Clothing,NA
+33,Human,28,Male,Rural,2,8,Food,Medication,tools,First aid supplies,Sanitation,Clothing,NA
+34,Human,28,Male,Suburban,3,8,Food,Medication,tools,First aid supplies,Sanitation,Clothing,Documents
+35,Human,28,Female,Urban,1,0,Food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+36,Human,28,Female,Rural,1,0,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+37,Human,29,Male,Rural,5,40,No food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+38,Human,29,Male,Rural,4,16,Food,No medication,tools,First aid supplies,Sanitation,NA,Documents
+39,Human,29,Female,Rural,5,40,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+40,Human,29,Female,Rural,3,8,No food,Medication,tools,No first aid supplies,Sanitation,NA,Documents
+41,Human,29,Female,Rural,4,8,Food,Medication,No tools,First aid supplies,No sanitation,NA,NA
+42,Human,30,Male,Suburban,3,0,Food,No medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+43,Human,30,Male,Rural,4,16,Food,No medication,tools,No first aid supplies,Sanitation,NA,Documents
+44,Human,30,Female,Urban,4,0,No food,Medication,tools,No first aid supplies,No sanitation,NA,NA
+45,Human,30,Female,Urban,3,8,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+46,Human,31,Female,Suburban,5,40,Food,Medication,No tools,First aid supplies,No sanitation,NA,NA
+47,Human,32,Female,Urban,3,16,Food,No medication,No tools,No first aid supplies,Sanitation,Clothing,NA
+48,Human,32,Male,Rural,3,40,Food,No medication,tools,No first aid supplies,Sanitation,Clothing,NA
+49,Human,32,Male,Rural,5,40,Food,Medication,tools,First aid supplies,No sanitation,NA,NA
+50,Human,32,Female,Rural,5,40,Food,Medication,tools,First aid supplies,Sanitation,Clothing,NA
+51,Human,32,Female,Rural,4,8,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+52,Human,33,Male,Rural,4,0,No food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+53,Human,33,Male,Suburban,4,40,Food,Medication,No tools,First aid supplies,Sanitation,NA,Documents
+54,Human,33,Female,Urban,4,0,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+55,Human,34,Female,Rural,5,0,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+56,Human,34,Female,Rural,4,8,Food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+57,Human,35,Male,Rural,5,8,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+58,Human,35,Male,Rural,5,0,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+59,Human,36,Female,Suburban,4,8,No food,No medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+60,Human,36,Male,Rural,3,8,Food,Medication,No tools,No first aid supplies,No sanitation,NA,NA
+61,Human,36,Male,Urban,2,0,Food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+62,Human,36,Female,Rural,2,8,Food,Medication,tools,First aid supplies,Sanitation,Clothing,Documents
+63,Human,36,Female,Rural,3,8,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+64,Human,37,Male,Rural,5,40,No food,Medication,No tools,No first aid supplies,Sanitation,Clothing,NA
+65,Human,37,Female,Rural,4,40,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,NA
+66,Human,37,Male,Rural,3,40,Food,No medication,tools,First aid supplies,Sanitation,Clothing,NA
+67,Human,38,Male,Rural,5,8,Food,No medication,tools,No first aid supplies,Sanitation,Clothing,NA
+68,Human,38,Female,Rural,4,40,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,NA
+69,Human,39,Male,Urban,3,0,Food,Medication,No tools,First aid supplies,Sanitation,NA,Documents
+70,Human,39,Female,Urban,3,0,Food,Medication,tools,First aid supplies,Sanitation,Clothing,Documents
+71,Human,40,Male,Suburban,3,0,Food,Medication,No tools,No first aid supplies,No sanitation,NA,NA
+72,Human,40,Male,Suburban,3,0,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+73,Human,40,Female,Rural,4,8,No food,No medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+74,Human,41,Female,Rural,5,16,Food,Medication,tools,First aid supplies,No sanitation,NA,NA
+75,Human,41,Female,Rural,4,0,Food,Medication,No tools,No first aid supplies,Sanitation,NA,Documents
+76,Human,42,Male,Rural,4,8,Food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+77,Human,42,Male,Urban,3,0,No food,Medication,tools,First aid supplies,Sanitation,Clothing,Documents
+78,Human,42,Female,Rural,5,40,Food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+79,Human,42,Female,Rural,6,40,Food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+80,Human,43,Female,Rural,4,16,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+81,Human,44,Male,Suburban,2,16,Food,Medication,No tools,First aid supplies,No sanitation,NA,NA
+82,Human,44,Female,Suburban,3,0,Food,No medication,tools,First aid supplies,No sanitation,NA,NA
+83,Human,45,Female,Rural,4,0,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+84,Human,45,Female,Rural,5,8,Food,Medication,tools,No first aid supplies,No sanitation,Clothing,NA
+85,Human,45,Male,Rural,3,16,Food,No medication,No tools,First aid supplies,Sanitation,Clothing,NA
+86,Human,46,Female,Rural,5,40,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+87,Human,46,Male,Rural,4,40,No food,Medication,No tools,No first aid supplies,No sanitation,NA,NA
+88,Human,47,Male,Suburban,3,16,Food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+89,Human,47,Male,Rural,3,0,Food,Medication,No tools,First aid supplies,No sanitation,Clothing,NA
+90,Human,48,Female,Suburban,2,0,Food,Medication,No tools,First aid supplies,No sanitation,Clothing,NA
+91,Human,48,Female,Suburban,3,0,No food,No medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+92,Human,50,Female,Rural,2,8,No food,Medication,tools,No first aid supplies,Sanitation,Clothing,NA
+93,Human,53,Female,Rural,3,8,No food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+94,Human,53,Female,Rural,1,8,Food,No medication,No tools,First aid supplies,Sanitation,NA,Documents
+95,Human,53,Female,Rural,1,8,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+96,Human,54,Male,Rural,2,8,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,NA
+97,Human,56,Male,Suburban,2,8,Food,No medication,No tools,First aid supplies,Sanitation,Clothing,NA
+98,Human,56,Female,Rural,3,16,No food,No medication,No tools,First aid supplies,Sanitation,Clothing,NA
+99,Human,56,Female,Suburban,2,16,No food,Medication,No tools,No first aid supplies,Sanitation,Clothing,NA
+100,Human,56,Male,Rural,1,0,Food,Medication,tools,No first aid supplies,Sanitation,NA,Documents
+101,Human,57,Male,Rural,1,0,Food,Medication,tools,First aid supplies,No sanitation,NA,NA
+102,Human,58,Female,Rural,2,0,Food,Medication,tools,First aid supplies,Sanitation,NA,Documents
+103,Human,59,Male,Urban,2,16,Food,Medication,No tools,No first aid supplies,Sanitation,NA,NA
+104,Human,59,Male,Rural,2,16,Food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+105,Human,59,Female,Rural,2,16,No food,No medication,No tools,First aid supplies,Sanitation,NA,Documents
+106,Human,60,Female,Rural,2,0,No food,No medication,tools,First aid supplies,No sanitation,NA,NA
+107,Human,61,Male,Suburban,3,0,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+108,Human,61,Female,Rural,3,0,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+109,Human,62,Male,Suburban,1,0,Food,Medication,No tools,First aid supplies,No sanitation,NA,NA
+110,Human,63,Female,Rural,1,0,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+111,Human,65,Female,Rural,2,16,Food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+112,Human,67,Male,Rural,2,16,No food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+113,Human,68,Male,Rural,2,8,No food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+114,Human,69,Female,Rural,2,8,Food,Medication,No tools,First aid supplies,No sanitation,NA,NA
+115,Human,71,Female,Urban,2,8,Food,Medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+116,Human,72,Male,Suburban,2,0,Food,Medication,tools,No first aid supplies,No sanitation,Clothing,NA
+117,Human,74,Male,Suburban,1,0,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+118,Human,75,Female,Rural,1,8,Food,No medication,tools,First aid supplies,No sanitation,NA,NA
+119,Human,77,Female,Rural,1,8,Food,Medication,No tools,No first aid supplies,No sanitation,NA,NA
+120,Human,81,Male,Rural,1,8,Food,Medication,tools,No first aid supplies,No sanitation,NA,NA
+121,Human,32,Male,Rural,2,8,Food,No medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+122,Zombie,20,Female,Urban,2,0,Food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+123,Zombie,23,Male,Suburban,3,0,No food,No medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+124,Zombie,25,Female,Rural,5,0,No food,No medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+125,Zombie,28,Female,Suburban,3,0,No food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+126,Zombie,31,Female,Rural,4,0,No food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+127,Zombie,32,Male,Suburban,4,0,No food,No medication,No tools,No first aid supplies,Sanitation,NA,Documents
+128,Zombie,42,Male,Rural,4,8,No food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+129,Zombie,43,Male,Urban,5,8,No food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+130,Zombie,44,Male,Rural,5,8,Food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+131,Zombie,45,Male,Urban,4,0,Food,Medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+132,Zombie,47,Female,Urban,2,0,No food,Medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+133,Zombie,48,Female,Suburban,3,0,No food,No medication,No tools,First aid supplies,No sanitation,Clothing,NA
+134,Zombie,48,Female,Urban,2,0,No food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+135,Zombie,49,Female,Suburban,3,0,No food,No medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+136,Zombie,49,Female,Suburban,2,0,Food,Medication,tools,No first aid supplies,No sanitation,NA,NA
+137,Zombie,50,Male,Rural,4,0,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+138,Zombie,50,Male,Rural,3,9,No food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+139,Zombie,51,Female,Urban,3,8,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+140,Zombie,51,Male,Rural,4,40,Food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+141,Zombie,53,Male,Suburban,2,0,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+142,Zombie,54,Female,Urban,2,0,No food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+143,Zombie,57,Female,Suburban,2,16,Food,No medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+144,Zombie,58,Female,Urban,2,0,No food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+145,Zombie,59,Male,Rural,1,0,Food,Medication,tools,First aid supplies,No sanitation,Clothing,NA
+146,Zombie,60,Male,Rural,2,16,No food,No medication,tools,First aid supplies,Sanitation,Clothing,NA
+147,Zombie,61,Male,Rural,2,0,No food,No medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+148,Zombie,64,Female,Suburban,2,0,Food,Medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+149,Zombie,65,Male,Urban,2,16,No food,Medication,No tools,First aid supplies,No sanitation,Clothing,NA
+150,Zombie,66,Female,Urban,2,8,No food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+151,Zombie,68,Male,Suburban,2,0,Food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+152,Zombie,71,Male,Rural,2,0,Food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+153,Zombie,73,Female,Urban,1,0,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+154,Zombie,75,Male,Suburban,2,16,Food,Medication,tools,First aid supplies,No sanitation,NA,NA
+155,Zombie,78,Female,Suburban,2,8,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+156,Zombie,80,Male,Rural,2,8,No food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+157,Zombie,81,Female,Urban,1,8,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+158,Zombie,19,Male,Suburban,1,0,Food,Medication,No tools,First aid supplies,No sanitation,Clothing,NA
+159,Zombie,25,Female,Urban,1,0,Food,No medication,tools,No first aid supplies,No sanitation,Clothing,NA
+160,Zombie,28,Male,Urban,2,0,No food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+161,Zombie,29,Female,Urban,3,8,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+162,Zombie,37,Female,Suburban,4,0,No food,No medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+163,Zombie,38,Male,Urban,3,8,No food,No medication,tools,No first aid supplies,No sanitation,NA,NA
+164,Zombie,39,Male,Urban,3,8,No food,Medication,tools,No first aid supplies,Sanitation,NA,Documents
+165,Zombie,40,Male,Urban,3,0,No food,No medication,No tools,First aid supplies,No sanitation,Clothing,NA
+166,Zombie,40,Male,Urban,3,0,No food,No medication,No tools,First aid supplies,No sanitation,Clothing,NA
+167,Zombie,42,Male,Suburban,4,0,No food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+168,Zombie,44,Male,Urban,3,0,No food,No medication,tools,No first aid supplies,No sanitation,Clothing,NA
+169,Zombie,45,Female,Urban,3,0,No food,No medication,tools,First aid supplies,No sanitation,NA,NA
+170,Zombie,46,Female,Urban,3,0,Food,No medication,tools,First aid supplies,No sanitation,NA,NA
+171,Zombie,76,Male,Rural,4,8,No food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+172,Zombie,47,Male,Urban,4,8,No food,No medication,tools,No first aid supplies,No sanitation,Clothing,NA
+173,Zombie,49,Male,Rural,5,0,No food,No medication,No tools,First aid supplies,No sanitation,Clothing,NA
+174,Zombie,51,Male,Urban,2,0,No food,No medication,tools,First aid supplies,No sanitation,NA,NA
+175,Zombie,54,Female,Urban,2,0,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+176,Zombie,76,Female,Urban,2,8,No food,Medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+177,Zombie,56,Female,Suburban,2,8,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+178,Zombie,58,Female,Suburban,2,8,No food,No medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+179,Zombie,59,Female,Rural,3,0,No food,No medication,tools,No first aid supplies,No sanitation,Clothing,NA
+180,Zombie,60,Female,Rural,2,0,No food,No medication,tools,No first aid supplies,Sanitation,Clothing,Documents
+181,Zombie,62,Male,Urban,1,0,No food,No medication,No tools,First aid supplies,No sanitation,NA,NA
+182,Zombie,67,Female,Urban,1,0,Food,Medication,No tools,First aid supplies,Sanitation,Clothing,Documents
+183,Zombie,68,Male,Suburban,2,8,No food,No medication,No tools,No first aid supplies,No sanitation,Clothing,NA
+184,Zombie,71,Male,Suburban,1,8,No food,No medication,tools,No first aid supplies,Sanitation,Clothing,NA
+185,Zombie,71,Female,Urban,1,0,No food,No medication,tools,First aid supplies,No sanitation,NA,NA
+186,Zombie,78,Male,Urban,1,0,No food,No medication,tools,First aid supplies,No sanitation,NA,NA
+187,Zombie,18,Male,Urban,3,0,No food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+188,Zombie,21,Female,Urban,2,8,No food,No medication,tools,No first aid supplies,No sanitation,Clothing,NA
+189,Zombie,32,Male,Urban,3,0,No food,No medication,No tools,First aid supplies,No sanitation,Clothing,NA
+190,Zombie,41,Female,Rural,5,0,No food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+191,Zombie,43,Female,Rural,5,0,No food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+192,Zombie,48,Female,Suburban,4,8,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+193,Zombie,58,Male,Urban,1,0,Food,No medication,tools,First aid supplies,No sanitation,NA,NA
+194,Zombie,65,Male,Urban,1,0,No food,No medication,tools,First aid supplies,No sanitation,NA,NA
+195,Zombie,67,Female,Suburban,2,0,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+196,Zombie,68,Male,Suburban,1,0,Food,No medication,No tools,No first aid supplies,Sanitation,Clothing,Documents
+197,Zombie,71,Male,Suburban,1,8,No food,No medication,tools,First aid supplies,No sanitation,Clothing,NA
+198,Zombie,76,Female,Urban,1,0,No food,No medication,tools,First aid supplies,Sanitation,Clothing,Documents
+199,Zombie,82,Male,Urban,1,0,No food,No medication,No tools,No first aid supplies,No sanitation,NA,NA
+200,Zombie,85,Male,Urban,1,0,No food,Medication,No tools,No first aid supplies,Sanitation,Clothing,NA
