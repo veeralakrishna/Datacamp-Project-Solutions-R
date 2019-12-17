@@ -39,7 +39,13 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | <img src="https://static.datacamp.com/static/4bf709647d76a9140d2b9c705506d726/47ffe/project_image.png" width="150"> | [`Planning Public Policy in Argentina`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Planning%20Public%20Policy%20in%20Argentina) | [Apply unsupervised learning techniques to help plan an education program in Argentina.](https://www.datacamp.com/projects/638)|
 | <img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_496/img/project_image.png" width="150"> | [`Predict Taxi Fares with Random Forests`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Predict%20Taxi%20Fares%20with%20Random%20Forests) | [Use regression trees and random forests to find places where New York taxi drivers earn the most.](https://www.datacamp.com/projects/496)|
 | <img src="https://static.datacamp.com/static/f1c8213254a491e15b51f16607796c87/47ffe/project_image.png" width="150"> | [`Rise and Fall of Programming Languages`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Rise%20and%20Fall%20of%20Programming%20Languages) | [Analyze the relative popularity of programming languages over time based on Stack Overflow data.](https://www.datacamp.com/projects/435)|
-| <img src="https://assets.datacamp.com/production/project_177/img/project_image.png" width="150"> | [`Scout your Athletics Fantasy Team`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Scout%20Your%20Athletics%20Fantasy%20Team) | [Analyze athletics data to find new ways to scout and assess jumpers and throwers.](https://www.datacamp.com/projects/435)|
+| <img src="https://assets.datacamp.com/production/project_177/img/project_image.png" width="150"> | [`Scout your Athletics Fantasy Team`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Scout%20Your%20Athletics%20Fantasy%20Team) | [Analyze athletics data to find new ways to scout and assess jumpers and throwers.](https://www.datacamp.com/projects/177)|
+| <img src="https://static.datacamp.com/static/3a2970c6141f92247c0f9a88f193d1a0/47ffe/project_image.png" width="150"> | [`TV, Halftime Shows, and the Big Game`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | [Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.](https://www.datacamp.com/projects/691)|
+
+
+
+
+
 </center>
 
 
