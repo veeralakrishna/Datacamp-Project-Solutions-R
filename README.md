@@ -42,13 +42,14 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | <img src="https://assets.datacamp.com/production/project_177/img/project_image.png" width="150"> | [`Scout your Athletics Fantasy Team`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Scout%20Your%20Athletics%20Fantasy%20Team) | [Analyze athletics data to find new ways to scout and assess jumpers and throwers.](https://www.datacamp.com/projects/177)|
 | <img src="https://static.datacamp.com/static/3a2970c6141f92247c0f9a88f193d1a0/47ffe/project_image.png" width="150"> | [`TV, Halftime Shows, and the Big Game`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | [Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.](https://www.datacamp.com/projects/691)|
 | <img src="https://static.datacamp.com/static/6cef7a0c5b8bf061ebdb044e0cce49dc/47ffe/project_image.png" width="150"> | [`Visualizing Inequalities in Life Expectancy`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/Visualizing%20Inequalities%20in%20Life%20Expectancy) | [Compare life expectancy across countries and genders with ggplot2](https://www.datacamp.com/projects/166)|
+| <img src="https://static.datacamp.com/static/2d729e9d6b5d58e9ea6309a4a1dc0f7a/dfddf/project_image.png" width="150"> | [`What Makes a Pokémon Legendary?`](https://github.com/veeralakrishna/DataCamp-Portofolio-Project-Solutions--R/tree/master/What%20Makes%20a%20Pok%C3%A9mon%20Legendary_
+) | [Use tree-based machine learning methods to identify the characteristics of legendary Pokémon.](https://www.datacamp.com/projects/712)|
 
 
 
 
 
 </center>
-
 
 
 
